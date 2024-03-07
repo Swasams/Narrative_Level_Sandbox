@@ -1,0 +1,29 @@
+{
+	"identifier": "Level_1",
+	"uniqueIdentifer": "76a3fc80-d7b0-11ee-8724-1dc7be5ba01e",
+	"x": 80,
+	"y": -192,
+	"width": 96,
+	"height": 256,
+	"bgColor": "#696A79",
+	"neighbourLevels": [
+		{
+			"levelIid": "35c79ee0-b0a0-11ee-80e9-77d5ce0cd097",
+			"dir": "s"
+		},
+		{
+			"levelIid": "276023b0-d7b0-11ee-8724-5f947c4477ee",
+			"dir": "n"
+		}
+	],
+	"customFields" : {},
+	"layers": [
+		"Room.png",
+		"Monsterground.png",
+		"Monsterroom.png",
+		"Dungeondecor.png",
+		"Roomdeco.png",
+		"Tiles.png"
+	],
+	"entities" : {}
+}
