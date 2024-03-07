@@ -7,11 +7,24 @@ public class PlayerMovement : MonoBehaviour
     public Transform groundCheck; // Reference to a GameObject to check if the player is grounded
     public LayerMask groundMask; // Mask of the ground layer
     public Animator animator; // Reference to the animator component
-
+    [SerializeField] private float verticalSpeed = 5f; // Speed of vertical movement
+    [SerializeField] private bool allowJumping = true;
     private Rigidbody2D rb;
     private bool isGrounded;
+    private float verticalInput;
     //private bool isJumping;
-    private bool isLanding;
+    private bool isLanding; public float VerticalSpeed
+    {
+        get { return verticalSpeed; }
+        set { verticalSpeed = value; }
+    }
+
+    public bool AllowJumping
+    {
+        get { return allowJumping; }
+        set { allowJumping = value; }
+    }
+
 
     void Start()
     {
@@ -34,7 +47,7 @@ public class PlayerMovement : MonoBehaviour
         }
 
         // Jump
-        if (Input.GetKeyDown(KeyCode.Space) && isGrounded)
+        if (allowJumping && Input.GetKeyDown(KeyCode.Space) && isGrounded)
         {
             rb.velocity = new Vector2(rb.velocity.x, jumpForce);
             //isJumping = true;
@@ -45,14 +58,16 @@ public class PlayerMovement : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.E))
         {
             animator.SetTrigger("Punch");
-        }
+        } 
+        verticalInput = Input.GetAxisRaw("Vertical");
+        rb.velocity = new Vector2(rb.velocity.x, verticalInput * moveSpeed);
     }
 
     void FixedUpdate()
     {
         // Check if the player is grounded
         //isGrounded = Physics2D.OverlapCircle(groundCheck.position, 0.1f, groundMask);
-
+        animator.SetFloat("VerticalSpeed", rb.velocity.y);
         // Reset the landing trigger if the player is no longer landing
         if (isGrounded && !isLanding)
         {

@@ -3,10 +3,12 @@ using UnityEngine;
 public class NPCHealth : MonoBehaviour
 {
     public float maxHealth = 100f; // Maximum health
-    private float currentHealth;   // Current health
-
+    private float currentHealth; 
+    public Animator animator; // Current health
+    public bool IsAlive = true;
     void Start()
     {
+        
         currentHealth = maxHealth; // Initialize current health
     }
 
@@ -19,7 +21,10 @@ public class NPCHealth : MonoBehaviour
         if (currentHealth <= 0)
         {
             // NPC is defeated, perform any necessary actions (e.g., play death animation, deactivate NPC)
-            gameObject.SetActive(false);
+            //gameObject.SetActive(false);
+            IsAlive = false;
+            animator.SetTrigger("Death");
+
         }
     }
 }
