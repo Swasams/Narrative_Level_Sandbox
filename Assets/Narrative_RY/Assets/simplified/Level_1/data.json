@@ -15,8 +15,8 @@
 	"customFields" : {},
 	"layers": [
 		"Ground.png",
-		"Other_Dec.png",
 		"Props.png",
+		"Wall.png",
 		"Prop2.png",
 		"Props3.png",
 		"Doors.png"
