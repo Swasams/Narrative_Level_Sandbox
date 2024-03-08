@@ -38,7 +38,7 @@
 	"backupRelPath": null,
 	"levelNamePattern": "Level_%idx",
 	"tutorialDesc": null,
-	"customCommands": [{ "command": "../../Library/LDtkTilesetExporter/ExportTilesetDefinition.exe \"Assets\"", "when": "AfterSave" }],
+	"customCommands": [{ "command": "../../Library/LDtkTilesetExporter/ExportTilesetDefinitionMac.sh \"Assets\"", "when": "AfterSave" }],
 	"flags": [],
 	"defs": { "layers": [
 		{
@@ -245,7 +245,7 @@
 			"intGridValues": [
 				{ "value": 1, "identifier": null, "color": "#E4A672", "tile": null, "groupUid": 0 },
 				{ "value": 2, "identifier": null, "color": "#EAD4AA", "tile": null, "groupUid": 0 },
-				{ "value": 3, "identifier": null, "color": "#BE4A2F", "tile": null, "groupUid": 0 },
+				{ "value": 5, "identifier": null, "color": "#727F92", "tile": null, "groupUid": 0 },
 				{ "value": 4, "identifier": null, "color": "#417DF0", "tile": null, "groupUid": 0 }
 			],
 			"intGridValuesGroups": [],
