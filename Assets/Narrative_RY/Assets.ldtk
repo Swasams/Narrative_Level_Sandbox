@@ -38,7 +38,7 @@
 	"backupRelPath": null,
 	"levelNamePattern": "Level_%idx",
 	"tutorialDesc": null,
-	"customCommands": [{ "command": "../../Library/LDtkTilesetExporter/ExportTilesetDefinitionMac.sh \"Assets\"", "when": "AfterSave" }],
+	"customCommands": [{ "command": "../../Library/LDtkTilesetExporter/ExportTilesetDefinition.exe \"Assets\"", "when": "AfterSave" }],
 	"flags": [],
 	"defs": { "layers": [
 		{
