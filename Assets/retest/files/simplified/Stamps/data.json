@@ -1,0 +1,15 @@
+{
+	"identifier": "Stamps",
+	"uniqueIdentifer": "a2adc280-66b0-11ec-9cd7-efc1cc2829ad",
+	"x": -1,
+	"y": -1,
+	"width": 272,
+	"height": 256,
+	"bgColor": "#222225",
+	"neighbourLevels": [],
+	"customFields" : {},
+	"layers": [
+		"IntGrid.png"
+	],
+	"entities" : {}
+}
