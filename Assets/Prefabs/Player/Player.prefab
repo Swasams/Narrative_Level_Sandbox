@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 5708445809193592098}
   - component: {fileID: 2000360831805205390}
   - component: {fileID: 1020033725644039063}
-  m_Layer: 8
+  m_Layer: 3
   m_Name: DustTrail
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4839,7 +4839,7 @@ GameObject:
   - component: {fileID: 1116258687991599309}
   - component: {fileID: 2434568083363442824}
   - component: {fileID: 6709261758325662728}
-  m_Layer: 8
+  m_Layer: 3
   m_Name: Sprite
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4902,15 +4902,15 @@ SpriteRenderer:
   m_SortingLayerID: -267891021
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: -71292143, guid: fd6ad9337aa8b9749bbcd30bba1d4bea, type: 3}
+  m_Sprite: {fileID: 1257813216, guid: 5705833e0d46fbf42bf4b3a2d9daba41, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 0.16, y: 0.16}
+  m_Size: {x: 0.16, y: 0.22}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 1
 --- !u!95 &6709261758325662728
@@ -4949,7 +4949,7 @@ GameObject:
   - component: {fileID: 5485857012069643343}
   - component: {fileID: 6252946893354523304}
   - component: {fileID: 3940512509676381526}
-  m_Layer: 8
+  m_Layer: 3
   m_Name: Player
   m_TagString: Player
   m_Icon: {fileID: 0}
@@ -5092,9 +5092,9 @@ Rigidbody2D:
   m_ExcludeLayers:
     serializedVersion: 2
     m_Bits: 0
-  m_Interpolate: 0
+  m_Interpolate: 1
   m_SleepingMode: 1
-  m_CollisionDetection: 0
+  m_CollisionDetection: 1
   m_Constraints: 4
 --- !u!61 &7594321229456677105
 BoxCollider2D:

@@ -26,11 +26,6 @@ public class MainMenu : MonoBehaviour
         MusicManager.Instance.PlayMusic("Gameplay");
     }
 
-    public void Quit()
-    {
-        Application.Quit();
-    }
-
     public void UpdateMusicVolume(float volume)
     {
         audioMixer.SetFloat("MusicVolume", volume);
@@ -78,5 +73,10 @@ public class MainMenu : MonoBehaviour
         controlsGroup.SetActive(false);
 
         settingsGroup.SetActive(true);
+    }
+
+    public void Quit()
+    {
+        Application.Quit();
     }
 }
