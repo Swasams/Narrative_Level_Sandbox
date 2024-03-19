@@ -39,7 +39,7 @@
 	"levelNamePattern": "Level_%idx",
 	"tutorialDesc": null,
 	"customCommands": [{
-		"command": "../../Library/LDtkTilesetExporter/ExportTilesetDefinitionMac.sh \"Victoria2\"",
+		"command": "../../Library/LDtkTilesetExporter/ExportTilesetDefinition.exe \"Victoria2\"",
 		"when": "AfterSave"
 	}],
 	"flags": [],
