@@ -5,6 +5,14 @@ TagManager:
   serializedVersion: 2
   tags:
   - Ground
+  - Teleporter
+  - UI
+  - Health
+  - Door
+  - Closed
+  - Lights
+  - SFX
+  - BGM
   layers:
   - Default
   - TransparentFX
@@ -12,7 +20,7 @@ TagManager:
   - Ground
   - Water
   - UI
-  - 
+  - Walls
   - 
   - 
   - 
