@@ -1,0 +1,5488 @@
+fileFormatVersion: 2
+guid: 2aeb0835ae832c9458546bf4fdf89ea7
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: f3268c876daf4890b6af6cd462063137, type: 3}
+  _reimportOnDependencyChange: 1
+  _pixelsPerUnit: 16
+  _sprites:
+  - name: Room_Builder_free_16x16_0
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 352
+      width: 16
+      height: 16
+    spriteID: 7bb1ba86d3167f448bde42997a808cae
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 352
+      width: 16
+      height: 16
+    spriteID: 051da8b7ad671f04483684cd97c632d2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 352
+      width: 16
+      height: 16
+    spriteID: 7ebd5de0e4b5f034a9182864257f4c41
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 352
+      width: 16
+      height: 16
+    spriteID: 8aaada003083fcd47a25cdf6b24e603c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 352
+      width: 16
+      height: 16
+    spriteID: 995c0051e546fad479e7eb0e5362b855
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 352
+      width: 16
+      height: 16
+    spriteID: 8eff263b071ecb747b47ba008f2d5385
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 352
+      width: 16
+      height: 16
+    spriteID: bd8faae1bec40cd4888e98606e338cfd
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 352
+      width: 16
+      height: 16
+    spriteID: cdbecf9378ad40d4895fc27ff59d1003
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 352
+      width: 16
+      height: 16
+    spriteID: cf6a2cdfcea80b647b82fb1f2f75295e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_9
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 352
+      width: 16
+      height: 16
+    spriteID: 6636d9909042461449612713e9bfa596
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_10
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 352
+      width: 16
+      height: 16
+    spriteID: ce8f379de67eac34ebb95c580f758cb2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_11
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 352
+      width: 16
+      height: 16
+    spriteID: c45920c966ccdb8478b8568aa59f452a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_12
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 352
+      width: 16
+      height: 16
+    spriteID: de36ca16edf6e83499b66d2b0244fc7f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_13
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 352
+      width: 16
+      height: 16
+    spriteID: de16e899fa0eafa4d97e832fc98d5fa8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_14
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 352
+      width: 16
+      height: 16
+    spriteID: 2875a5ff1f1c2f448a2d2d8bb8b50efb
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_15
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 352
+      width: 16
+      height: 16
+    spriteID: c095b6ebc25268e43ba7efffd2c160b7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_16
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 352
+      width: 16
+      height: 16
+    spriteID: 1c1ff17c3ad8c354f9a0730a477ae124
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_17
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 336
+      width: 16
+      height: 16
+    spriteID: 4ddf8eabee7666f4fa51848a04c291ac
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_18
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 336
+      width: 16
+      height: 16
+    spriteID: 201f6737f7790a84283daa86b498e37c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_19
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 336
+      width: 16
+      height: 16
+    spriteID: 7a209b861cf290a40bae4827e15dce9f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_20
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 336
+      width: 16
+      height: 16
+    spriteID: 060a7b35f96a0e1458b2f51e296a3f65
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_21
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 336
+      width: 16
+      height: 16
+    spriteID: 46bdb9544700fd74c8b0e88823dde540
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_22
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 336
+      width: 16
+      height: 16
+    spriteID: 0b7c561bb1165b04db5745de68b7fe66
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_23
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 336
+      width: 16
+      height: 16
+    spriteID: 0ef42f432b99dc44a80197c777519d20
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_24
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 336
+      width: 16
+      height: 16
+    spriteID: 4ed1baad28d92fa40a30643c7f25580b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_25
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 336
+      width: 16
+      height: 16
+    spriteID: 835678e8ef0adcc4c9590b2679c2b905
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_26
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 336
+      width: 16
+      height: 16
+    spriteID: 61a28df7959ea3444a4ae914c5239d2a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_27
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 336
+      width: 16
+      height: 16
+    spriteID: 9939f231859ef6846bbc3f13611098fd
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_28
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 336
+      width: 16
+      height: 16
+    spriteID: 99ff805aa0ed9c74dbb45eb5e8713d47
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_29
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 336
+      width: 16
+      height: 16
+    spriteID: 86636f804d835c94fbb518083868a445
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_30
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 336
+      width: 16
+      height: 16
+    spriteID: e69d2a59cd7d90d4f89a26467c1af30d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_31
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 336
+      width: 16
+      height: 16
+    spriteID: 2425fac2e72a29e44b3322dc83b63a63
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_32
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 336
+      width: 16
+      height: 16
+    spriteID: 64e1850ab9300214eafddb579acd8785
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_33
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 336
+      width: 16
+      height: 16
+    spriteID: 880268b867356654cb5e45c6d4063e1d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_34
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 320
+      width: 16
+      height: 16
+    spriteID: 6aa07ae2cbf976d48b3b724bc038f68e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_35
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 320
+      width: 16
+      height: 16
+    spriteID: 46cd71817c2f31f499d4e6eac28594b1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_36
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 320
+      width: 16
+      height: 16
+    spriteID: 92f0be634caf2f145bf0d991345d5dc0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_37
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 320
+      width: 16
+      height: 16
+    spriteID: 6e9b09bb6c483c341bea3095a24b9928
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_38
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 320
+      width: 16
+      height: 16
+    spriteID: 6a11963660e7f214c8fecf9648491561
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_39
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 320
+      width: 16
+      height: 16
+    spriteID: c070854e1fd2cba42b8e25f6ad8aeb4b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_40
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 320
+      width: 16
+      height: 16
+    spriteID: 346f1017ba280d942881b755fa44512e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_41
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 320
+      width: 16
+      height: 16
+    spriteID: 7612d18a705cdb94baa2309737559863
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_42
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 320
+      width: 16
+      height: 16
+    spriteID: f7cc4b7183ff0ee45b0fe591ebe84157
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_43
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 320
+      width: 16
+      height: 16
+    spriteID: 5b998a53fd65b5c4e9cd01065da38714
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_44
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 320
+      width: 16
+      height: 16
+    spriteID: 5a61ee80d599b9541b8c8a9db6e846b0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_45
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 320
+      width: 16
+      height: 16
+    spriteID: b88ddd182d4c94e4e8687aeb130c6538
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_46
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 320
+      width: 16
+      height: 16
+    spriteID: 7b105c5d854a6aa4c938746998f1b72c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_47
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 320
+      width: 16
+      height: 16
+    spriteID: a913f84be5531ed4181af9429f16d770
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_48
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 320
+      width: 16
+      height: 16
+    spriteID: e5b48ffed18f8f54e8cd40554ba10649
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_49
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 320
+      width: 16
+      height: 16
+    spriteID: 9db55ad5c73978347a3c9e05ca5bdcc7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_50
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 320
+      width: 16
+      height: 16
+    spriteID: 6540108837e61c1489a9530b2c9843f4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_51
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 304
+      width: 16
+      height: 16
+    spriteID: 7bd478b86b3ec05488e9d5ca9ca571b0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_52
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 304
+      width: 16
+      height: 16
+    spriteID: 7d69a2594fb9af5438126ccc9e5f8409
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_53
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 304
+      width: 16
+      height: 16
+    spriteID: 9406cc9887055604b9b3137c3a3e0def
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_54
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 304
+      width: 16
+      height: 16
+    spriteID: 372aba5f063485c4198af70060c5eaee
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_55
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 304
+      width: 16
+      height: 16
+    spriteID: 3cdb66e426dc55e4fba81540876ffba1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_56
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 304
+      width: 16
+      height: 16
+    spriteID: 9d71b5e47302e65479af6960a17e9c54
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_57
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 304
+      width: 16
+      height: 16
+    spriteID: 88dd4dbf969dfbf49b4c4bf282f8444e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_58
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 304
+      width: 16
+      height: 16
+    spriteID: c4ff06b28d89f8c45a08f86b21e2ed46
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_59
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 304
+      width: 16
+      height: 16
+    spriteID: ad9b6ccc9d2373e4885514581e70c4ac
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_60
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 304
+      width: 16
+      height: 16
+    spriteID: 6952ea3406f482a4c97f92affc15ab05
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_61
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 304
+      width: 16
+      height: 16
+    spriteID: 6757b8a006306e340a045d4a48558e1e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_62
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 304
+      width: 16
+      height: 16
+    spriteID: 4a68ddd946fd3ff4fb705cbd2c6a5733
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_63
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 304
+      width: 16
+      height: 16
+    spriteID: a52899ae89ac0da4aa1aa34fa58d700a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_64
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 304
+      width: 16
+      height: 16
+    spriteID: a4e0cd26c4310c241bcea96d7e22caa0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_65
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 304
+      width: 16
+      height: 16
+    spriteID: 3a00853ea3844f649bb0d75700c32d3b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_66
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 304
+      width: 16
+      height: 16
+    spriteID: 5f2b1093d5d43c84a9c06659dd79806b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_67
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 304
+      width: 16
+      height: 16
+    spriteID: 27db6becad999da4dbde82df6cc4d5dd
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_68
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 288
+      width: 16
+      height: 16
+    spriteID: 42eb06a7b50c6f2479ac813fd8181990
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_69
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 288
+      width: 16
+      height: 16
+    spriteID: 321d825c877796a41b5d85b39e9134bd
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_70
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 288
+      width: 16
+      height: 16
+    spriteID: 8f98fcdef6144d64aaafa963f43691cc
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_71
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 288
+      width: 16
+      height: 16
+    spriteID: 7b1869c73a2c8454aa1cdca2ea97ca5c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_72
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 288
+      width: 16
+      height: 16
+    spriteID: 2c4d2abb2f988634b96ab8f610a4aef3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_73
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 288
+      width: 16
+      height: 16
+    spriteID: f0125e0b06ac235458ffc5ed6d88a649
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_74
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 288
+      width: 16
+      height: 16
+    spriteID: f48a227bc46a2c648be45fb2e88e2886
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_75
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 288
+      width: 16
+      height: 16
+    spriteID: 82938b6da07abfb4c824529488ca761b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_76
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 288
+      width: 16
+      height: 16
+    spriteID: f3eba4aab7f4c4d46be24ede2b49a091
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_77
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 288
+      width: 16
+      height: 16
+    spriteID: 23929afe0cf92a845b1fd2b127440d9a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_78
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 288
+      width: 16
+      height: 16
+    spriteID: 70a6c0ef3628f1340ac26040827e8dfc
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_79
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 288
+      width: 16
+      height: 16
+    spriteID: c809fa1bbebfdd54ca6574f633efa60e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_80
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 288
+      width: 16
+      height: 16
+    spriteID: 199f959ba5c3d5c4c9f38f0f28ebe8f7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_81
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 288
+      width: 16
+      height: 16
+    spriteID: 7f37c1c9ed8cf4842922b6d399e88660
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_82
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 288
+      width: 16
+      height: 16
+    spriteID: fb04749dc3f004f41bdf381668c9d23f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_83
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 288
+      width: 16
+      height: 16
+    spriteID: 3cfeb3235af3c1c4e830b80d109a46fe
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_84
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 288
+      width: 16
+      height: 16
+    spriteID: 0de3c7dc37af9ea428802a88a84bf9bb
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_85
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 272
+      width: 16
+      height: 16
+    spriteID: cae6d60fedb346341b7ed5dd10974b10
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_86
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 272
+      width: 16
+      height: 16
+    spriteID: 7751fd19a1d941d439bcd68e3951b55e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_87
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 272
+      width: 16
+      height: 16
+    spriteID: eff035515dbcd71468faa73b99e6010d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_88
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 272
+      width: 16
+      height: 16
+    spriteID: ffb001cfcb338904b97af118488b7989
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_89
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 272
+      width: 16
+      height: 16
+    spriteID: bf533c2b1bd4e2449bbb9b2f93312d99
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_90
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 272
+      width: 16
+      height: 16
+    spriteID: 91902dca9a61cf449aa928a7d1181f0c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_91
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 272
+      width: 16
+      height: 16
+    spriteID: 0d829787548edbf4da1d360632119029
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_92
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 272
+      width: 16
+      height: 16
+    spriteID: 1a2d36cbc7528d748a90190470e8617b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_93
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 272
+      width: 16
+      height: 16
+    spriteID: 6a86ea2b5b5376a409821a757bf56fb2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_94
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 272
+      width: 16
+      height: 16
+    spriteID: 435e9f8f34efdba42803685d12f2e7c4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_95
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 272
+      width: 16
+      height: 16
+    spriteID: c6be893a48681d046a8ca1d29fa7305c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_96
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 272
+      width: 16
+      height: 16
+    spriteID: 2f3b2e4836a2d6a4f8309c92b390c009
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_97
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 272
+      width: 16
+      height: 16
+    spriteID: 697458c830d376e418495e1768bfe9a5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_98
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 272
+      width: 16
+      height: 16
+    spriteID: 593176f687cad3a44af34a76339a4460
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_99
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 272
+      width: 16
+      height: 16
+    spriteID: 12a177a06cd8a1d4784e5ad120d49540
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_100
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 272
+      width: 16
+      height: 16
+    spriteID: 85f91decd5c986a4ebbaf57f0ee2aef6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_101
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 272
+      width: 16
+      height: 16
+    spriteID: 4271d181059ab3048914f4a0e31a6903
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_102
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 256
+      width: 16
+      height: 16
+    spriteID: de0845eeec868f44b8d4450f0146ee6f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_103
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 256
+      width: 16
+      height: 16
+    spriteID: b26838060c3abf3438547b3932c46bbc
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_104
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 256
+      width: 16
+      height: 16
+    spriteID: 8453e32c2084e7e42ba41842330ac086
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_105
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 256
+      width: 16
+      height: 16
+    spriteID: ce82610c638ae894f82c643995e745a8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_106
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 256
+      width: 16
+      height: 16
+    spriteID: bdb955dc5c33cd3409e9442d35dbe9f7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_107
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 256
+      width: 16
+      height: 16
+    spriteID: 3f17c613148fece4d9cd3717a9fc752c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_108
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 256
+      width: 16
+      height: 16
+    spriteID: bde574f30caa2734e8bdb5e002e8359c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_109
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 256
+      width: 16
+      height: 16
+    spriteID: 7b36e7b34222db14d91432347c7d0fd6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_110
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 256
+      width: 16
+      height: 16
+    spriteID: 23ec2a66baddde9488bb9953e49578d2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_111
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 256
+      width: 16
+      height: 16
+    spriteID: 0be0199ccffbe384e959bf6806b800a5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_112
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 256
+      width: 16
+      height: 16
+    spriteID: 28564f6eb93302f4eaef1dd271bf07e1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_113
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 256
+      width: 16
+      height: 16
+    spriteID: 40bf99ef4dc784f46ac1b2d71bcbe9df
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_114
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 256
+      width: 16
+      height: 16
+    spriteID: ae909a363347cd04fadcac3282dfe9d6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_115
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 256
+      width: 16
+      height: 16
+    spriteID: cef53c2b843b42f408638b6c3f8ef45e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_116
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 256
+      width: 16
+      height: 16
+    spriteID: 775eb3c24e89ea14593634f1f4be5f55
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_117
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 256
+      width: 16
+      height: 16
+    spriteID: 670eadf6f5656564b9bd11b3dbc50286
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_118
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 256
+      width: 16
+      height: 16
+    spriteID: 95587d7f0be7dc041a2d13101d93cffe
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_119
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 240
+      width: 16
+      height: 16
+    spriteID: 40291fde6eff42a448d297d5c259b069
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_120
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 240
+      width: 16
+      height: 16
+    spriteID: a17655dbff5054348b75d9f371e5de03
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_121
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 240
+      width: 16
+      height: 16
+    spriteID: 74a568ee59520444fbf5218aa5f21b12
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_122
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 240
+      width: 16
+      height: 16
+    spriteID: 494152cba5ec82644a3c9e74168a89a2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_123
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 240
+      width: 16
+      height: 16
+    spriteID: 1eb327860cc3208448510b55d4405144
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_124
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 240
+      width: 16
+      height: 16
+    spriteID: 25cbea83d886fc24e85c40cb9391759b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_125
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 240
+      width: 16
+      height: 16
+    spriteID: 166e04d28ca5f9245adff3c5fa95857b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_126
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 240
+      width: 16
+      height: 16
+    spriteID: b09f8b3ee92a56040b73f8d1045444ee
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_127
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 240
+      width: 16
+      height: 16
+    spriteID: b7b88fb849d3ba34eb8118c758914ec6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_128
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 240
+      width: 16
+      height: 16
+    spriteID: e7a88bcb4e99e724fb8c1547b40a2b23
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_129
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 240
+      width: 16
+      height: 16
+    spriteID: 632107d75baf7514a8b531def8475004
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_130
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 240
+      width: 16
+      height: 16
+    spriteID: 3e6695a41a2b8654cb108da15b7a9e41
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_131
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 240
+      width: 16
+      height: 16
+    spriteID: cf62a2e35c623de4681ae6d5a0e07a26
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_132
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 240
+      width: 16
+      height: 16
+    spriteID: caeee4f8e97b8c24bb302069aff2a6c0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_133
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 240
+      width: 16
+      height: 16
+    spriteID: 2fad10fb6bbb3f94ea5837dcf7f9ee34
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_134
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 240
+      width: 16
+      height: 16
+    spriteID: 7e5084be4731d364c8aa2f0f5b016ded
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_135
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 240
+      width: 16
+      height: 16
+    spriteID: 3903a3fbd262bfb4ab2ea1651ee56fe0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_136
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 224
+      width: 16
+      height: 16
+    spriteID: 0662381d4324a5d459f22501ef8b2b88
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_137
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 224
+      width: 16
+      height: 16
+    spriteID: 1e0bc66d9c8de6a408ada80149fad920
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_138
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 224
+      width: 16
+      height: 16
+    spriteID: 655c0b515c0acd349aa61fbddba8fcf0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_139
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 224
+      width: 16
+      height: 16
+    spriteID: a3cd02e64c5061d49b4c07e0afe3d01b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_140
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 224
+      width: 16
+      height: 16
+    spriteID: 6b9512dbc35173f4ca442dfc9f3a20ac
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_141
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 224
+      width: 16
+      height: 16
+    spriteID: 27fbabdfa62c0854cb64440fe48aefad
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_142
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 224
+      width: 16
+      height: 16
+    spriteID: a8db0d197adafcc4cbbb896cab8aac84
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_143
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 224
+      width: 16
+      height: 16
+    spriteID: 8db2ba8ba1e066749bdd6d933ded611a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_144
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 224
+      width: 16
+      height: 16
+    spriteID: cd55db477c8bde34188b904a647bf54d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_145
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 224
+      width: 16
+      height: 16
+    spriteID: 20f2a41febdb55a4bab0aedf6fbeeb9b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_146
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 224
+      width: 16
+      height: 16
+    spriteID: ea0dbb73a82a868459e48301eb5809c1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_147
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 224
+      width: 16
+      height: 16
+    spriteID: 796aab90ba2cc5444be351b0d5b3e3e7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_148
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 224
+      width: 16
+      height: 16
+    spriteID: 5a8ce62ba9e8d4b4d8c141371d060ab0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_149
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 224
+      width: 16
+      height: 16
+    spriteID: c77ab2902e422c6419b5da5f2cef3dd0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_150
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 224
+      width: 16
+      height: 16
+    spriteID: 8c9b16938c6f89140ae18f2b3939a568
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_151
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 224
+      width: 16
+      height: 16
+    spriteID: 782b1972a7fe55449a5f42404442c811
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_152
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 224
+      width: 16
+      height: 16
+    spriteID: 61a9e87d0272d4844bb8a9cae70dd669
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_153
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 208
+      width: 16
+      height: 16
+    spriteID: a730f623a657b69479d563760305be67
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_154
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 208
+      width: 16
+      height: 16
+    spriteID: ce1f6438b29431b4ea16891ae3bfa96b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_155
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 208
+      width: 16
+      height: 16
+    spriteID: f8a404df35f1602408426138ca875f6e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_156
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 208
+      width: 16
+      height: 16
+    spriteID: 69e15d3d2fcc89943abf8beaf3002675
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_157
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 208
+      width: 16
+      height: 16
+    spriteID: 1a75996bc1383d342a19d310eeb82816
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_158
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 208
+      width: 16
+      height: 16
+    spriteID: 42c431a060b25f4458d4b307e100a705
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_159
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 208
+      width: 16
+      height: 16
+    spriteID: 1420133988c0e944192866d42d143b33
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_160
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 208
+      width: 16
+      height: 16
+    spriteID: 58ec2cbd306b306499f45d796c891029
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_161
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 208
+      width: 16
+      height: 16
+    spriteID: e4cf4199d1070764e83b64f6ff3f640c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_162
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 208
+      width: 16
+      height: 16
+    spriteID: 5fbcb1af94894254e806be61c4399ed0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_163
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 208
+      width: 16
+      height: 16
+    spriteID: 9ea9c8bb6477db547bee87bad44bdac3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_164
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 208
+      width: 16
+      height: 16
+    spriteID: 17d5d946be6bbc64186afc0ed918d15b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_165
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 208
+      width: 16
+      height: 16
+    spriteID: 7f80942876605a545ae9a135f5a745c9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_166
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 208
+      width: 16
+      height: 16
+    spriteID: 4cefba91604a2ee4da59279d61412dba
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_167
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 208
+      width: 16
+      height: 16
+    spriteID: 5221038d34bfb9b448e3f3733aed4a56
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_168
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 208
+      width: 16
+      height: 16
+    spriteID: 2d9290061cec5b7459fc2be8f2765d2e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_169
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 208
+      width: 16
+      height: 16
+    spriteID: 4743766ce850e5b45890bfbf6bac1dba
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_170
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 23906fdd8a845e04cb66872daaf4e08c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_171
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 192
+      width: 16
+      height: 16
+    spriteID: aed0d5cac0a3da546b73445eb1a5accc
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_172
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 192
+      width: 16
+      height: 16
+    spriteID: b1f1e412eee53a4408294ea860df1cd6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_173
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 0ec78bf9470fd434484f601774a28a61
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_174
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 192
+      width: 16
+      height: 16
+    spriteID: c4e9d4b23f81fe44399fa38fa9603e1d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_175
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 34463d996c0bb5e41bdc1bc4fe5b77af
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_176
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 8a35f551b2afc7746bccbb24f9fabae4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_177
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 192
+      width: 16
+      height: 16
+    spriteID: d738f6a0177b33f4d8313b1ba48ba9d0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_178
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 33a0d22fd9957c140b28d9d5ee80a478
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_179
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 95f44182be6e16849a3a31048bc5f894
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_180
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 2a3d2e8506a75be4daff0118cb7e3740
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_181
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 00843608609d56344b4e94d3dda19a9b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_182
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 630af3cfefd79224981d327128c245f1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_183
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 192
+      width: 16
+      height: 16
+    spriteID: c2a6e0e1098218e498dbaab3252dde12
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_184
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 192
+      width: 16
+      height: 16
+    spriteID: b0bb2ed03f8dc044592d64d8c6e3935c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_185
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 4a1f16123acac534ca00a58b9af355ed
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_186
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 9cc3cce7efc87654f875908b60ca031e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_187
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 176
+      width: 16
+      height: 16
+    spriteID: 3e40a5b502b8b3545839ed83b41cb4d8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_188
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 176
+      width: 16
+      height: 16
+    spriteID: cbf2451a14549de49a162a936dce00cf
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_189
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 176
+      width: 16
+      height: 16
+    spriteID: 652d148977e468a4395eea01fa5e3237
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_190
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 176
+      width: 16
+      height: 16
+    spriteID: 2bde5b5cd862674468a94e76e4d96eab
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_191
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 176
+      width: 16
+      height: 16
+    spriteID: a301dc6b056656247a339dd9e242a554
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_192
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 176
+      width: 16
+      height: 16
+    spriteID: 4cb97eb3a9dcc5d458067370f192e08a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_193
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 176
+      width: 16
+      height: 16
+    spriteID: a5b6b3b52ea0c064580b80f415ca9884
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_194
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 176
+      width: 16
+      height: 16
+    spriteID: 1598f27eded5e524dabfba1682fe5b6e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_195
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 176
+      width: 16
+      height: 16
+    spriteID: 26c7700a05092854095992110c429caf
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_196
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 176
+      width: 16
+      height: 16
+    spriteID: c4231bd349f3f63438ad4c82287710b8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_197
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 176
+      width: 16
+      height: 16
+    spriteID: 645eea3b5eef4d341a92645472f50094
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_198
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 176
+      width: 16
+      height: 16
+    spriteID: b55d864992814ca4a92b486be22e6cf4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_199
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 176
+      width: 16
+      height: 16
+    spriteID: 7ba68999defda1d45881c87742a90652
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_200
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 176
+      width: 16
+      height: 16
+    spriteID: 98ba2b83f2f3f124eb41cf0d9bfd7147
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_201
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 176
+      width: 16
+      height: 16
+    spriteID: 4979176e8ec2b8a408c9d4b5940006af
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_202
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 176
+      width: 16
+      height: 16
+    spriteID: 05d7e588eae9ce94e8c9a0893f82b078
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_203
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 176
+      width: 16
+      height: 16
+    spriteID: 6e8ef85a2d301554291ae505de34c40d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_204
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 160
+      width: 16
+      height: 16
+    spriteID: fb3470b03de75e54c804fc79a3af5233
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_205
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 160
+      width: 16
+      height: 16
+    spriteID: e88eab1d258c01f4098202bea67bea45
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_206
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 8eb26df9a7eaea94d9e55be7b86a2532
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_207
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 829e11196510e2940866d3625b61b11c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_208
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 6dd955475e42e454abd0a4ba41204a6f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_209
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 5c63ec70643c3814caeb44fdbf26e392
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_210
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 5f172485ae4682d4b89dff97da88c5a0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_211
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 90ee4c2ed0ca15c4d862c5c459180de2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_212
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 160
+      width: 16
+      height: 16
+    spriteID: c22a7647f5904e241805b7bccd625a77
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_213
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 9760d0897ae268146b6c4773e7c13cba
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_214
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 18b1329a2386b0d4d9bf17da53195681
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_215
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 202fc954eebc34f4d981f46ea574f50f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_216
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 160
+      width: 16
+      height: 16
+    spriteID: f334d60698192924093be965193bab93
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_217
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 3e6c6d9f8eb12fd4ea28af6aa0ac1e99
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_218
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 5d7778aeb53956c42b25691add112782
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_219
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 36ffd024996196a40a8930e33251252e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_220
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 4ec0f39f70ac4d346923d7ffbc0cfc90
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_221
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 144
+      width: 16
+      height: 16
+    spriteID: 6c4b758aad5c03147bfa102df7e97ba0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_222
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 144
+      width: 16
+      height: 16
+    spriteID: 461fc8baf762e6d44b37db322c07da3a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_223
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 144
+      width: 16
+      height: 16
+    spriteID: 8d829f49e13c1a54886c92cacce6d0aa
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_224
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 144
+      width: 16
+      height: 16
+    spriteID: 5914344ba28aafd468728923820479dd
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_225
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 144
+      width: 16
+      height: 16
+    spriteID: 369192b569968574db7b22489a24bfb2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_226
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 144
+      width: 16
+      height: 16
+    spriteID: f1185aa43df2b604a8b444337f4492f4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_227
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 144
+      width: 16
+      height: 16
+    spriteID: 01b5aa406ec052d4f816c43d79c7f490
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_228
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 144
+      width: 16
+      height: 16
+    spriteID: 037230f33078f204d880b4a3b92fdada
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_229
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 144
+      width: 16
+      height: 16
+    spriteID: a2a29ee6d6033e443a04b8a2241a305d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_230
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 144
+      width: 16
+      height: 16
+    spriteID: 6c0e0b6b7d7eb9049a36895c358eba0c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_231
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 144
+      width: 16
+      height: 16
+    spriteID: 4f665fd962b7fc2408f92f929435999d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_232
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 144
+      width: 16
+      height: 16
+    spriteID: 01dcc8ca3cf76de409be99e213c8b712
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_233
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 144
+      width: 16
+      height: 16
+    spriteID: c74a64bf67e2bea46b33cf23a3893a27
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_234
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 144
+      width: 16
+      height: 16
+    spriteID: 8d13db4fb2dd6d3419d86e911ad80755
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_235
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 144
+      width: 16
+      height: 16
+    spriteID: 6210405df9114ca4397d9f162c9c6361
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_236
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 144
+      width: 16
+      height: 16
+    spriteID: 806fd73a22dcb1c4d8487d7696645b21
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_237
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 144
+      width: 16
+      height: 16
+    spriteID: eada093bff5dddf4cbbcdb4b398cf5d5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_238
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 128
+      width: 16
+      height: 16
+    spriteID: bfd545c8681826f4fab2d813a735c89d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_239
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 128
+      width: 16
+      height: 16
+    spriteID: 3db891630c98e8e4587863ce36634c2f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_240
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 128
+      width: 16
+      height: 16
+    spriteID: 05e47a41c35cc2c4987a6f644f0b5547
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_241
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 128
+      width: 16
+      height: 16
+    spriteID: 5602c41de7c4d3a46b55b5dae0d5b1d9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_242
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 128
+      width: 16
+      height: 16
+    spriteID: c4275a54c4c46db40a61f60dd67fd36d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_243
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 128
+      width: 16
+      height: 16
+    spriteID: f4d47b8e5434fd84d932ac43a6e1c37c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_244
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 128
+      width: 16
+      height: 16
+    spriteID: 2c3448c9755199c4ba0d00d9ad9a5fd3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_245
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 128
+      width: 16
+      height: 16
+    spriteID: c7f6227c2dfbc7e4faade85d8bcbc6e6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_246
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 128
+      width: 16
+      height: 16
+    spriteID: ae0d5b765acdeaa4ea09f3bb4b3fedff
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_247
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 128
+      width: 16
+      height: 16
+    spriteID: dc1936beb7e07be46995d8d5d7667ff8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_248
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 128
+      width: 16
+      height: 16
+    spriteID: 0eb08087749313541bc1fa36c0e3e262
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_249
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 128
+      width: 16
+      height: 16
+    spriteID: be4de2d375472714ba0b5ffd0c6d1ccc
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_250
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 128
+      width: 16
+      height: 16
+    spriteID: 606096d7da54d994a9f0e3f48dbcce62
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_251
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 128
+      width: 16
+      height: 16
+    spriteID: 0b25a4f8e6ae3214883aef32fa3a47ad
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_252
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 128
+      width: 16
+      height: 16
+    spriteID: 4016f207c764fe0479ec4ea0f3fc302a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_253
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 128
+      width: 16
+      height: 16
+    spriteID: e10549ab2a8cffd44b0cd515569861df
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_254
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 128
+      width: 16
+      height: 16
+    spriteID: 2f7bebbc9b0aa7543b1ee945e9a91865
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_255
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 08f07dba440c9a74faed303743f2b9eb
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_256
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 112
+      width: 16
+      height: 16
+    spriteID: b79295d59755bea44b6dd06ca5e2bcd0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_257
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 38360f670868f7e4fb84002027cbc69f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_258
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 112
+      width: 16
+      height: 16
+    spriteID: b8c15d3640df6fa4a9f309b3176b1f0f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_259
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 81f855ba8dca20e4d9458f750dc3d41e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_260
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 40abe94c454acb349af5b8e5912b032f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_261
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 1db4744faca530d4d9b5701b47573e1e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_262
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 1c4467c2b0d752e459265667f2cae849
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_263
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 112
+      width: 16
+      height: 16
+    spriteID: fb231b938debb8e49bd18b99c19e9e7d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_264
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 112
+      width: 16
+      height: 16
+    spriteID: dd015bcb6d1d5354486c6d5ab37d84ee
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_265
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 99ac73fb457282841943e12aaa6cd22c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_266
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 7bdfe10f42765c24aae5fe1f1d10973c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_267
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 820ecbc1533c5824c9f35acaf417dc09
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_268
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 112
+      width: 16
+      height: 16
+    spriteID: c3eac8a3d207c27458696e5fd2cddc4f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_269
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 112
+      width: 16
+      height: 16
+    spriteID: cfe0b3fd72790be408a0beb4288ff9d1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_270
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 7bdf6f88b74fe7b4f8660fb8e5b1e083
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_271
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 564039c41a52b0540b2ebadb43266cbf
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_272
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 4bd9143abcfc4ec45b7be542a2ab2b09
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_273
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 3b849e426f78c10448770340caf93188
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_274
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 7dc9153cdc68b5547bf98462624c52d4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_275
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 96
+      width: 16
+      height: 16
+    spriteID: caa838758d8b7e140862ec7955821b27
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_276
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 96
+      width: 16
+      height: 16
+    spriteID: f1a920f09d4f3da43b906ef0e098ee99
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_277
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 0bfde443d7690df4d9282083a1f8f286
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_278
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 43b95c9c105a7fa4887d0b0f6b990afb
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_279
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 31a18839a5eea8e4ca8252a16c18d91a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_280
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 24704ab3c25c88a468024a34668b0897
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_281
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 0e0b7569dbf7401489c65d2d25dc2955
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_282
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 99f7cf9def70cae43b37dfd7ed625ea2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_283
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 83dadabf3f79c6343be2d909eceb1e1b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_284
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 96
+      width: 16
+      height: 16
+    spriteID: d98449a8c4c1b6b449e58969721a0249
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_285
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 7836556d6f11f92479f5ea1a63bbb41f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_286
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 37a8af71055e5e5489ee714988fcf988
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_287
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 96
+      width: 16
+      height: 16
+    spriteID: e0cbde02311e99d44b05e591ce48a0e3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_288
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 96
+      width: 16
+      height: 16
+    spriteID: deacea1a54e73794aae5a360dd7a8fa2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_289
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 80
+      width: 16
+      height: 16
+    spriteID: fd500751932294143b22a4b1ee95b78d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_290
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 5be89a5508fab0e4ab213b80095cad9e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_291
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 80
+      width: 16
+      height: 16
+    spriteID: a99ae53bd7709fb438bbbe81160480b6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_292
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 70ece589d7cc6f342b5e893bef392a8d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_293
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 57362bd54447aab408564f7e889ca2d0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_294
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 80
+      width: 16
+      height: 16
+    spriteID: d7f6522ca90103346b86fddf214708f2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_295
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 80
+      width: 16
+      height: 16
+    spriteID: b97919fc13ffdff4aa85267c7c5806c3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_296
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 80
+      width: 16
+      height: 16
+    spriteID: d5e10c8b396233142990b286518c36a6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_297
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 555726363931d564d9a952fae5f7bee7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_298
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 83f4d00272b8d77448747b20e4314cb5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_299
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 99e5856a63b07d64987e3a9a7359e75c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_300
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 6cd11f69a587890459e2b7fe8ed915ff
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_301
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 80
+      width: 16
+      height: 16
+    spriteID: c83fc9a0a42512c4c86c38eddc40bbc7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_302
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 6741651f25efa1f4b833bbf137e7ac58
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_303
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 667c74a24a7b67f4487a390bb0e91fe6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_304
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 10e09ed69bbb3f446bb032b92330f6e1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_305
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 5572b97f6adbe954f8188cd069c67b1e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_306
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 73d0e709606852c4594488517835625f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_307
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 24b90a720bdfabc4a8a8290eb837d261
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_308
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 64
+      width: 16
+      height: 16
+    spriteID: f5a9752372064c64e85da0bccbe5d025
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_309
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 363f563c48948df41aeab1556f758be5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_310
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 64
+      width: 16
+      height: 16
+    spriteID: aa09af7af27dc7f42aaa7ec652795c66
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_311
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 64
+      width: 16
+      height: 16
+    spriteID: e2c4d2ac36ae70444bdd897dde4086c4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_312
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 64
+      width: 16
+      height: 16
+    spriteID: bc45ce98e4aeb6743abdba129364c1b7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_313
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 64
+      width: 16
+      height: 16
+    spriteID: bc362b67a4a3f1c4fa411368415db5c9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_314
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 3f76bcc0cbea0da41b23887ebacdafae
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_315
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 88fba75451aa7124899f84db8e35a930
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_316
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 4178a9f63d7b2a74ab123052a0cc3bcd
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_317
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 769bc794620741747b0de71f5fb20daf
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_318
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 37b1e0d48d30cc54f9a0482b86b4f165
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_319
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 4e6562099c4cd5545b2875474c9fabae
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_320
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 562bf6aba2f1dc34f9a7472f2c46a19d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_321
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 64
+      width: 16
+      height: 16
+    spriteID: f35143a7b59de9e42afc64ca6698e311
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_322
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 64
+      width: 16
+      height: 16
+    spriteID: d91b9659ac7caa94faf511b5a45d0664
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_323
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 48
+      width: 16
+      height: 16
+    spriteID: b3b730cfc1054c14598070cdeab55c87
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_324
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 48
+      width: 16
+      height: 16
+    spriteID: bccc439b85e74064b9ae9619bab541eb
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_325
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 7ece9fb656e460b4ba7e731c4db0e717
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_326
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 9c904b54769e94447b0d1777b5f3cbdb
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_327
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 22ae0448db18fdd489912f2212fab5af
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_328
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 60e346ad28c73cb4d81f9d31790f079e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_329
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 7b66e42f40f790e4f8044a0346a6f41f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_330
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 7a767d8bb928ba441a7bf59a1d0456d4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_331
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 48
+      width: 16
+      height: 16
+    spriteID: d5a0b53910b16aa4497397c36a339cd4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_332
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 2d9c30772afbb4844926d05f2ff0ae94
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_333
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 338a6e548e936b94798aec6e1f770100
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_334
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 5731a2bc7c4f7f046905fcc4759a36a2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_335
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 9002d0fd392645d45bd80f4d87766050
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_336
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 80d288acb15d47d4d9a53090611a1461
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_337
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 48
+      width: 16
+      height: 16
+    spriteID: acbbe573f06d42949885d0e4d9d2518c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_338
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 0bd3b95347633df49850a8404aa6221d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_339
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 48
+      width: 16
+      height: 16
+    spriteID: ad0c5f73f8a3c474abedba29cab7a568
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_340
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 32
+      width: 16
+      height: 16
+    spriteID: bc758f08873bac04a9c56c8fb8d3a9d4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_341
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 837f1bde60d9d784daa951b766f73313
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_342
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 9aaa9676ae8dfc142a4e221504834aec
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_343
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 2d444d23580c1744cad9a95585e4b87f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_344
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 381f8d849599768439a8cacc6d6cf1eb
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_345
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 9b1549c92784e2445a5f1ee338ab00fa
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_346
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 8e395d9c0db65c043861a03f6b1e0063
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_347
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 3bd8a56569240f544be87561832a8700
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_348
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 5eaf1bb486a9ef94c8dc6ae57e6da2fe
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_349
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 17e719330cddc8b43b882a762e42fc01
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_350
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 32
+      width: 16
+      height: 16
+    spriteID: e048bf08c60f21543aa9addd90b9b6fa
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_351
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 84c9e2f42c4f5ca44897f204050c47b0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_352
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 19e3518fafe88354f90b3d8dd229e602
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_353
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 02154d42b34391847843cc021750875d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_354
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 32
+      width: 16
+      height: 16
+    spriteID: a724c1d200a836348aea7c6972f6d8f0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_355
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 1797032ec8a094e4b9a04777d8134317
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_356
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 616237eb075526b44a996e19ce388e81
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_357
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 8ea9f81741346424f8695be97ee294e7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_358
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 16
+      width: 16
+      height: 16
+    spriteID: e668837c1788cd74d9486516ad337c3f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_359
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 37104060121152e4b893c9b37681b309
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_360
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 79b84ac294fb1a144aedfc2b0a3a0761
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_361
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 16
+      width: 16
+      height: 16
+    spriteID: ada27ab957ed2b8439f9ddeac8457a17
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_362
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 2c395f1b0c9592b49bba52c659992547
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_363
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 7d341e31613353c4bac70afb76f0b4dd
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_364
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 1e57d92154f351646b2b6102048855b1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_365
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 0b485b4f5ffa23b4a9c39a6713aa00f6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_366
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 16
+      width: 16
+      height: 16
+    spriteID: ea89a4d809ee6214aaec83a0a9523a22
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_367
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 4f796488980df754097e426bba1e0282
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_368
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 88d22340e6cb19743a022700d9acef24
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_369
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 18713b9cb825ecf43bb174a97413dde7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_370
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 44f7b83f767b3d64db0138d473a521e2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_371
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 16
+      width: 16
+      height: 16
+    spriteID: b205828b84f6dca45ba39b546c28a7a0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_372
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 7c222ec4b993f994a8afc5fbe458f1b6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_373
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 00af960671749fc4e95a87d7c0a801d1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_374
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 16
+      height: 16
+    spriteID: b04075410362cc040b9f6c016a290793
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_375
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 0
+      width: 16
+      height: 16
+    spriteID: ee65784f2aad21f429332f96471bd321
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_376
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 0
+      width: 16
+      height: 16
+    spriteID: c280a55adb9728f45839f282de7f8e9a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_377
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 50e922344d22d68448db8d2c8e3b9183
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_378
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 0
+      width: 16
+      height: 16
+    spriteID: e5b965709fa4af446b3a53f655f42854
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_379
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 06180ea5ce6d21945913e1c269b496af
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_380
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 0
+      width: 16
+      height: 16
+    spriteID: f695ee8dc33cd694e8be49238b2ccd17
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_381
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 0b54e1b624702a346844b8e2d245c09b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_382
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 0
+      width: 16
+      height: 16
+    spriteID: ddac284d105885740a8704d92689365d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_383
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 0
+      width: 16
+      height: 16
+    spriteID: e29e920ddab1a5d46ad3a4f15f69c104
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_384
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 08d56fec72c6f5e44bb1076de834608f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_385
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 3908826d1a9a941488a129ef1eec513b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_386
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 00cd1a0bb8c7bce4a97b5e91fc4e1f95
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_387
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 0
+      width: 16
+      height: 16
+    spriteID: aa6a5374e29596943a70c664e22cc1cc
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_388
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 91795536ef3b29449ac7c947905988cc
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_389
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 42a1aede2b52aaf47852afa95c21210a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Room_Builder_free_16x16_390
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 919578560d4d0bd4d86a58c09171a448
+    spriteOutline: []
+    tessellationDetail: 0
+  _secondaryTextures: []
