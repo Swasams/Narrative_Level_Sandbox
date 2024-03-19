@@ -50,7 +50,6 @@ public class PlayerMovement : MonoBehaviour
         if (allowJumping && Input.GetKeyDown(KeyCode.Space) && isGrounded)
         {
             rb.velocity = new Vector2(rb.velocity.x, jumpForce);
-            //isJumping = true;
             animator.SetTrigger("Jump");
         }
 
@@ -58,16 +57,35 @@ public class PlayerMovement : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.E))
         {
             animator.SetTrigger("Punch");
-        } 
+        }
+
         verticalInput = Input.GetAxisRaw("Vertical");
         rb.velocity = new Vector2(rb.velocity.x, verticalInput * moveSpeed);
+
+        // Set vertical animation triggers
+        if (verticalInput > 0) // Moving up
+        {
+            animator.SetBool("MovingUp", true);
+            animator.SetBool("MovingDown", false);
+        }
+        else if (verticalInput < 0) // Moving down
+        {
+            animator.SetBool("MovingUp", false);
+            animator.SetBool("MovingDown", true);
+        }
+        else // Not moving vertically
+        {
+            animator.SetBool("MovingUp", false);
+            animator.SetBool("MovingDown", false);
+        }
     }
+
 
     void FixedUpdate()
     {
         // Check if the player is grounded
         //isGrounded = Physics2D.OverlapCircle(groundCheck.position, 0.1f, groundMask);
-        animator.SetFloat("VerticalSpeed", rb.velocity.y);
+        
         // Reset the landing trigger if the player is no longer landing
         if (isGrounded && !isLanding)
         {
