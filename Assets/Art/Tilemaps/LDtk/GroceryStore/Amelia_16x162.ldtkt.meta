@@ -1,0 +1,4718 @@
+fileFormatVersion: 2
+guid: 4c2367ff6ec3b3f4d9a494ec997e41ad
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: f3268c876daf4890b6af6cd462063137, type: 3}
+  _reimportOnDependencyChange: 1
+  _pixelsPerUnit: 16
+  _sprites:
+  - name: Amelia_16x162_0
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 208
+      width: 16
+      height: 16
+    spriteID: 98c1604847ac2504389506e7bd55ca8a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 208
+      width: 16
+      height: 16
+    spriteID: df183a2f394d58a4eb7e9420f8eb3b7c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 208
+      width: 16
+      height: 16
+    spriteID: d7980e10a42136e4aaaa4c2def884a59
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 208
+      width: 16
+      height: 16
+    spriteID: 286afda2aa5c0ef419dae7ac0b17298d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 208
+      width: 16
+      height: 16
+    spriteID: 6acb11eca718a904fb5328e479913b85
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 208
+      width: 16
+      height: 16
+    spriteID: fd3d290ba6c06a74c8af019ee78bb6d7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 208
+      width: 16
+      height: 16
+    spriteID: 55cdc81a6ef7e6e4b8d3d85f2254f2e2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 208
+      width: 16
+      height: 16
+    spriteID: a94155338f1d5974091a629408aedd39
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 208
+      width: 16
+      height: 16
+    spriteID: 09c5d4d503333f74bb29a37f88bdb7ca
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_9
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 208
+      width: 16
+      height: 16
+    spriteID: c429e0ddd05f8354fabe4bce814850a3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_10
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 208
+      width: 16
+      height: 16
+    spriteID: 2d9dd7b6d57144f46a9ac7617984d236
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_11
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 208
+      width: 16
+      height: 16
+    spriteID: 3b029e075e2732e43814ebed55a77be2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_12
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 208
+      width: 16
+      height: 16
+    spriteID: be4d549641dab1c4d85d3c4834e19a53
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_13
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 208
+      width: 16
+      height: 16
+    spriteID: f440f85af64e8e946bdbf1bc4cc0bcf1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_14
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 208
+      width: 16
+      height: 16
+    spriteID: 227181a43d5bedd48ad1721115d42fcb
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_15
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 208
+      width: 16
+      height: 16
+    spriteID: a741997cb68fbfe4991982f84ece35b1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_16
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 208
+      width: 16
+      height: 16
+    spriteID: 8642c3b7253bc4a4f8144675e6da7589
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_17
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 208
+      width: 16
+      height: 16
+    spriteID: 61d874c404d8c754bbec787fd99a981f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_18
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 208
+      width: 16
+      height: 16
+    spriteID: 3da558038c4006844a6f10239bebe0fd
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_19
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 304
+      y: 208
+      width: 16
+      height: 16
+    spriteID: bbc5eaf98e7c41146b9b9a1f7ad1bfab
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_20
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 320
+      y: 208
+      width: 16
+      height: 16
+    spriteID: 3ac13d47b3afde54aab640c0b3d7740a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_21
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 336
+      y: 208
+      width: 16
+      height: 16
+    spriteID: ef4911f66dd301e44a70131cf5bca918
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_22
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 352
+      y: 208
+      width: 16
+      height: 16
+    spriteID: c6460feaae30e354ebe543d440ee694d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_23
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 368
+      y: 208
+      width: 16
+      height: 16
+    spriteID: 2031fee6b5884b74b823849f831fc40b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_24
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 192
+      width: 16
+      height: 16
+    spriteID: c7d7dd8698ecea546a67d7435133b4ae
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_25
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 192
+      width: 16
+      height: 16
+    spriteID: a9d36128a73017d4bb06e77224ea768d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_26
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 7b2b3cdee34fd2b41bfc844fc8159c35
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_27
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 0272fbd1acb65f4498d03451df5dad9c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_28
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 192
+      width: 16
+      height: 16
+    spriteID: e498d2679f9cda04c879a5a7ab8cd8b6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_29
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 3d819e27e16b11b4c9fcdc87926f3d7a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_30
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 8d334ad4a1cbc1f46a23da9fd42036ec
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_31
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 3fe660ee0a016b74899b752a151324d9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_32
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 6914200d372ff1d408b252c46038500a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_33
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 192
+      width: 16
+      height: 16
+    spriteID: a899be48f19b8e6459c53e7abfeae121
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_34
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 544e1caef1868784fa9f925efbf52062
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_35
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 403c13c7cbbb83d40938e40269499210
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_36
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 192
+      width: 16
+      height: 16
+    spriteID: eb27575061e2d59479328382d6ffd709
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_37
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 26b5303cb8e89ec4e844e1ad525dc2ba
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_38
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 371360835bf69284ab8ef5d8bcbc00bd
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_39
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 3ad4a1027674ae544896d2b2e507316e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_40
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 226560b3201d6d54684775ef0e0ce991
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_41
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 6c33821413f8c374ca82775073526245
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_42
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 192
+      width: 16
+      height: 16
+    spriteID: ce4d8103a6e8cc542964449a9ad46c45
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_43
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 304
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 64c5c67bff7daa444961a58e635f834b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_44
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 320
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 12f6122bc70a1fe489c6a38a2e4e0af0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_45
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 336
+      y: 192
+      width: 16
+      height: 16
+    spriteID: d1276d1b35a260d489838c39f2215fe7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_46
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 352
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 4c3ea2bb7bc0f1c4984c118ecedaf3a6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_47
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 368
+      y: 192
+      width: 16
+      height: 16
+    spriteID: fe06c9651692a7a4f80898b80772cb5b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_48
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 176
+      width: 16
+      height: 16
+    spriteID: 07802efcd64fc4f43afd83be6e0638b8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_49
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 176
+      width: 16
+      height: 16
+    spriteID: a3c9a299bb9e06a409689f41baa02963
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_50
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 176
+      width: 16
+      height: 16
+    spriteID: 5ad58aa495211da4b89f5173db5f0217
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_51
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 176
+      width: 16
+      height: 16
+    spriteID: 6dc310ca4cd7d3d498e2bfbd5e58e0b4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_52
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 176
+      width: 16
+      height: 16
+    spriteID: ad4730c3d88539e4192f8bc41304d6ed
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_53
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 176
+      width: 16
+      height: 16
+    spriteID: ba4899f5287354e4cba0e6e9b516a0d8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_54
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 176
+      width: 16
+      height: 16
+    spriteID: 9a6489e60b0f9f94f9173a0cd5e148ae
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_55
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 176
+      width: 16
+      height: 16
+    spriteID: fc8480501c4455e4cb913a1b997eb5c8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_56
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 176
+      width: 16
+      height: 16
+    spriteID: 11fc55ee55fbf034fa6cdf24558a1744
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_57
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 176
+      width: 16
+      height: 16
+    spriteID: 4ec25fed9945f2b45a05d7c9a5b7bcee
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_58
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 176
+      width: 16
+      height: 16
+    spriteID: 9bbb89374d39a9540b1881dc8fd00e92
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_59
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 176
+      width: 16
+      height: 16
+    spriteID: 8a2e575930e14cc4497f6b51b811c8fa
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_60
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 176
+      width: 16
+      height: 16
+    spriteID: 7f76ac5b3c1904347b76fbce683ed048
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_61
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 176
+      width: 16
+      height: 16
+    spriteID: 9e63f5d347724d347a0f4627cdc8f913
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_62
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 176
+      width: 16
+      height: 16
+    spriteID: 23e05610771ac1c49aa21248b34ac336
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_63
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 176
+      width: 16
+      height: 16
+    spriteID: ea6dd74ce7c460a4e9ba1305d6b3e36c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_64
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 176
+      width: 16
+      height: 16
+    spriteID: 6e75cb587e5ff714ab00b83b88cb1ae6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_65
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 176
+      width: 16
+      height: 16
+    spriteID: 81c0a84e0e766f1409127da0817e663f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_66
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 176
+      width: 16
+      height: 16
+    spriteID: 538fde8284f43fa4181ef673cc9b97b2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_67
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 304
+      y: 176
+      width: 16
+      height: 16
+    spriteID: d687ff314ab84904c84d18a5ccf5daac
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_68
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 320
+      y: 176
+      width: 16
+      height: 16
+    spriteID: 5d6ffe0a89e4f7c43b1f86bfc4d362c6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_69
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 336
+      y: 176
+      width: 16
+      height: 16
+    spriteID: 45b4297756095e848b90f05ed6f4ed81
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_70
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 352
+      y: 176
+      width: 16
+      height: 16
+    spriteID: 49087e108e47f084fa252881c030cf38
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_71
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 368
+      y: 176
+      width: 16
+      height: 16
+    spriteID: 3cd0f2890b4e7e846a02eae809e57586
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_72
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 160
+      width: 16
+      height: 16
+    spriteID: dafe3c625c9df844c9c7a9cc757ee786
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_73
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 6c0228caa4dac1c46914c16ccd8209a5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_74
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 55c374fc89a75a749a1cf87d5758d07a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_75
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 160
+      width: 16
+      height: 16
+    spriteID: d3955a9fa0b387440a655abba8685d80
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_76
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 562ecf290c1a05d42b3080f6f1b3ca73
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_77
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 3bd1d278e49316546864b760204a3c70
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_78
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 8d0a7814053da1f4ab84490b52e36cd4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_79
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 34dcf4a699c17564e9194cb5d4908271
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_80
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 160
+      width: 16
+      height: 16
+    spriteID: b2f037109cc9104409f1ea2871a8447a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_81
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 7a64310f8c82bee458deb232e5eb3488
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_82
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 160
+      width: 16
+      height: 16
+    spriteID: e31eb8f9ff04f814e9a4c0f351429f6d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_83
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 160
+      width: 16
+      height: 16
+    spriteID: b6100e2a4f95ba24ab29b7baed96f0b1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_84
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 3faf667f4b3439744aeec13da93eb741
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_85
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 5463d69835eea734cbc0bb63c9827fd3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_86
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 49047064d77f67b47bb8e734c83651ab
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_87
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 160
+      width: 16
+      height: 16
+    spriteID: c608bd856e6fe1e42b952c0bc9689a27
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_88
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 077fd1f3cc5ba4948a2af49f4dbf331e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_89
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 160
+      width: 16
+      height: 16
+    spriteID: b3d6c652c63c75942a64b7e5fe58395c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_90
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 2d5da8162687a6e4da7c26c46f27ad7d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_91
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 304
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 83921069e79fbdb4885e9e1094a338ca
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_92
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 320
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 4020fa49a58f99844b62c7e9ba826cd0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_93
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 336
+      y: 160
+      width: 16
+      height: 16
+    spriteID: b41e38a317195f2468dc91c06b2e82d2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_94
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 352
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 1ccb0e16cc094f148aa8675e44c8f1a2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_95
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 368
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 3b07174dc4ed66044a7d06a487e6efaa
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_96
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 144
+      width: 16
+      height: 16
+    spriteID: e63f027006fc0a94b8e50e0559a884ff
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_97
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 144
+      width: 16
+      height: 16
+    spriteID: 013bee3d2c6e08a43b1f0b1079934e5a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_98
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 144
+      width: 16
+      height: 16
+    spriteID: 135c181474a766d4e9def828d7bfc601
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_99
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 144
+      width: 16
+      height: 16
+    spriteID: 122ddb21a3a42bf4cb6ea94bf0db7ca7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_100
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 144
+      width: 16
+      height: 16
+    spriteID: 2a9bd10a86f48194b9478a53f6314cea
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_101
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 144
+      width: 16
+      height: 16
+    spriteID: a4ac67c51466b0f40b91e05ac6ac1161
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_102
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 144
+      width: 16
+      height: 16
+    spriteID: f77c0731869ee6f4d9e3d59ca5ca5e42
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_103
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 144
+      width: 16
+      height: 16
+    spriteID: 99db3031fb14b634893e933a0751c2cc
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_104
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 144
+      width: 16
+      height: 16
+    spriteID: fd0789fabf46b014a8ef45b7f18c5624
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_105
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 144
+      width: 16
+      height: 16
+    spriteID: cf128bd12c6aecd468b76c87ef33885f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_106
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 144
+      width: 16
+      height: 16
+    spriteID: 7533f4838e2f2f741be9513da6fbd52b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_107
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 144
+      width: 16
+      height: 16
+    spriteID: edcc37d8fe74be84fa6f9d940195fbed
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_108
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 144
+      width: 16
+      height: 16
+    spriteID: 311027d883e7cb94fb6e98e634b6c4ed
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_109
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 144
+      width: 16
+      height: 16
+    spriteID: d5e3598e7938dc844bdf73d65af4a2e2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_110
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 144
+      width: 16
+      height: 16
+    spriteID: 9df0c916f82e6d14e86a39416f6d5933
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_111
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 144
+      width: 16
+      height: 16
+    spriteID: fd66e082f99d8b9478ce3fc38a9aa392
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_112
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 144
+      width: 16
+      height: 16
+    spriteID: 03ddcdd751caf2848b3babefeb439d81
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_113
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 144
+      width: 16
+      height: 16
+    spriteID: f10b714aa08267349956fd913fcb5ccb
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_114
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 144
+      width: 16
+      height: 16
+    spriteID: 484e89a9dc241794990041884fc78d95
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_115
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 304
+      y: 144
+      width: 16
+      height: 16
+    spriteID: 14b88b6dedf5fad4e852232f056494aa
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_116
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 320
+      y: 144
+      width: 16
+      height: 16
+    spriteID: 75ebede35a81cde44be25920d485862e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_117
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 336
+      y: 144
+      width: 16
+      height: 16
+    spriteID: f8f9bb8371a89ba4bb03bb34431837f8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_118
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 352
+      y: 144
+      width: 16
+      height: 16
+    spriteID: 59d2a4fbf688ded4cab7675e0c7c5299
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_119
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 368
+      y: 144
+      width: 16
+      height: 16
+    spriteID: f6a3c700d11f90740abc4443e5ce38bc
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_120
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 128
+      width: 16
+      height: 16
+    spriteID: 18edc6e2282aa6642960086aa7b56d7e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_121
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 128
+      width: 16
+      height: 16
+    spriteID: 627a2537550e88746abbf3d42fe203a3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_122
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 128
+      width: 16
+      height: 16
+    spriteID: ec5f934b04ec12d47ab4def374291c31
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_123
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 128
+      width: 16
+      height: 16
+    spriteID: 33a0a38e6a8a04a418a33a4609497956
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_124
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 128
+      width: 16
+      height: 16
+    spriteID: f0b1a67a629308148aafc50168a8c6a9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_125
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 128
+      width: 16
+      height: 16
+    spriteID: ba419a705225fda498ca0d72bdb08c7b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_126
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 128
+      width: 16
+      height: 16
+    spriteID: ec527b335872bf34e80a75eef56b3e16
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_127
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 128
+      width: 16
+      height: 16
+    spriteID: cffe6723872b8f54ab62823b581ed905
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_128
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 128
+      width: 16
+      height: 16
+    spriteID: be9f4fc902f6f6948ac2fdd085aae209
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_129
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 128
+      width: 16
+      height: 16
+    spriteID: 88bdd57867863c7448503e346cd1b47a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_130
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 128
+      width: 16
+      height: 16
+    spriteID: a409ff361b6346947ae23a621fc45453
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_131
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 128
+      width: 16
+      height: 16
+    spriteID: 300b9b8910b863542921555e35f20cee
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_132
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 128
+      width: 16
+      height: 16
+    spriteID: 6d013f5d2246e584c8700798e17fedb2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_133
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 128
+      width: 16
+      height: 16
+    spriteID: c95dc73ece4483c44a6ee281fda887dc
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_134
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 128
+      width: 16
+      height: 16
+    spriteID: 05e0f8dbcf34e8a46adfcac779a0c807
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_135
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 128
+      width: 16
+      height: 16
+    spriteID: 957e1aa78f49b88498a32a3bbb267479
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_136
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 128
+      width: 16
+      height: 16
+    spriteID: ac2cae18a377d744abb924868f1be922
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_137
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 128
+      width: 16
+      height: 16
+    spriteID: 4229a83f8b573f44f8579433b9464497
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_138
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 128
+      width: 16
+      height: 16
+    spriteID: 115ad6419283aa0449021399ae78390b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_139
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 304
+      y: 128
+      width: 16
+      height: 16
+    spriteID: dac987320e21b05409f48e5ea53de71e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_140
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 320
+      y: 128
+      width: 16
+      height: 16
+    spriteID: 7455ca085986b254f87bd0e89150965b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_141
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 336
+      y: 128
+      width: 16
+      height: 16
+    spriteID: 0de1527ea79655f42a79f0fdeb7f4324
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_142
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 352
+      y: 128
+      width: 16
+      height: 16
+    spriteID: 05e44caa5e5dbed4399e098e654bd1ec
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_143
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 368
+      y: 128
+      width: 16
+      height: 16
+    spriteID: 46af75187eee0264cbc1271a06b9ded2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_144
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 7ad45c234b695594d857a73ec78dfc2d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_145
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 112
+      width: 16
+      height: 16
+    spriteID: cae4f8ecbbe3550419a7d5e2e550b57a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_146
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 64f0bcb55b3261749bd1371ae94274ec
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_147
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 0a613bfd485a55d41b37f673225b984e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_148
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 78831f2f0caefca48b7beb03f78ccb42
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_149
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 112
+      width: 16
+      height: 16
+    spriteID: ccd98f4e5ff6c3f4eb14dd7d528e6038
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_150
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 112
+      width: 16
+      height: 16
+    spriteID: ba3937d7f789b694684e5f07554d1877
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_151
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 059f66b025d7de442a3022f77ac439c0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_152
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 00d4504b5552f95459d452e0487326f2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_153
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 1846b42ec2614db4c90c5ee5deffde17
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_154
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 112
+      width: 16
+      height: 16
+    spriteID: c0cc6e61b8080c24284324a2159128e4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_155
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 9dcaacf477a466e4ca43bc19e8ed9838
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_156
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 08b367731e2d21249ab088fa7a3e65fc
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_157
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 8cd7c773e1e28964195a988cc439e0df
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_158
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 9d4f1779235f40c4a90ba39cdbfa44ed
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_159
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 112
+      width: 16
+      height: 16
+    spriteID: bdb9d81bfa1487c4c954763f5bd62982
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_160
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 112
+      width: 16
+      height: 16
+    spriteID: c09fc3ce7b445f746ad66fc3a5dec6b4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_161
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 535710d8fae5d074dbc60183d9b693c6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_162
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 3d6b3272c9aaba540b025af4cc6f70f7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_163
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 304
+      y: 112
+      width: 16
+      height: 16
+    spriteID: e339dc0dae490474fb7a29952a4cdba3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_164
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 320
+      y: 112
+      width: 16
+      height: 16
+    spriteID: b6c560d2b34fac74fa5224eee34bf21f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_165
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 336
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 9b639cd3da54f964d816865a5b25c0c3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_166
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 352
+      y: 112
+      width: 16
+      height: 16
+    spriteID: d884655378e28484c8bfde77aed888b8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_167
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 368
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 413795f6f38912b438d0d00cdbc3402e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_168
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 525aa0f40202d0a4aa329b53158cf7e0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_169
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 0fdb3c1b32193144c88adfbe6e948417
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_170
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 239e2fc50b2548c42b053e05c4b1666e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_171
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 032bb95755f644246bb58c40dd6cf46f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_172
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 1f488bad5590b4a409c43e79b5964631
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_173
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 64360f99945abaa4aa8be10eddfd359e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_174
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 66b41ec43523a4e4697c3a8f1c8b5f09
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_175
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 16130607f4e3b954e879d1ef848439e7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_176
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 255a2fdc912774c4f94c00b73ce4c1b8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_177
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 9617fefe16dd931439da2102d9332828
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_178
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 96
+      width: 16
+      height: 16
+    spriteID: e8146294638fcee42842349701f61867
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_179
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 75a1296d0d4fc0d4c8be85a077bcb165
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_180
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 2add6abdb4a173f4eabccb09f1edd9d1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_181
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 96
+      width: 16
+      height: 16
+    spriteID: c5635106ec37d774db6ef2d8b445d424
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_182
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 96
+      width: 16
+      height: 16
+    spriteID: c6bf8e7a3db2bde43bd4bd9392874672
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_183
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 87b26f45148fd1f40b12c602ab343271
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_184
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 511013f6cfe869d4183a010ea9f14ba4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_185
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 96
+      width: 16
+      height: 16
+    spriteID: e1001d3adf64d094da751edb345c2b0f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_186
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 91747a64611418e4f91b5e5b0c82fddc
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_187
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 304
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 42652a85086cb464488b281e537fe407
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_188
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 320
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 37acb07ecbf97434f808e14f9ba1cfdc
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_189
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 336
+      y: 96
+      width: 16
+      height: 16
+    spriteID: e98aa3c316ed1ab4ca841aa091587d03
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_190
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 352
+      y: 96
+      width: 16
+      height: 16
+    spriteID: f76903fa53ef613428776c686cc4dc67
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_191
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 368
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 7dedb173d70c1b8438e06c96172624ec
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_192
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 1549057a2ae8f6c47841dfb54e2fe8a7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_193
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 3ef210ed71d46064c807f91309da873d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_194
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 80
+      width: 16
+      height: 16
+    spriteID: df79d24a7b07bc0499fd7b48383244e0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_195
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 80
+      width: 16
+      height: 16
+    spriteID: e41b6acef74500b429e15c526b1414ea
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_196
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 0c4f2192145b47945907c4206c587c5c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_197
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 7044957c8080e3b4cb3a79d8621345ed
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_198
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 80
+      width: 16
+      height: 16
+    spriteID: c5eb16e678773814693b2f729fc2d5ab
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_199
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 0738c4b2953f35941bf5e2d1b48e82d6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_200
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 46178b178aae79347b43a8e4ecf7a29f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_201
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 80
+      width: 16
+      height: 16
+    spriteID: daf6308aa928f3b45bb54ea1cddcf706
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_202
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 9feb409fddf96d04ba4344538e0bcab9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_203
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 80
+      width: 16
+      height: 16
+    spriteID: faedff73858007e4dbb1749ab62353e1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_204
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 80
+      width: 16
+      height: 16
+    spriteID: cdffa64f8720b5944b1e471d5ec5c571
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_205
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 80
+      width: 16
+      height: 16
+    spriteID: d8b4a974c02905b4e80eb4e62b4567dc
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_206
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 80
+      width: 16
+      height: 16
+    spriteID: b5e707fb911ec5649ae201c9e3c8c1c7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_207
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 80
+      width: 16
+      height: 16
+    spriteID: a2b87b2b51d502e4a85a6a12d3fb7ece
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_208
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 3f939414475f18747a443a0dfa0d88fe
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_209
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 78c4cd82ea3eec444a176411e7d44e22
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_210
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 55096ad8af081af4b8ce857e2c3439fb
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_211
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 304
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 920e7bb7adfa93e48ae0d00a58e9ff28
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_212
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 320
+      y: 80
+      width: 16
+      height: 16
+    spriteID: c3b587a780e464744867ba295912d861
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_213
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 336
+      y: 80
+      width: 16
+      height: 16
+    spriteID: b341ee69045107448997a0b2827abfca
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_214
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 352
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 549fa9c0443cc4f44ba38f282c510cc2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_215
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 368
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 422bfa9be5f8caf45adc671023362ca8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_216
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 93da088ae4a402c49a8a20622d3d4665
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_217
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 64
+      width: 16
+      height: 16
+    spriteID: edaeb02ebaef832408319c4daa09a546
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_218
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 68e559f779869374c8ed0432d455a512
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_219
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 9150b17fbc6b94f45b928b62be2c56e7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_220
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 1683f36dd5f7767418528d420901c3e8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_221
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 48d542bc04f68194faacce76ca3bf37f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_222
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 5575c2c0a92cb1b40a4d575cd0a0369e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_223
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 70ac2ff470bb31343bb56b0fd7e35f24
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_224
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 4d77b8b240f7e6444871acaed822655c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_225
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 8e4607192129d8542a63a51af445204b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_226
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 45422350169f6924685e47c7fc13ed6c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_227
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 4631efc052e82f34da550b97f994e9c2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_228
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 1f0054227a33552418a7dceb72c290d9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_229
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 68e44c668a5f6424e80084763f983940
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_230
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 64
+      width: 16
+      height: 16
+    spriteID: fc75cf87a8f39b14cbcf59d4abd7af29
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_231
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 64
+      width: 16
+      height: 16
+    spriteID: f979106ed4ea04d4d8788bd261f0d8ae
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_232
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 64
+      width: 16
+      height: 16
+    spriteID: c5910c8d28c47b543b0859fe5aa3ea03
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_233
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 64
+      width: 16
+      height: 16
+    spriteID: b7ba95f79bb9e6349a8095bafb7e7725
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_234
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 30598720fc96afa4a857e5c17d61ac48
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_235
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 304
+      y: 64
+      width: 16
+      height: 16
+    spriteID: e95d6b760151c1948922380f4edd611c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_236
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 320
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 083a5338cbbda9c48aaa5938b0205ad9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_237
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 336
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 68496189e253ab44587061e2abc17af0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_238
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 352
+      y: 64
+      width: 16
+      height: 16
+    spriteID: d8663ffc726657749a1018e636ac3542
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_239
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 368
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 21f0795cf8dc48f408c6c758672877cd
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_240
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 751c174aeb86c6b4a901d81f373bb0cf
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_241
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 4a6af65b96b8a344cafd6d1a16daee13
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_242
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 3eb2bf180bb51cb43902936f6f43b906
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_243
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 3e1f71aabf651b44fb45294272fce1fb
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_244
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 48
+      width: 16
+      height: 16
+    spriteID: fb256b1d6c260e741859c864c732f88b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_245
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 7f2dba0ea8edba94faece0aea001217b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_246
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 7ed2dcbdf6c154544aa4d7f4d829666f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_247
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 87b079fae1f43b448a67f512d16b1994
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_248
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 48
+      width: 16
+      height: 16
+    spriteID: c8a352a7b62715f429eb4da69322468a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_249
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 48
+      width: 16
+      height: 16
+    spriteID: b32db1de3dbd27a478366a67d0aea38c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_250
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 5520954953a70c643950875d10ba61b9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_251
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 48
+      width: 16
+      height: 16
+    spriteID: af7c869460f436943a24ac8652e3a0b6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_252
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 8b9d3120160489b4090de539347c99cc
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_253
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 48
+      width: 16
+      height: 16
+    spriteID: f10d5cc88bbd58b47b0f221ec91a836a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_254
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 48
+      width: 16
+      height: 16
+    spriteID: d57b2624596f87f4980ea7ce02204102
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_255
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 83704284beb293f48a4d5bc10b7a30ea
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_256
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 528bb63c2a100eb43a439c3dce638e8e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_257
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 3b6d348435e83604183f3ee3726266e8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_258
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 4ad32d70b5bd2474599820edfa69fa08
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_259
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 304
+      y: 48
+      width: 16
+      height: 16
+    spriteID: b2a2d5f898b329c4580ad4db78d9431d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_260
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 320
+      y: 48
+      width: 16
+      height: 16
+    spriteID: d79d8a7d3d4d98e498b5960766ae2dd2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_261
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 336
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 8c2e9d3e6ba6f0b49bddd35404b4c468
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_262
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 352
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 56b7fac6d112fc34bb6eec89e055457a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_263
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 368
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 8c2a1b0128c27ed4b92942b6d032be24
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_264
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 1f2a6ea0e3f75bf458b1fbc5448122a0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_265
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 810a0c17b58c7ba4c810b0a2a140afb9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_266
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 474d574dd637e80468b9be0f1d3a8e94
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_267
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 32
+      width: 16
+      height: 16
+    spriteID: ed331b9cfeed2d44690adf9868482c23
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_268
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 32
+      width: 16
+      height: 16
+    spriteID: d217726bd7a35544bb7389c900b8fdfe
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_269
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 32
+      width: 16
+      height: 16
+    spriteID: bff691b3888ec2747b621474661b2669
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_270
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 7dfa33e68f51da843a44d6702fd6327c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_271
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 09f1994db00e3bd4e890ba9b93325ac0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_272
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 5121e9fd0b2d0ea4484da66f6f197991
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_273
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 32
+      width: 16
+      height: 16
+    spriteID: d3fbee81fa5bdac47a2b4834fffe9403
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_274
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 25ae742b9e435844793bebaed531216d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_275
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 32
+      width: 16
+      height: 16
+    spriteID: c00468424edbc014a942231322d04005
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_276
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 6a87f552a6d64544c96c92d22a60e1a3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_277
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 869a5fbf68059a44da43b93cc605a559
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_278
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 0a1067fe3a39ce244962952cbf762b28
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_279
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 32
+      width: 16
+      height: 16
+    spriteID: b13362a55d5eeb844be1ad22aec1b678
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_280
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 32
+      width: 16
+      height: 16
+    spriteID: a8996a6ff923a304db009b082409caa2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_281
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 53d3bad79a33ba048b2429189840cdb3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_282
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 32
+      width: 16
+      height: 16
+    spriteID: db1fdbb9c49fead4db91d106a2e080d1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_283
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 304
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 18254b9ec8f8b3a458937cd8d1cfe8f8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_284
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 320
+      y: 32
+      width: 16
+      height: 16
+    spriteID: c4b7a15e415a8334a80372298dfafc04
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_285
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 336
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 54c102a2fe51fd64aa406ba21d408a31
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_286
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 352
+      y: 32
+      width: 16
+      height: 16
+    spriteID: b510974943c583c4ebfa917e54613114
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_287
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 368
+      y: 32
+      width: 16
+      height: 16
+    spriteID: bf5acb801092e0f49a7f432bdab75f49
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_288
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 68b0ecc74e71f2b4cbd4f2ce2a02f80e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_289
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 37708afb6b8fc8a4b886d315182b4c8c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_290
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 16
+      width: 16
+      height: 16
+    spriteID: ad1de4eee75eba640ab767cdebd05ac0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_291
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 20ff1b79c24570943ac4d1ce5e1e2758
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_292
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 9a54c3180b58b10468b4f9be84c7524c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_293
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 6966a8348cb5187458210237163aaf4d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_294
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 112adc4371d6f8e4a8318b04cd6ebf53
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_295
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 3eba0d16a7b31b84ea9771bcad9eacf6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_296
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 16
+      width: 16
+      height: 16
+    spriteID: f786824d7a98ca34abe3ed47c7c94143
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_297
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 16
+      width: 16
+      height: 16
+    spriteID: b6c2290cd8302df4db84ee635256e321
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_298
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 16
+      width: 16
+      height: 16
+    spriteID: c5d54063052b07c4db5fa886a86b9334
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_299
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 16
+      width: 16
+      height: 16
+    spriteID: ec34a845022c3904fb37e94a11982f45
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_300
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 3ba0f1642d7ebe94598e33f8a7c97140
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_301
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 2beff512f3a68ab42ad4fadcbfc8494e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_302
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 284b7750fcd3ffa488fed28915bd1c1c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_303
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 16
+      width: 16
+      height: 16
+    spriteID: f63692c720c911d4fa36f597131e10ba
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_304
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 953626526bb8b104b81a99b28433a633
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_305
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 16
+      width: 16
+      height: 16
+    spriteID: d38d03b692be4d04cacaaecea86f88b0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_306
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 16
+      width: 16
+      height: 16
+    spriteID: ff4c1412f7e2da6469872be3feca2e9f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_307
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 304
+      y: 16
+      width: 16
+      height: 16
+    spriteID: bf672a44b9061174a991648009289d4c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_308
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 320
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 9de8a543c9fbc6c45955e3300114368f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_309
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 336
+      y: 16
+      width: 16
+      height: 16
+    spriteID: b6671a88664334a448fea5e0a748541a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_310
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 352
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 43d8fcf6b790269469e871b9493b0990
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_311
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 368
+      y: 16
+      width: 16
+      height: 16
+    spriteID: ec1c6aec09b957e4a831d49e56ae92bb
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_312
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 16
+      height: 16
+    spriteID: a8212b0f8a648044a81413d78bcd6380
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_313
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 20ccacff574dbff4683ca5fcf85f2b6c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_314
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 0
+      width: 16
+      height: 16
+    spriteID: df7ecefa79c273142be3cf62171aabbe
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_315
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 0
+      width: 16
+      height: 16
+    spriteID: cab7d642ac026e943bf63421eecd5424
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_316
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 317d691d3703b5e47bd234a3573c6db1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_317
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 0
+      width: 16
+      height: 16
+    spriteID: d4439ee41771e4540893aa26e991c036
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_318
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 6ae77c519107f2646913b23a87485ec3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_319
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 0
+      width: 16
+      height: 16
+    spriteID: b452c4b1192fbc74f80113eb9d735d32
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_320
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 82cf8930813fb2f42a9960a1d2572bde
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_321
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 6555b9562f5e68b4698af3cb6dc33954
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_322
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 0
+      width: 16
+      height: 16
+    spriteID: a646769177ce68f4eb599dfb473ea022
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_323
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 8eb9e2aee0215a0498a3a31a20db21c6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_324
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 294527ddb045506408a27a06d361ab7f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_325
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 0
+      width: 16
+      height: 16
+    spriteID: b48bdbfdfc510474ab20d37a7566db5e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_326
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 9ab6a546ff3399f45a8bfeb167d2a182
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_327
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 0
+      width: 16
+      height: 16
+    spriteID: cd2678795631ff64888ff3dba43c866b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_328
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 24ef9368935363442aacee084b7adb23
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_329
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 2727d9e90fe9d734da31345b6365e3d7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_330
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 0
+      width: 16
+      height: 16
+    spriteID: ad0bfa307a770b94a9cf74ee5d2f19c7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_331
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 304
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 884adb8d4d4e89541b0a7f1c1ca75cd1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_332
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 320
+      y: 0
+      width: 16
+      height: 16
+    spriteID: d1585c458e916b44ca8cb23a269ec9ee
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_333
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 336
+      y: 0
+      width: 16
+      height: 16
+    spriteID: ec3019e17231f5c4cb661b1bcce317dc
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_334
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 352
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 771ae0174fe42844c8c7c4e1e2f34bc0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Amelia_16x162_335
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 368
+      y: 0
+      width: 16
+      height: 16
+    spriteID: b79c21d9d82ac69479ff59fa604c5da3
+    spriteOutline: []
+    tessellationDetail: 0
+  _secondaryTextures: []

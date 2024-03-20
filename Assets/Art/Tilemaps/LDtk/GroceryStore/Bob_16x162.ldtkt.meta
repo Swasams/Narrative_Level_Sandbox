@@ -1,0 +1,4718 @@
+fileFormatVersion: 2
+guid: 788bd99c087dca4429d68e98b604146a
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: f3268c876daf4890b6af6cd462063137, type: 3}
+  _reimportOnDependencyChange: 1
+  _pixelsPerUnit: 16
+  _sprites:
+  - name: Bob_16x162_0
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 208
+      width: 16
+      height: 16
+    spriteID: c5ec9144dc341404098f0a8516badef6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 208
+      width: 16
+      height: 16
+    spriteID: 2167447be82491f4a8f760cdc8558202
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 208
+      width: 16
+      height: 16
+    spriteID: 2cf4fc4ab3e5291499c6d6fbdeb5948e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 208
+      width: 16
+      height: 16
+    spriteID: 2f64b70748a4254468b50915f13b3110
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 208
+      width: 16
+      height: 16
+    spriteID: a6fcd4dc92cce2e45b3452898af7f8b4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 208
+      width: 16
+      height: 16
+    spriteID: 0de27d3212d721142bec0c1f832451ac
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 208
+      width: 16
+      height: 16
+    spriteID: 1b8da0a37ceef6847a1e487b11c5823c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 208
+      width: 16
+      height: 16
+    spriteID: 5f7e9e8a7a392a54c864f88e5d0f7c1b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 208
+      width: 16
+      height: 16
+    spriteID: a7ac9edd5dc3d8c4b82a53583cc6851b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_9
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 208
+      width: 16
+      height: 16
+    spriteID: 404131e12caa454479537971b8dbc524
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_10
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 208
+      width: 16
+      height: 16
+    spriteID: bb58186cea4436a4690a47c88ab5f397
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_11
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 208
+      width: 16
+      height: 16
+    spriteID: bd55a9161e704b6469611921ef6d04c8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_12
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 208
+      width: 16
+      height: 16
+    spriteID: 31cc9a42413039d49ace4ee1b542d405
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_13
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 208
+      width: 16
+      height: 16
+    spriteID: 30800017ce967534191978ad1dacc29b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_14
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 208
+      width: 16
+      height: 16
+    spriteID: 168ffa6f72157e2428fca94c8e92e090
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_15
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 208
+      width: 16
+      height: 16
+    spriteID: 7a347e5ea0cf06f4eaeeb1de4c521a12
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_16
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 208
+      width: 16
+      height: 16
+    spriteID: 05b019c0c7baef748a98ec6798ffe029
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_17
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 208
+      width: 16
+      height: 16
+    spriteID: 5d8f92d5f3df7f54fa85d0a78c69b9a4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_18
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 208
+      width: 16
+      height: 16
+    spriteID: a94b36592fc694945bc8c382b7e06d11
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_19
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 304
+      y: 208
+      width: 16
+      height: 16
+    spriteID: bd4d2b81e3d0fdf44956537a8fed58f7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_20
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 320
+      y: 208
+      width: 16
+      height: 16
+    spriteID: 56f6077aacb895143b94bda723200681
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_21
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 336
+      y: 208
+      width: 16
+      height: 16
+    spriteID: 70985e1bcdcc9124b97a742fd45ab46a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_22
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 352
+      y: 208
+      width: 16
+      height: 16
+    spriteID: e62aba6a1a9cc8b4bafebb4b93aff140
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_23
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 368
+      y: 208
+      width: 16
+      height: 16
+    spriteID: 956fc9c4b3e44e74885d114ca8e848e5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_24
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 6444400e3053057429629253f34088d5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_25
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 9aa8a112500e3994b81ea5979e6a1cc2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_26
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 192
+      width: 16
+      height: 16
+    spriteID: f4ec041ee83499044858414d8cc83f0e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_27
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 192
+      width: 16
+      height: 16
+    spriteID: df57669fad18c4f45a4f743b3865865d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_28
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 27755bdf43721a34eac71026a1530251
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_29
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 030041a2010b5994fb9f44da834318ee
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_30
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 988ee57a3ccfd2b4993cf27139aab0c9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_31
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 86a2c7c178af07542b55e9425acfdffb
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_32
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 192
+      width: 16
+      height: 16
+    spriteID: af1444b4b3aa71f43827977ea4384174
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_33
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 192
+      width: 16
+      height: 16
+    spriteID: c1abf3f38e093c041be3d77b407d4ece
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_34
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 237d887cf5255b94e9d3155256327661
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_35
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 2f1678cc20e35ca4598b77455037e81b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_36
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 18f5baeaba07f8041a0399c56689a555
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_37
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 1279c60b86bcd5147bdbbb92288d94f8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_38
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 192
+      width: 16
+      height: 16
+    spriteID: e867333335f5bc34c9022fbf35a57fa9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_39
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 192
+      width: 16
+      height: 16
+    spriteID: b1c5a2ee5735a6947aea472c4eedea71
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_40
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 0915a8866b278c6478a9afb33313a968
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_41
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 544c2fa5a6ea7094a8c9c74ff5aa0772
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_42
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 42f734fc763fb814484adcc072abfc62
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_43
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 304
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 81a94c254108ac84da1e35b07cbe269e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_44
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 320
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 77bccee8d60f73c4da1a2d80bd11f088
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_45
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 336
+      y: 192
+      width: 16
+      height: 16
+    spriteID: b672c5a94c617a2458213e7fda9a4e81
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_46
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 352
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 08d1a465448faba418011655adeb4d13
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_47
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 368
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 756fd89447e20ae49aee3a059c18ed21
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_48
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 176
+      width: 16
+      height: 16
+    spriteID: 154c38e180a93084c85638f7434b3dd9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_49
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 176
+      width: 16
+      height: 16
+    spriteID: 4d0a4400a07701c4ba50d2a66c2cf48c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_50
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 176
+      width: 16
+      height: 16
+    spriteID: d0e185fe77009854ab1e9963ad07a5f6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_51
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 176
+      width: 16
+      height: 16
+    spriteID: 6de0a413536bf2d489d9b1522d12071b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_52
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 176
+      width: 16
+      height: 16
+    spriteID: 06a6f60a2b8fcf7488e5399198e8d10f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_53
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 176
+      width: 16
+      height: 16
+    spriteID: fd76c684d32afc048863dd6f5b6d1329
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_54
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 176
+      width: 16
+      height: 16
+    spriteID: 3929fc79b9c51de48bc1bc06506cec3b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_55
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 176
+      width: 16
+      height: 16
+    spriteID: 33581dddf2b1b474ea23e5108580bb0a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_56
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 176
+      width: 16
+      height: 16
+    spriteID: a297f07760c65dd4b80efa1388e5b511
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_57
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 176
+      width: 16
+      height: 16
+    spriteID: f16c3f9f9a60ee948b8b03c1a9c46663
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_58
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 176
+      width: 16
+      height: 16
+    spriteID: bbdc8426b3080534d9a5c55b372c822f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_59
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 176
+      width: 16
+      height: 16
+    spriteID: 2c6e37eb98db2ae4e83ae751cfdb4c8c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_60
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 176
+      width: 16
+      height: 16
+    spriteID: af3511db59e7e57409f4e3b37f37bde6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_61
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 176
+      width: 16
+      height: 16
+    spriteID: d016d189d36b39f47a1e641f093f8605
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_62
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 176
+      width: 16
+      height: 16
+    spriteID: e9903cf458dd5464d8652fb3317f132f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_63
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 176
+      width: 16
+      height: 16
+    spriteID: f60fa34ae079d5545857945210c05836
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_64
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 176
+      width: 16
+      height: 16
+    spriteID: 365a98fd1f8c3314dbfcb899e4d5fcfe
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_65
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 176
+      width: 16
+      height: 16
+    spriteID: 78079a383d29682488de2e1b34c25104
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_66
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 176
+      width: 16
+      height: 16
+    spriteID: e5fbaac5c8739d9428a9f87794564b84
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_67
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 304
+      y: 176
+      width: 16
+      height: 16
+    spriteID: 447be7dd89cc0784c98932e15848a13d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_68
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 320
+      y: 176
+      width: 16
+      height: 16
+    spriteID: e21253665ee829f4ebf448e1e29cae83
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_69
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 336
+      y: 176
+      width: 16
+      height: 16
+    spriteID: 225cc7918495bb94a8917d9aa6b2fb87
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_70
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 352
+      y: 176
+      width: 16
+      height: 16
+    spriteID: 686007062204f7e46a3a9c2378e03fb4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_71
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 368
+      y: 176
+      width: 16
+      height: 16
+    spriteID: d0abc1d1a7c914245a65c832b16432c6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_72
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 160
+      width: 16
+      height: 16
+    spriteID: ecbe15fc0d9edbd47824ec854e4bc483
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_73
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 574ab12fabf2fcc45baaa1ca1aecf3b9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_74
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 71bcfc2f7cbe59a499ca346f68f4fe58
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_75
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 18a09c0058cedf14aa2ca0d5436034a8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_76
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 160
+      width: 16
+      height: 16
+    spriteID: c07280ef7d906e54996b8f8149999681
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_77
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 5449ace6105724f47b96793e5a6dcdaf
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_78
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 7dad257fdfa2bf64f98e12a0fd231152
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_79
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 160
+      width: 16
+      height: 16
+    spriteID: abe18e1136664fa46838fab049ba4d29
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_80
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 65149c89c31946446bc5d9f94c1db22f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_81
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 6e7c6d1109fa98541b22b502c87be852
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_82
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 1ceb30a73041ca34a93689c319318ec4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_83
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 07f486754f679b242aff09eeeeb82cd4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_84
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 91c1d9e8ef542844fafce5fa6cebe6dd
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_85
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 160
+      width: 16
+      height: 16
+    spriteID: ede31cdddf997654f9f9a7b3f52b5a04
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_86
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 0f25c1815ee734c4e9f328c7d368921c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_87
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 3154c6ea8942e7644b3f94c4bb329537
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_88
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 41acab091fbf5d14997ba5596eec9eeb
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_89
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 54ebdd5dcfc7b044fa80bd97644374fb
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_90
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 25baf8020b6099146be7a15e0842e789
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_91
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 304
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 3fad41f1ea7703a439070fb274de3262
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_92
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 320
+      y: 160
+      width: 16
+      height: 16
+    spriteID: d359a9e1c1a20914698d1756afe56e9a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_93
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 336
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 2a19d8b58d523a14bb4d6e3da4c898e0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_94
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 352
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 407b81d012a58f9409c6fb99638f659f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_95
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 368
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 7a652d2e26a7e7f48a2d5ea52858ca11
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_96
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 144
+      width: 16
+      height: 16
+    spriteID: dd6b988e4a490284ba84a8411a28f30a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_97
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 144
+      width: 16
+      height: 16
+    spriteID: 015fb42e98243684f9e862f972af9913
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_98
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 144
+      width: 16
+      height: 16
+    spriteID: 4d8b1bbd7f9274b4d8457fb34c272111
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_99
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 144
+      width: 16
+      height: 16
+    spriteID: 2e969b48cc93a62479b3a73e820c16d3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_100
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 144
+      width: 16
+      height: 16
+    spriteID: eb3d7eeb1ce94014f882ebaba594262a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_101
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 144
+      width: 16
+      height: 16
+    spriteID: aa0f8c7d1ba154844ac70e347294f0b6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_102
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 144
+      width: 16
+      height: 16
+    spriteID: dc1c1ffd1db13d047a0044001e1ea773
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_103
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 144
+      width: 16
+      height: 16
+    spriteID: 9811137605c650a4d87b4f591dd1b76c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_104
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 144
+      width: 16
+      height: 16
+    spriteID: 1a600c615025a444ca56c87d93b96efc
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_105
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 144
+      width: 16
+      height: 16
+    spriteID: 042a00c4f2c0b3c48b239f3b45394dad
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_106
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 144
+      width: 16
+      height: 16
+    spriteID: dfb804c3ebd1be64d9cec7c57aad7a2b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_107
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 144
+      width: 16
+      height: 16
+    spriteID: de274080f9d91974faa87adb79cbc825
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_108
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 144
+      width: 16
+      height: 16
+    spriteID: 8d55db97c4004a24388cf02fb651965d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_109
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 144
+      width: 16
+      height: 16
+    spriteID: abbba6bb4587ed943b6a4711b346cfa5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_110
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 144
+      width: 16
+      height: 16
+    spriteID: df60adfb9b2c89e4e944457c359250d8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_111
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 144
+      width: 16
+      height: 16
+    spriteID: a621b86571bdc6d4dafe14916853b279
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_112
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 144
+      width: 16
+      height: 16
+    spriteID: babc725fe8c6acb44aa758ff2c3824dd
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_113
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 144
+      width: 16
+      height: 16
+    spriteID: 7519163d67d5f4b4a90a569637165854
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_114
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 144
+      width: 16
+      height: 16
+    spriteID: 55dfda424e8183e42b8fb45817d48ac7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_115
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 304
+      y: 144
+      width: 16
+      height: 16
+    spriteID: 301df157bdd71594dad916c2a1e69a89
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_116
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 320
+      y: 144
+      width: 16
+      height: 16
+    spriteID: 028bc5b69271f5940bd4429eb3e05309
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_117
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 336
+      y: 144
+      width: 16
+      height: 16
+    spriteID: 099db9144394ce34eb25eecf13f66296
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_118
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 352
+      y: 144
+      width: 16
+      height: 16
+    spriteID: 943c9e63e6df26542824e5ffbb7fb902
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_119
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 368
+      y: 144
+      width: 16
+      height: 16
+    spriteID: 3e13b426d5a678a4985ab7df4d0abd54
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_120
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 128
+      width: 16
+      height: 16
+    spriteID: 47cdca5d7eedc7d4bb470d740e000024
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_121
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 128
+      width: 16
+      height: 16
+    spriteID: 8ad85d3fffdc1834d960c1e88f29c250
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_122
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 128
+      width: 16
+      height: 16
+    spriteID: 28916b59058d0db45b21436dcc9c906b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_123
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 128
+      width: 16
+      height: 16
+    spriteID: 78a351f32f21e774b9d6e9aff562dd8f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_124
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 128
+      width: 16
+      height: 16
+    spriteID: 0bdd9bf1f25b54b4a8a9eef77fde9d6b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_125
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 128
+      width: 16
+      height: 16
+    spriteID: c66cd7309e2544249adbe78d834fea65
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_126
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 128
+      width: 16
+      height: 16
+    spriteID: 85e900e879e2d594a81c1d17d9cf01bd
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_127
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 128
+      width: 16
+      height: 16
+    spriteID: 16656ec68db74614ba8bdec51b17443d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_128
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 128
+      width: 16
+      height: 16
+    spriteID: a4589ad2cfe745c40a7a3790288faf2c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_129
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 128
+      width: 16
+      height: 16
+    spriteID: 56b239b0d9a0ff14ca679a050a96fd05
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_130
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 128
+      width: 16
+      height: 16
+    spriteID: c1871a2e9e0c9d64a94986dfb03b62b5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_131
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 128
+      width: 16
+      height: 16
+    spriteID: a5093c1c05c11604f8a7581745605d25
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_132
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 128
+      width: 16
+      height: 16
+    spriteID: 6d610c993da00774f8d9fbf812aefe9a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_133
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 128
+      width: 16
+      height: 16
+    spriteID: b3f4bb027fa250f4685f6f0d9b87d326
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_134
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 128
+      width: 16
+      height: 16
+    spriteID: 389947584805a984b86e9e71f91ce8bb
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_135
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 128
+      width: 16
+      height: 16
+    spriteID: 065c8df4d9fd5534e878705ab0692fc3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_136
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 128
+      width: 16
+      height: 16
+    spriteID: 91b867aec5e281d46aeb03bb40b33a22
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_137
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 128
+      width: 16
+      height: 16
+    spriteID: 858e0a40769fee544a64d44c4c78b59c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_138
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 128
+      width: 16
+      height: 16
+    spriteID: a9d99e1249512c04fbf755521004b047
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_139
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 304
+      y: 128
+      width: 16
+      height: 16
+    spriteID: 9ac12512db0ca704d933c94eaeb921c7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_140
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 320
+      y: 128
+      width: 16
+      height: 16
+    spriteID: ed0ff57cf3194f346b79d23c869b9b7b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_141
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 336
+      y: 128
+      width: 16
+      height: 16
+    spriteID: 52e13e63ce72f9445840202f31738df6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_142
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 352
+      y: 128
+      width: 16
+      height: 16
+    spriteID: ed856a2cb8d615147843b92be51b8b1d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_143
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 368
+      y: 128
+      width: 16
+      height: 16
+    spriteID: 4c87dcd6200223140abf2216946df839
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_144
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 172415872e1dc4647a4438f7ea1ada7f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_145
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 7dcabba9d4bfb7845a8390ce830db254
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_146
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 112
+      width: 16
+      height: 16
+    spriteID: e55615019d9799a428002bab17ed95b7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_147
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 744d045195803f0459c1484e09d2473c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_148
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 65a8c5fdbc70f464083370391896bd91
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_149
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 9802a558b84d49244a4e815eb34d2a2b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_150
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 69d2fddd3722003448df895c4d8a3dea
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_151
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 112
+      width: 16
+      height: 16
+    spriteID: f5e5ffd4712bd0844a5c73601b049216
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_152
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 8e183cd1f56d6354c9637c8ea2882fb4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_153
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 112
+      width: 16
+      height: 16
+    spriteID: f767cbf6a8d75484286b483cdde3589b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_154
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 9cc79a477ed2ede428d1b576f694f00e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_155
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 0136cec75e4308e44bf9e1619d32f98e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_156
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 112
+      width: 16
+      height: 16
+    spriteID: f16374663eaa6e140b1604a21aaf5321
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_157
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 112
+      width: 16
+      height: 16
+    spriteID: e6cea957d052d2b49ac13204c2ec2097
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_158
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 112
+      width: 16
+      height: 16
+    spriteID: cfbf74acc9546ea4c87df0e12fdb732f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_159
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 112
+      width: 16
+      height: 16
+    spriteID: a6118e0e856844745b32fd5dbc1dffe2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_160
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 27890e10b2aeca9458e1cae694f715e2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_161
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 279a1b0402a48374b9a752cac44717f8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_162
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 67dba258f4428d04f87101773cefa10e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_163
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 304
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 4b7e576c947310a45937a4ca3de4938d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_164
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 320
+      y: 112
+      width: 16
+      height: 16
+    spriteID: a72f6aa5758572a4fa98b867c1febcd6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_165
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 336
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 77ce2019f33fdfa42b44185caadd78ad
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_166
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 352
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 435787ec2fa48f24db6434a26815208b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_167
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 368
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 46461974ff780f44b959576ff804a49b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_168
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 036e5256b048a934b8b8f15c87a65a2f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_169
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 3d356b279b9c9ce45b08420c5fb580df
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_170
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 96
+      width: 16
+      height: 16
+    spriteID: fd2b77044aec63240adce12480162edc
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_171
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 96
+      width: 16
+      height: 16
+    spriteID: c5801722a891aa346bc43c1eecef4684
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_172
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 5945de0daf448a34ea96076aef635c25
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_173
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 307f3769f7ed2474896c2e9a8bcee62c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_174
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 30eedfb525715a44186066406c517961
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_175
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 9937da2fa157caf40b91ad5a64bfb34a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_176
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 96
+      width: 16
+      height: 16
+    spriteID: b785f1ea40d22404ba06a2be549722a3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_177
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 4c12025bad6f00f4599a68618c79a2de
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_178
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 4c2613c44ae704e438023fa0c8c113c2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_179
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 19dbb6126d537244cb0d2706cf5e22f4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_180
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 96
+      width: 16
+      height: 16
+    spriteID: c7d63284ddd4ea841a5fffd9a820e3d6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_181
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 0459f66e9a63ec342ab1c59cb61206af
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_182
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 2cfd7f68a2cb7e248b306ba1c285b047
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_183
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 96
+      width: 16
+      height: 16
+    spriteID: c58dc253f1637df4294989af5712b615
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_184
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 8aa4bcc5db875af4d9bd36cb7ae6d0e4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_185
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 60ef7564993ee6b4d98e95b1beb38057
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_186
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 96
+      width: 16
+      height: 16
+    spriteID: b3afd7a98b99e10499ffcdbc1d7dcd13
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_187
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 304
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 01c43baef1883644e9ab4fbe65565f46
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_188
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 320
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 2e19a8f923acf704c901b5cadd5a2144
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_189
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 336
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 0e2b00ea83325464a9245c13661f7a7f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_190
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 352
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 0a343689bc6e34546b01b464ad96235c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_191
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 368
+      y: 96
+      width: 16
+      height: 16
+    spriteID: ee8a4e1ec4f95c94887f086104bf1e57
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_192
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 80
+      width: 16
+      height: 16
+    spriteID: adc2fed8bc5a0b642891af0dcac1a6b4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_193
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 316a3a9f0c6de9e489ba985af1b47d95
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_194
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 80
+      width: 16
+      height: 16
+    spriteID: bb0ffccfeeeb8844eb1e41fbd4ea9a33
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_195
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 8213dd1dadac49f40b13bc2b80cf38c5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_196
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 936b4c0fd56b0c1478cb4f85c2db898b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_197
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 80
+      width: 16
+      height: 16
+    spriteID: a56bc1e1d300f344a8587f468a9918d2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_198
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 42966b7b1b9ccf14c8ecd45dc4d24f31
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_199
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 80
+      width: 16
+      height: 16
+    spriteID: d4ef82202c6b3a248a0b9d3b8bbc5da2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_200
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 7b238369005792e489a99efbc1aca913
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_201
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 80
+      width: 16
+      height: 16
+    spriteID: c77ad81e65bb9b54e87ee8961b217129
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_202
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 80
+      width: 16
+      height: 16
+    spriteID: a7c52615ddde98d429b3c550e9c5e75d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_203
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 80
+      width: 16
+      height: 16
+    spriteID: ddb8bee6903f6ac419364fcfcce23d76
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_204
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 830c195697ea5894a9944a8cb26d7d5b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_205
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 4bca6bce5e7460344ba63d44d61d78b5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_206
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 31d97e93784bc1347a23a53bbf37f182
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_207
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 0feedc334f21f4047b2dc5a877354fc5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_208
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 80
+      width: 16
+      height: 16
+    spriteID: e18789b9e2068224aafa4223d77bf936
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_209
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 80
+      width: 16
+      height: 16
+    spriteID: f7beddaa6c49298499112a03785d0faa
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_210
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 91ad82d304f6707409c4fa12bfe8b10e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_211
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 304
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 65628948bbbf6f04499c49fac0fc362e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_212
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 320
+      y: 80
+      width: 16
+      height: 16
+    spriteID: f2454eef2bb91b94bb675cc80a15f102
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_213
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 336
+      y: 80
+      width: 16
+      height: 16
+    spriteID: a489fd4fafc963d409420c0b095d3dd5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_214
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 352
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 4939472de2fb3dc4085069254dd50d78
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_215
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 368
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 5311cd5e1cea2ba42a97873e1d2d49a8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_216
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 76ac5c937bef0004c984bf486ff28eb6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_217
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 64
+      width: 16
+      height: 16
+    spriteID: b3cab43c821dc864f869061189599e2c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_218
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 77bc130fb74cc9e4099b4d7fb87b2972
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_219
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 3db2f60718e484343af433c76d598bc2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_220
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 10a5d3b4653dfad498a04cf4f91899c4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_221
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 07ad5f5991e01df4089a8af3cb16cf83
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_222
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 6625b566c37e580499c899cea6809aa5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_223
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 208074330517ca14ea4525799d1ae930
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_224
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 57309c56447e78847aa829cb3fbacf05
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_225
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 64
+      width: 16
+      height: 16
+    spriteID: ff7792467ba97e1469fd3f67e04324d7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_226
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 4d23ca6a73aea174f9c40286e4bebc26
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_227
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 4b9c2baccba694a40bd4cd3e1ea83092
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_228
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 3247abba6a5fa1340b921c57ee47490c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_229
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 9f327c4ad8d6b0f428579bab8ad5cac9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_230
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 2d9c1e31df2c2d8489f47862966689fd
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_231
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 62d6487bd109bfb4abc025eb64d53e77
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_232
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 64
+      width: 16
+      height: 16
+    spriteID: dffba683028cb0641b6e9797d7003580
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_233
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 64
+      width: 16
+      height: 16
+    spriteID: dcded5422ddd5854e8195d50a784dd80
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_234
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 64
+      width: 16
+      height: 16
+    spriteID: eab7ad34ad1658e47bbd9cb35ab01f8d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_235
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 304
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 87648292d0dbae2448caef5e46fc0ed2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_236
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 320
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 9022707873b315348ab7fe6b060d1b6e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_237
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 336
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 2fd00a78e262170489d5cbf888182a6a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_238
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 352
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 9f5dfe6f4ce62274eb7d9ea992ffa831
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_239
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 368
+      y: 64
+      width: 16
+      height: 16
+    spriteID: a77a01394e138d342a0f53e1bde8d084
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_240
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 48
+      width: 16
+      height: 16
+    spriteID: a3a2677c72cf48044b0138d21f0f02d7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_241
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 3295cd6360ebff746a904f4d28f3faa9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_242
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 48
+      width: 16
+      height: 16
+    spriteID: cce669dd813f7c442a7049318fa3fef6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_243
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 472479108350a194097c58ed60a2d3a4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_244
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 48
+      width: 16
+      height: 16
+    spriteID: b6d7ffa8af3093242843f661ec338341
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_245
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 48
+      width: 16
+      height: 16
+    spriteID: ecbec9efaefc82342b4900a51c03f691
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_246
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 48
+      width: 16
+      height: 16
+    spriteID: e7499cb9dcc622f45abeedb199eb3c57
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_247
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 48
+      width: 16
+      height: 16
+    spriteID: fa3ed305af64d85458225a72e12dfe63
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_248
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 022893d5d5ea5814db47ba265cc33b27
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_249
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 48
+      width: 16
+      height: 16
+    spriteID: bb4798244a142e045a23c3fcdb782e97
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_250
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 48
+      width: 16
+      height: 16
+    spriteID: eaea6be6009530e4b83f331eb686dbfe
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_251
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 596dcb9b7c00e484ea5307f2e413fb81
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_252
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 5b6f1069cbea0b442a966a383e78c5d3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_253
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 48
+      width: 16
+      height: 16
+    spriteID: ab87db19a09f519428cf04f6a6f91637
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_254
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 458820e6e0d18ff499e4396780a576d6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_255
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 48
+      width: 16
+      height: 16
+    spriteID: f7e86f0b1df90e5449b0bb56d1918cea
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_256
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 48
+      width: 16
+      height: 16
+    spriteID: c6d466572c9ee374896e213df08aae74
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_257
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 3b5169606cba8484fa6845d982ce719d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_258
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 48
+      width: 16
+      height: 16
+    spriteID: f4f2868254d0b4a4ba5dd0658f3f24ac
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_259
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 304
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 3dadd6ab54d7d004baea448511e62564
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_260
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 320
+      y: 48
+      width: 16
+      height: 16
+    spriteID: afdfb7fe90afe694baead60ed4428141
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_261
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 336
+      y: 48
+      width: 16
+      height: 16
+    spriteID: f6afad4ed1e6b4c4fab4ce7f66f51cf0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_262
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 352
+      y: 48
+      width: 16
+      height: 16
+    spriteID: b17765892dcb4a24b9ae81522d3629e8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_263
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 368
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 3b260d58c1b412442a7ec7658bb99632
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_264
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 32
+      width: 16
+      height: 16
+    spriteID: a1cb7c22c61df9440a7a4933c3834afe
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_265
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 32
+      width: 16
+      height: 16
+    spriteID: dd63202b90921f849aa52c46fd0cf17e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_266
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 32
+      width: 16
+      height: 16
+    spriteID: e0596a23a72b3b84eb00b0dc8cf47b9e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_267
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 32
+      width: 16
+      height: 16
+    spriteID: ecccd70ea9d892b47bd3d0d38e873978
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_268
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 6a45562f4ab256e4a93528f3e71b7555
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_269
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 32
+      width: 16
+      height: 16
+    spriteID: e3401cbc10010e44999e0b1e00424564
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_270
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 32
+      width: 16
+      height: 16
+    spriteID: a8973730c076d134cb2c597747e76dc9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_271
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 7ca3a80c9efda1b4b94d0a0c636ee7b9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_272
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 9d653163ea5e1da44b389321d9cbdeb4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_273
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 200db7f5cb426084d94eef33b9307a9c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_274
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 46bb5590e27089645917cfeb6e325800
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_275
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 32
+      width: 16
+      height: 16
+    spriteID: bb7dd465538fe9c4c8d5da664e59c44f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_276
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 8964f52b028602e468b6a740fcc5590a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_277
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 58e52553839fd6a4ca78b5541e53aaf7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_278
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 3f04af84681e4914aba0680f99ac8879
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_279
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 32
+      width: 16
+      height: 16
+    spriteID: a7bcbf05de073c14fb3d30ad24727d39
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_280
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 7a01fe8fb3ca5204093652e1c2830212
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_281
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 32
+      width: 16
+      height: 16
+    spriteID: a5aa9e5d0baf8a947b4272baa023480a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_282
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 1a454f0b39c5c084d80537261050f1f7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_283
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 304
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 858e7472dc3fb1941ae58319888b5124
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_284
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 320
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 002229b982c09c34ba5caf19087b1d4b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_285
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 336
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 904e40a61b5a80743b6afe514ae1ab23
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_286
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 352
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 84cff9f25c17b2744b384b91d254c27f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_287
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 368
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 6eaee4e031477e043ab1249fd41780ff
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_288
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 69ac27c8522145648ad9d68fb4718924
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_289
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 1f48a6ca0e7521a42974e0a208b35975
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_290
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 8ac0053c0383ee24e9fa5b1535c58f06
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_291
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 16
+      width: 16
+      height: 16
+    spriteID: ecc0a780a5954d04c8945b5ea2f9b55d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_292
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 5c9a785afdd1eaa47b4f423c72fb2e10
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_293
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 51b977711658ac54dae46840e2a44dd5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_294
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 77a18a94ecc45f94e82e4bcc371d385a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_295
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 16
+      width: 16
+      height: 16
+    spriteID: cc4be26fa056c4c4480ae99ed90b4dd8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_296
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 349b95c30b5380a42b9ea9057bc77d08
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_297
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 16
+      width: 16
+      height: 16
+    spriteID: ebc4a88849f99224b96cfc247509dd9a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_298
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 1847f9201a9e04a48afe4edc6d9047c5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_299
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 22c775596efc1b64aa349e9548094cf8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_300
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 2934592db1297584486adc98e33686a7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_301
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 41d2f1c8e94af0c43919e4a0ca8a8de0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_302
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 7f1cbab86429d434a879c52d406aedef
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_303
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 66609770edff1424683f5d16b608b4d7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_304
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 3ef0dc60e03278e4e8e83ce997cab199
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_305
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 316c471e37046c24ea2885f0bb198024
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_306
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 16
+      width: 16
+      height: 16
+    spriteID: cc52e1305ddca214eb0ec46793f35ce5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_307
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 304
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 6a1994684e8cc424ea3caaf1775a1a29
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_308
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 320
+      y: 16
+      width: 16
+      height: 16
+    spriteID: ff741ddfb04efff478340e80fad49c48
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_309
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 336
+      y: 16
+      width: 16
+      height: 16
+    spriteID: a43d4dfb9329e1646a1dd110ddd625a7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_310
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 352
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 00fca9adf56939c42970b431bbdcb6f8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_311
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 368
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 1fb736a79e49a7f48b165ac7bdd03059
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_312
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 16
+      height: 16
+    spriteID: b0cbd24b1fbbf5b4188bdbd634abf0e9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_313
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 070f3dea492e9f44094181da52747308
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_314
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 2d1c2e9e5f4ccfd479e6426bef4fb9c0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_315
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 0
+      width: 16
+      height: 16
+    spriteID: a32dd30c145ed444db402eafa0119873
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_316
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 0
+      width: 16
+      height: 16
+    spriteID: b8019022cf79dd646b6f1fd8734a91eb
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_317
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 0
+      width: 16
+      height: 16
+    spriteID: f3e43356f4970064ca70f221889cdbc6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_318
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 0
+      width: 16
+      height: 16
+    spriteID: aecd349a2dec48b49b8e1a2eb93fee0e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_319
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 404f092c835f93941bc6777b6f781186
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_320
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 4ed7e62af13600744b90a40cb3ee8bd5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_321
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 10576a7f75af48e4286c85d9a2dc6682
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_322
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 0
+      width: 16
+      height: 16
+    spriteID: ae52bf363e0a4d74495020a99b612c47
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_323
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 0
+      width: 16
+      height: 16
+    spriteID: badf22403df87064490b08563bbb4d8a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_324
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 5456c8010fd26b448a282a120531869b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_325
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 59a67cd3c7796644fbf77ba492e57e07
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_326
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 0
+      width: 16
+      height: 16
+    spriteID: c8c3488cb88dd924c8460180dba457eb
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_327
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 7667fb20d84a07b45ace54b9e609dccd
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_328
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 224f8abb50366ea428013a046fca0335
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_329
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 32c946c0b9b4d2a44bd706075dbd6028
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_330
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 0
+      width: 16
+      height: 16
+    spriteID: cb6e0c1b37271044d97bc0cc7be6b332
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_331
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 304
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 20691c42d39f8374cae65fcabfab62f3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_332
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 320
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 1961e6dc281b6b94c9f0414b911a766e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_333
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 336
+      y: 0
+      width: 16
+      height: 16
+    spriteID: a64e945a30bd99f4a806bc4a5815ae97
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_334
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 352
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 5149d1834d6e761418b9ec4af9bcdb8e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Bob_16x162_335
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 368
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 99a2607254fff1540931a865376202b9
+    spriteOutline: []
+    tessellationDetail: 0
+  _secondaryTextures: []

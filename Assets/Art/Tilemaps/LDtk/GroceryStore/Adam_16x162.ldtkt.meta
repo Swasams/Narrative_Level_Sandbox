@@ -1,0 +1,4718 @@
+fileFormatVersion: 2
+guid: e85b1aa9d5f60b74ebc212b7a3a06845
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: f3268c876daf4890b6af6cd462063137, type: 3}
+  _reimportOnDependencyChange: 1
+  _pixelsPerUnit: 16
+  _sprites:
+  - name: Adam_16x162_0
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 208
+      width: 16
+      height: 16
+    spriteID: e39db0173e4208e48a903b64c7386da0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 208
+      width: 16
+      height: 16
+    spriteID: 6e208f541545fed4db565b71b8282715
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 208
+      width: 16
+      height: 16
+    spriteID: 2d1794dc43efa1e478b13b70ea81d73e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 208
+      width: 16
+      height: 16
+    spriteID: a80b5d6a65e54be4fba48e82fd00bd61
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 208
+      width: 16
+      height: 16
+    spriteID: 9b1090126e01a914bab3cf4671a3353d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 208
+      width: 16
+      height: 16
+    spriteID: 8ed8bad13941e4d42add39eb4ae549e3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 208
+      width: 16
+      height: 16
+    spriteID: 0aa9395a827ce674cb90e2bba709e45e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 208
+      width: 16
+      height: 16
+    spriteID: eec712a6985d08c46ae52eabe1422d83
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 208
+      width: 16
+      height: 16
+    spriteID: 6c788610834e8424cb53246ed20da8e5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_9
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 208
+      width: 16
+      height: 16
+    spriteID: f8224a81e7b9ae04d868cf2775264016
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_10
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 208
+      width: 16
+      height: 16
+    spriteID: 432d0aecca9e9994284e916341578013
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_11
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 208
+      width: 16
+      height: 16
+    spriteID: 1dd834f8c39585842bb0da2ae5bc6c70
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_12
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 208
+      width: 16
+      height: 16
+    spriteID: 0abbeaaea337b6043a810428a3164ebc
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_13
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 208
+      width: 16
+      height: 16
+    spriteID: 7c7841c0dd1a9ff44ba91b228868194e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_14
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 208
+      width: 16
+      height: 16
+    spriteID: 8158bc3cb486d3e40a7bf382a08192cd
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_15
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 208
+      width: 16
+      height: 16
+    spriteID: 18bff7094f27ba340bab79253b20914f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_16
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 208
+      width: 16
+      height: 16
+    spriteID: 68029db52348c3446ac2730275f63d80
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_17
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 208
+      width: 16
+      height: 16
+    spriteID: 2eade3e9b85c70640a231862e26a27d6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_18
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 208
+      width: 16
+      height: 16
+    spriteID: 688e80c1668a5614792beac848f58228
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_19
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 304
+      y: 208
+      width: 16
+      height: 16
+    spriteID: 1d68d7a6f1998704c92016da5d5fd53d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_20
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 320
+      y: 208
+      width: 16
+      height: 16
+    spriteID: 2940499080b3f134ab19d7d4618f0977
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_21
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 336
+      y: 208
+      width: 16
+      height: 16
+    spriteID: ba870cfad22de6c44a4d515bae15ef97
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_22
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 352
+      y: 208
+      width: 16
+      height: 16
+    spriteID: f2adc7c9ac934ab47b43cad7e1306cd0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_23
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 368
+      y: 208
+      width: 16
+      height: 16
+    spriteID: c7c90e79b70ef964db6046e0b2269473
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_24
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 98953db0148db714581c3b67177397d0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_25
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 0e066e50ef05dc94392b708ba153997c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_26
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 48f0d42def9ea624da5e1aee8358ed7c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_27
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 9aa242529e4339049b150800942cf82a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_28
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 192
+      width: 16
+      height: 16
+    spriteID: bdf0720c19841f746a7a856ecef7a302
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_29
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 91a29cc2da54b414bb190ef5f8f9887d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_30
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 192
+      width: 16
+      height: 16
+    spriteID: f750dac4b28b8ce40ab90a6f2b91e11b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_31
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 192
+      width: 16
+      height: 16
+    spriteID: a8b20a94a7520d04d9a68b1d29fcbcf3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_32
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 93dc77c71d7021e49a16f0d50bd7db52
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_33
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 192
+      width: 16
+      height: 16
+    spriteID: e7b718025b52dde48b9ee5636bbbcf69
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_34
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 531c4b40716ec1e45b0240578f63b504
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_35
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 14b30a6056b014346904ce0e0f5fd1c5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_36
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 1c084b10069b64d4db9685d3008e0588
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_37
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 192
+      width: 16
+      height: 16
+    spriteID: c19d7b6833361c14bb95536fa07980fc
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_38
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 192
+      width: 16
+      height: 16
+    spriteID: b6a0b98f8f9d2404d8692024ce6bad59
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_39
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 192
+      width: 16
+      height: 16
+    spriteID: f2df5e7a2c812b94196c28fbfd96e4f0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_40
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 03317227756f6304d9aaffa4568b7249
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_41
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 33b1e87aa27c1e84ea37f9c51e064263
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_42
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 192
+      width: 16
+      height: 16
+    spriteID: dc06fea215ed9cc4fb1df42fabc1896d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_43
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 304
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 125d5725c8ce8aa47a92c83fa2c9a71d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_44
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 320
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 085f014fb18a67b46998ad23e270dc2a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_45
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 336
+      y: 192
+      width: 16
+      height: 16
+    spriteID: ce7e9514f4ea7b640a5567472d4cef13
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_46
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 352
+      y: 192
+      width: 16
+      height: 16
+    spriteID: bdd3ebe28fb356f4183bc02262ed1c9f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_47
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 368
+      y: 192
+      width: 16
+      height: 16
+    spriteID: 897850cc386b72c4e84f9556e3945009
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_48
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 176
+      width: 16
+      height: 16
+    spriteID: 141ddd8a1212f2045863e39c7db2357d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_49
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 176
+      width: 16
+      height: 16
+    spriteID: 0bc03ecb140798847bdf3e1502dfacce
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_50
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 176
+      width: 16
+      height: 16
+    spriteID: cc7acdd581dda0e4c977de69c5b8fbdd
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_51
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 176
+      width: 16
+      height: 16
+    spriteID: dc5ea80cd5bcba242b60a6f2c4246d1d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_52
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 176
+      width: 16
+      height: 16
+    spriteID: 5db941f25ab9307459abe94b500142f0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_53
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 176
+      width: 16
+      height: 16
+    spriteID: d11c1f39c69586143b79647041d9f03c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_54
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 176
+      width: 16
+      height: 16
+    spriteID: 2dd1bd31e6eb4ed4995fc5f1fcaed125
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_55
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 176
+      width: 16
+      height: 16
+    spriteID: 540db7d53d6c1be4fbe2ddedde4dc887
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_56
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 176
+      width: 16
+      height: 16
+    spriteID: f387984a06f792a49aeb194f7f74a3a9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_57
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 176
+      width: 16
+      height: 16
+    spriteID: 153c5bedce0e3e64fa580e2447100253
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_58
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 176
+      width: 16
+      height: 16
+    spriteID: be05abe36265b434aa82b1f967020958
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_59
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 176
+      width: 16
+      height: 16
+    spriteID: a1a5d2e2e4a745048bbbdb5d98ef70c8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_60
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 176
+      width: 16
+      height: 16
+    spriteID: e3e8f28157a785b419d03e047c5959ca
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_61
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 176
+      width: 16
+      height: 16
+    spriteID: e35b6564941797945a742fb48b5ffef8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_62
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 176
+      width: 16
+      height: 16
+    spriteID: c287957ba2de66244aadbec4387c4af5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_63
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 176
+      width: 16
+      height: 16
+    spriteID: b82007346414fe041ad23d1ec4eb2848
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_64
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 176
+      width: 16
+      height: 16
+    spriteID: 21e823f4f9436ec41a65f93887f85450
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_65
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 176
+      width: 16
+      height: 16
+    spriteID: 23eccd76b64534d408b424f59fd193e5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_66
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 176
+      width: 16
+      height: 16
+    spriteID: 4447a3dd4b8e6bd448a2034104f97696
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_67
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 304
+      y: 176
+      width: 16
+      height: 16
+    spriteID: 4487bf2b1fb731e41a9a5b9743877835
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_68
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 320
+      y: 176
+      width: 16
+      height: 16
+    spriteID: 6668dd269a071024ca2ce55d188ca93f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_69
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 336
+      y: 176
+      width: 16
+      height: 16
+    spriteID: fd46c416904f9b146986962a6e1cfcd4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_70
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 352
+      y: 176
+      width: 16
+      height: 16
+    spriteID: d91493ee8c21ada44938762d6bdfb45d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_71
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 368
+      y: 176
+      width: 16
+      height: 16
+    spriteID: cafc06f2319cedc489ddff13c920bbc1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_72
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 160
+      width: 16
+      height: 16
+    spriteID: caa02ae868df21a40b94232bb0484327
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_73
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 49f64699e573a2d42a9798a6b0caccff
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_74
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 160
+      width: 16
+      height: 16
+    spriteID: cd382601acafeaf41bb40f6158da8ce9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_75
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 160
+      width: 16
+      height: 16
+    spriteID: bb211a8890ab8ac44b7b6c9998365b23
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_76
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 160
+      width: 16
+      height: 16
+    spriteID: fd1e1b8b45aef2449a939ce5d7e4c436
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_77
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 160
+      width: 16
+      height: 16
+    spriteID: f9d8bb29dcf343e4ebdc20b84317742b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_78
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 21312331b09de24439699fd47601e728
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_79
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 902a6be2fa49d46428a9abdafab72dac
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_80
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 160
+      width: 16
+      height: 16
+    spriteID: d96b31bf63a32fa48a394f52b2444a04
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_81
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 8023f186b2b8c564ab28d4874919a498
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_82
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 3e79f9003410f5e4abebb41edb0703a1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_83
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 160
+      width: 16
+      height: 16
+    spriteID: dd0668b7db500f94993ec5d7f2050a34
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_84
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 732da418a0cdcdf4886b4b23b6fd6aac
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_85
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 160
+      width: 16
+      height: 16
+    spriteID: e7818550718ea5d47af2c551c6149028
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_86
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 160
+      width: 16
+      height: 16
+    spriteID: ad62a6bbef0798345a5dbc1a2b8e9c93
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_87
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 160
+      width: 16
+      height: 16
+    spriteID: ffa6276dd3e2eb947b0caef43115346f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_88
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 6414c2d8f2309ca4797de8d843ec3663
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_89
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 131fb0bcafe32ba42a1598cf5bc357f4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_90
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 4fd9a62197d0bb74c980909507c3c1cb
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_91
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 304
+      y: 160
+      width: 16
+      height: 16
+    spriteID: ac655c934b996b34ca844b8bbfcefd15
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_92
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 320
+      y: 160
+      width: 16
+      height: 16
+    spriteID: d341ee7ba7ca75a489afb221c19c8b36
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_93
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 336
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 9c0ac5c92c9645d4c804fc99a929bca8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_94
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 352
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 7a848858ea3dd83478963cb1979cdfbc
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_95
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 368
+      y: 160
+      width: 16
+      height: 16
+    spriteID: 90bd6649bfaabf045a346627be9b3137
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_96
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 144
+      width: 16
+      height: 16
+    spriteID: 63ac1d324b710eb4085af3409e62c901
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_97
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 144
+      width: 16
+      height: 16
+    spriteID: c2864a3b26afe464695be12f97032d79
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_98
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 144
+      width: 16
+      height: 16
+    spriteID: 5628e63acf34f8746a7717978a3cdb0d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_99
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 144
+      width: 16
+      height: 16
+    spriteID: e7620bb9fd540374e9034bb0cc40934d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_100
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 144
+      width: 16
+      height: 16
+    spriteID: b04daf4e69de11b488fd816492d2f67e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_101
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 144
+      width: 16
+      height: 16
+    spriteID: 4cbfdfbc5440a4b4392a6f3942688407
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_102
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 144
+      width: 16
+      height: 16
+    spriteID: e51f6d074ac1686458ab5158ed847fe2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_103
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 144
+      width: 16
+      height: 16
+    spriteID: c25c65a6244872f428a3ee78b022f071
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_104
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 144
+      width: 16
+      height: 16
+    spriteID: 95354c0091eb695449f8efc424b6df99
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_105
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 144
+      width: 16
+      height: 16
+    spriteID: 0e0134315eed58d49b5e63c76e89b5ae
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_106
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 144
+      width: 16
+      height: 16
+    spriteID: d96913315fd39534c91f298599110b31
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_107
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 144
+      width: 16
+      height: 16
+    spriteID: 79d7efc0f3afaa3458950cb8a02be01c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_108
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 144
+      width: 16
+      height: 16
+    spriteID: d4af983b3ee6b61488265ac70d1bc70d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_109
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 144
+      width: 16
+      height: 16
+    spriteID: 85a13762f24a0df4cbe5fae21e9f5bcd
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_110
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 144
+      width: 16
+      height: 16
+    spriteID: 544504890726b7d49977ed975f24186e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_111
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 144
+      width: 16
+      height: 16
+    spriteID: 7708735a543234f43b98c8883ee2ce48
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_112
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 144
+      width: 16
+      height: 16
+    spriteID: cf2f09bfbe8e6d246a0946fc94ffe5a4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_113
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 144
+      width: 16
+      height: 16
+    spriteID: fd57df0e64b300043980c742454ee38f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_114
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 144
+      width: 16
+      height: 16
+    spriteID: 9c5998868521c6b44acf5347368f054a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_115
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 304
+      y: 144
+      width: 16
+      height: 16
+    spriteID: 116c5af8721fd7948925bc5862f0387e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_116
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 320
+      y: 144
+      width: 16
+      height: 16
+    spriteID: 6d0e79a0f87cb7749a7c794c5f6e7fc8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_117
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 336
+      y: 144
+      width: 16
+      height: 16
+    spriteID: 4d08709b6f140774d9459a9b04e24cde
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_118
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 352
+      y: 144
+      width: 16
+      height: 16
+    spriteID: 08eaa9e5c6c4e99458efc9e5ed34abe0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_119
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 368
+      y: 144
+      width: 16
+      height: 16
+    spriteID: e3930edd767dc6645aa56f09e3ab7a96
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_120
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 128
+      width: 16
+      height: 16
+    spriteID: e3884dc0ea0735346a42a9e96ea7bdd4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_121
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 128
+      width: 16
+      height: 16
+    spriteID: 108ceb68ee69ffd439da38ad53c888cf
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_122
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 128
+      width: 16
+      height: 16
+    spriteID: 09adf32b46fb52b49a6dcb7d93d03c45
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_123
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 128
+      width: 16
+      height: 16
+    spriteID: 82ef21b283ac17747be3bf2181f092a1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_124
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 128
+      width: 16
+      height: 16
+    spriteID: 51dd4b7f2a2f00b438f60b6670a70875
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_125
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 128
+      width: 16
+      height: 16
+    spriteID: 15f0be08e5349704490239f5fd2262d8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_126
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 128
+      width: 16
+      height: 16
+    spriteID: f08b7cbd2b8d25443946848039db80a2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_127
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 128
+      width: 16
+      height: 16
+    spriteID: 20c5ad582414f454bbde551cc8f8ff57
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_128
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 128
+      width: 16
+      height: 16
+    spriteID: da8e5a04e0d533c4587cd1f207586b56
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_129
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 128
+      width: 16
+      height: 16
+    spriteID: 4005628ad7322ed44851b19c455dc5e7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_130
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 128
+      width: 16
+      height: 16
+    spriteID: 94105620b363c6c49a390c34e8bb1233
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_131
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 128
+      width: 16
+      height: 16
+    spriteID: 9e0db23b092668f4399bf754cf2bbeea
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_132
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 128
+      width: 16
+      height: 16
+    spriteID: 5fa8c181cb4bd0746a52611d5bde4c5d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_133
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 128
+      width: 16
+      height: 16
+    spriteID: dc3fc150251dea244b7c67f42245cf5c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_134
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 128
+      width: 16
+      height: 16
+    spriteID: 98dec5aa86b1c1c49a7133880788f1ca
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_135
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 128
+      width: 16
+      height: 16
+    spriteID: dcf1c4691ea8f654983f2f79e5ff112e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_136
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 128
+      width: 16
+      height: 16
+    spriteID: 7f233e607ae903846b790dc4954cd886
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_137
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 128
+      width: 16
+      height: 16
+    spriteID: d336f3939e2b78046991c8ac5e2b3b94
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_138
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 128
+      width: 16
+      height: 16
+    spriteID: 338a3a6abe7a0ce49b76c20fd334bab2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_139
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 304
+      y: 128
+      width: 16
+      height: 16
+    spriteID: 09bcbd848131d26488aaf8692f1dc811
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_140
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 320
+      y: 128
+      width: 16
+      height: 16
+    spriteID: 7e1b733a1e566dc4490b02ccbb3096f6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_141
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 336
+      y: 128
+      width: 16
+      height: 16
+    spriteID: f0e0f4660d4e9204f90a37ac179ceb3e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_142
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 352
+      y: 128
+      width: 16
+      height: 16
+    spriteID: bdd0c2802ebfece40a5cddff1ce13dce
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_143
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 368
+      y: 128
+      width: 16
+      height: 16
+    spriteID: 3d9a511f390d21f41ab71421094346c8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_144
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 6a9cdfafdf81a344f8dee0fa09ee234d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_145
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 5fb746abb2f73a64da5fcd74b38b5d06
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_146
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 0f9501c244ba05c4c8858eb575317d8f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_147
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 112
+      width: 16
+      height: 16
+    spriteID: d7d5c9c95ee100f45a8a732e7b01774a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_148
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 9f9512e24504a9643b44934c0fb50032
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_149
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 3205dd9d4533e294180a4b12191d2f57
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_150
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 8ac6e9e4678f4e24aa0bda1be9c397fa
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_151
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 570b72cbe8350ff4396502ac3c50ccb2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_152
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 9f0544f596858be4ea6e05494e720fb3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_153
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 318568e68ce978847b1296e79a6cbcf1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_154
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 1a0e1cabb33f1ad4f8ec9e08e1cf7fc1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_155
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 112
+      width: 16
+      height: 16
+    spriteID: a7a3f88fad5980c4a917573ddeefdf67
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_156
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 79b2cab515e0d84409fe7422ba57c060
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_157
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 3c5ce2f5fada52e4fab55052cf407b24
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_158
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 28a73797b7ef4694e9a305912a06e1ae
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_159
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 3c9479e97c86a654c851a4c7e7869ec5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_160
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 9d0ec84576d473e48a34857b9f10a732
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_161
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 112
+      width: 16
+      height: 16
+    spriteID: b3bc621869f5ffc409660fb2108d0459
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_162
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 807c9fb21fdf99540ab733acc3144fdb
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_163
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 304
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 8ebcad4588fa2014cab9a80368d85373
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_164
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 320
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 6c784c9661b92864b8c2a054098ac1e8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_165
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 336
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 548efc5ef63f54b42b52d469ac21d9e1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_166
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 352
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 27f95978fb1ac7640b13e653370a2770
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_167
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 368
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 6442e8fe7f6d21a4fa3885ea4fbcc884
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_168
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 54345448ba4bc244ab02d2583f49bd44
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_169
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 96
+      width: 16
+      height: 16
+    spriteID: b3b02d4e27ea8944db33d6833d64e644
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_170
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 96
+      width: 16
+      height: 16
+    spriteID: aa333aa77b746fd4e8eaa213735b7c6c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_171
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 9e1850c5015383a40be613217295adbf
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_172
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 23d9b792ed7afbf4c8c9e84969d6c816
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_173
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 757611aae7475734187f7c04229ffe5f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_174
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 87387a9c590e3904abc0642f241abd97
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_175
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 2c7c30808fb50e941b53e57a441cb40a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_176
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 96
+      width: 16
+      height: 16
+    spriteID: da1ed69724703dc46b3a9bcc0d0cbfa6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_177
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 96
+      width: 16
+      height: 16
+    spriteID: e2df723b1b0c1114397aec4ca4a40c9f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_178
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 96
+      width: 16
+      height: 16
+    spriteID: c29a0e0569657e54c95d249d105cd85c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_179
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 0cadd823f798272488bb87905fc8ed7e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_180
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 156f240217107a242ac3cf0632a0bb59
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_181
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 9c5d64bd234870740bb006078b0d7f4e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_182
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 96
+      width: 16
+      height: 16
+    spriteID: f727fae82be378c47920bbe21fb8b7c7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_183
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 54e8b6f26a623c94c95ebe05fbcc8df8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_184
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 3fcf4c8c07b03e64089b72ae115f9cb2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_185
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 96
+      width: 16
+      height: 16
+    spriteID: bb729eb65e0fbcf41af43179ca25ced0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_186
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 96
+      width: 16
+      height: 16
+    spriteID: b3965e90670fe05438cdff9f82453332
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_187
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 304
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 4cb7857a572ccd74b95fa5a7b126b322
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_188
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 320
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 618df41d950323e48a3a3668ffab34f8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_189
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 336
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 9145268c37c767a4d833027ac4c20a36
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_190
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 352
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 83eca69aa4a2d524ab8415a69cee98f2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_191
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 368
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 2b1f2a2a803233f4998424c1d9602a1f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_192
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 6cfa3a5bafeace046b05f85a6274f718
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_193
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 4cea51cfcdc8cf04cbd94b34a1d2cb00
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_194
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 80
+      width: 16
+      height: 16
+    spriteID: c1779b782fbc0b44392e717a7176a8ce
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_195
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 98a6bc8507f17b645b674d33403cae9b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_196
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 80
+      width: 16
+      height: 16
+    spriteID: f10add0729913004d9c2d665734061cb
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_197
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 1bb1a40ff4761964da615b1f9d0c1d83
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_198
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 6ce0b7ba0aa6c754fa0abc08ccba96b5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_199
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 80
+      width: 16
+      height: 16
+    spriteID: c01d4ed9a10ac86458f590558615353d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_200
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 80
+      width: 16
+      height: 16
+    spriteID: e52265ff990b8f24f9686abc1859517b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_201
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 5367268dfbafbba49bca65b259767d50
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_202
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 80
+      width: 16
+      height: 16
+    spriteID: cbc554dd0d4a62b41b06ae63adc87e20
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_203
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 1657c5511748b53438ac71be3c4431db
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_204
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 314af27166eb1ac459ee8952567dfef7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_205
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 80
+      width: 16
+      height: 16
+    spriteID: c027bd1c1827bd54b8eb39437d6dd305
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_206
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 80
+      width: 16
+      height: 16
+    spriteID: b4c05cc6a091dbd4cb638287ece9f625
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_207
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 6d771184388714b4ab3bd39fbf3d7f60
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_208
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 80
+      width: 16
+      height: 16
+    spriteID: ece830bfb02aa3f41b6920287e6a834e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_209
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 993e5fe108ec60c42b0f8cec11ada465
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_210
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 87b732ecd6ed2f645a662659d4365bae
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_211
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 304
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 950072aab7de22c4b9eb49ad15ac4b40
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_212
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 320
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 12cf733431deabe40b511d89d87ff1ff
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_213
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 336
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 87401f35ecf9b5542ac48ad16cd11d61
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_214
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 352
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 6808f7222ea27e247a742ecf37a76554
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_215
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 368
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 1c2d095871accc44b934d77e0479dde1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_216
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 6f234441e351e1c45a23ad2b8e8b65b2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_217
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 64
+      width: 16
+      height: 16
+    spriteID: d4765224ac1d83943b5becf4141b221b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_218
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 04f0eb509d48341459a4e143db51cdf8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_219
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 8c239b3321366ea4cac9577a1d8447f8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_220
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 64
+      width: 16
+      height: 16
+    spriteID: c5a0c480dac9d9a408a812a925bc0d28
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_221
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 64
+      width: 16
+      height: 16
+    spriteID: cb8868d5e39566d4cb390a67487b6845
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_222
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 8c1180de493c1bb41a8b90a167db4334
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_223
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 764874bea4516154e807cf5f3a81a9bc
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_224
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 64
+      width: 16
+      height: 16
+    spriteID: aad22888635a6a843b850831828b7393
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_225
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 7934654dceb9dd94a92cc0e94f243403
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_226
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 64
+      width: 16
+      height: 16
+    spriteID: bc0b1285d98e10345a2039bd89db19ef
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_227
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 59a9226e415f1474d9b800e1f0c1bf0d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_228
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 16fc920c9f45bc6438f025f45ad8e355
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_229
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 458eda84f1fc3de4889672eb22c200ea
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_230
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 403dea4973063a74f80d4e0747fb990d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_231
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 3f104586fe5f850459246ee794718ed9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_232
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 64
+      width: 16
+      height: 16
+    spriteID: a70d111dd3431f44692db5438de29f9e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_233
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 1ccbc3df7bf7ddd48ac17ac10d3ea8ed
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_234
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 99211fbecda090945a0b4fc3084d0793
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_235
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 304
+      y: 64
+      width: 16
+      height: 16
+    spriteID: b9034a036ffb30f45bd7210758f2c959
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_236
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 320
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 39a192a15976c794d9f165d844d4cf92
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_237
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 336
+      y: 64
+      width: 16
+      height: 16
+    spriteID: cdd53043228a9974e8c05b09f8a58eaf
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_238
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 352
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 9cb8111ffa72ad24dba4561ca5f2577b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_239
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 368
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 777c2d9d24195d1428f048971dde86de
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_240
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 48
+      width: 16
+      height: 16
+    spriteID: d53cbe0b5e9f0fe40a5225c7d3efa878
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_241
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 956d6b22d79784f479dc53bf7e7688ff
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_242
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 037271d1d158e634b9dde2590ee96a00
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_243
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 48
+      width: 16
+      height: 16
+    spriteID: b4ffea01d8406ea43b17025797d40395
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_244
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 4bd4b76eaec2a8346bdc6fc0093da814
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_245
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 48
+      width: 16
+      height: 16
+    spriteID: fed1dea45d93f984fb22ab46fefd5faf
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_246
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 3f6546ae2ab70144ba674e96d1179582
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_247
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 0e81d87ce4127464390a79175b119a2d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_248
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 48
+      width: 16
+      height: 16
+    spriteID: a843ec70e5eaecd4694d7e1afec7911c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_249
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 48
+      width: 16
+      height: 16
+    spriteID: fcd4c9fdf52d4cc4690b9b4c7b381b29
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_250
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 704c708258602da4aa9b4ee59455e812
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_251
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 0d46bdb5373980a45a05cc8e2b33f325
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_252
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 768bea11658fedf49887ac5fffe88b74
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_253
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 01181f23e631f1c42a97803258933544
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_254
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 48
+      width: 16
+      height: 16
+    spriteID: be9f67f55cb9ac742b9182eb01b80e0d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_255
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 614029ba0beebbf48a6953e89f77e9b5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_256
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 094fca17a5f634e4a9752e2929eccb69
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_257
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 48
+      width: 16
+      height: 16
+    spriteID: ccea8aef00a989f45996d37801934e86
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_258
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 1a0c6e38a7f51ae4ea47adaba7a45845
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_259
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 304
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 2c3479f3b695edd4dbc48d438e0982c6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_260
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 320
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 3e34a375fec54ea43acd53b3098c2846
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_261
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 336
+      y: 48
+      width: 16
+      height: 16
+    spriteID: cfc80bc034c0bca4d832fa30ee26afb1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_262
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 352
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 2887ca1eaf7cd1446a69ef4152d8abf2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_263
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 368
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 8459684d8801c0b4aa74501e20a3a1cb
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_264
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 67af633d4c683b046be9d3de06944de5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_265
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 4620e3340d38fc143b16deda8da24a46
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_266
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 32
+      width: 16
+      height: 16
+    spriteID: d62684fb38f75954c913777654aa461d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_267
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 963aaed88193b5c4a9d30963f693ed68
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_268
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 45bf43b881ec9844e8601cd677ae4cd7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_269
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 32
+      width: 16
+      height: 16
+    spriteID: e8664a6216171aa4ea25c588fb5d5ef7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_270
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 44d105e4ddd1abc4ab2ff9aaaebdca79
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_271
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 504b8152fc90ed54088428bb1ebf9919
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_272
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 32
+      width: 16
+      height: 16
+    spriteID: bddd2079c015d1248a9a09f72faeaf13
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_273
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 32
+      width: 16
+      height: 16
+    spriteID: d8e2e78a408262c4c911280b0af11773
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_274
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 57ec46bfbd572974e9c4920e0ac36bd0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_275
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 6ed36a4ce57426242979e1657388e291
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_276
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 0f9170caf1e427747bd492142697887d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_277
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 357a9ddfbaa2c904583e4cf3592786dd
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_278
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 31b253bb260bbec46af6b768b09e628f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_279
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 32
+      width: 16
+      height: 16
+    spriteID: e0175397fb1c6894f9aae6bfecbba3d4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_280
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 6a8f5b184cc037440921c960a20f6da6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_281
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 32
+      width: 16
+      height: 16
+    spriteID: f8e2e21d4e0e8cf4f930e70350ad30bc
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_282
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 26ffc6ce411a1ea4d8e3444f85f25932
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_283
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 304
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 90ebef3cbf4f8a247a7c5a40687fa3ae
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_284
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 320
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 9d55750007fd85449a1733fa62fc5842
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_285
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 336
+      y: 32
+      width: 16
+      height: 16
+    spriteID: a680c8d77fd59ef46bca8c4913e96fa0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_286
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 352
+      y: 32
+      width: 16
+      height: 16
+    spriteID: e98dd133c486d114a88c99d26fcb0dc5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_287
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 368
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 9a8efb98b551fa242859e1e526611499
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_288
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 0ebb6b1ab8d74fd4aaf397a27a2c7aa3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_289
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 9afbbf033ba36fd44b9af0f83b1fbe25
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_290
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 16
+      width: 16
+      height: 16
+    spriteID: a8d76073304d0cb4b8cca1fb2eecb71a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_291
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 16
+      width: 16
+      height: 16
+    spriteID: b0ad97848a1a8cc4aa1cdee904cbd544
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_292
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 997c9a670faf2fe4586a45cd9b01af91
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_293
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 51e92ff9de33ed640acee0219df3fc95
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_294
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 16
+      width: 16
+      height: 16
+    spriteID: a9969ddc613a28a43ae0f2656ed133ca
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_295
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 16
+      width: 16
+      height: 16
+    spriteID: da2bede276c7049418fd172b36ab6697
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_296
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 2ca54338b1730964ca23fa3695c0b9b1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_297
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 3e1878969558233408142a1df4012446
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_298
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 598335f183eb3c04fbb3971bcb0999e5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_299
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 16fe7e23f9a569442b8636e4fb75691b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_300
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 6ea4f4396c6890f4d9c94bfbc169fa49
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_301
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 815b17e4b84398b4687546e58dcc0cb1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_302
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 16
+      width: 16
+      height: 16
+    spriteID: d489a52b98c50b2439c98f8b54f21582
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_303
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 91cc3b00f26e60f4db79a38f124afd42
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_304
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 066e1cb740a04f540a28e75280526f23
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_305
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 16
+      width: 16
+      height: 16
+    spriteID: f06dd67df7106694e8512fc1247d334a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_306
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 6809a695fd32fed47bfe713768efc21d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_307
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 304
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 20348532734249d4980fe12f671eebf9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_308
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 320
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 1ef5b6b0de7810e4fbda5694b8a313ab
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_309
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 336
+      y: 16
+      width: 16
+      height: 16
+    spriteID: f1eb8ebbcf257274aa5c20ee9c3b96db
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_310
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 352
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 151657f659e5a0f458e8ac5f3dbd71cc
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_311
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 368
+      y: 16
+      width: 16
+      height: 16
+    spriteID: bd7ecbc1f68d2974ab359359f50d4166
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_312
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 16
+      height: 16
+    spriteID: fe19b66c582e65448a3bf7e251aaf6b1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_313
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 0
+      width: 16
+      height: 16
+    spriteID: e723198fda708504eaa78ad02452419f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_314
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 0
+      width: 16
+      height: 16
+    spriteID: e1d925457acae2745aea29cb44996569
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_315
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 0
+      width: 16
+      height: 16
+    spriteID: ae44850410ef3d84caf8fb7f83c00c60
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_316
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 4f9d727b4e85c4b46a5967f674e3e407
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_317
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 0
+      width: 16
+      height: 16
+    spriteID: f710319f0ad026944bb942133b108083
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_318
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 0
+      width: 16
+      height: 16
+    spriteID: cf46d91eff2779c4180e835971bbf64c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_319
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 0
+      width: 16
+      height: 16
+    spriteID: f43a86d5b6e4a7d4191e1ac7b6f6429c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_320
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 173a049f0b8ecc24094485317bf2fee1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_321
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 0
+      width: 16
+      height: 16
+    spriteID: d588e6feaed32ee45bb7ce790e5db01f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_322
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 5fd0a083381266d4f9b0e7879c849b51
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_323
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 864ed36d665e5214f9b44058e43c727d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_324
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 0
+      width: 16
+      height: 16
+    spriteID: d2fffee07ca6d4b479e94d3fb4a9386c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_325
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 290210a09a6554e4baafcdcea739199a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_326
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 395dd634cd142a04bbf14fc6f008a6af
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_327
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 0
+      width: 16
+      height: 16
+    spriteID: e8c7e991b7475cc4ea410e57e4ae01be
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_328
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 7b6ea6c59ba6d6e4799745cfe1eebc5e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_329
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 7036fc6392a655f459c90db19519eafe
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_330
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 0
+      width: 16
+      height: 16
+    spriteID: e1ca9956254c62942baf29de4451b0a0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_331
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 304
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 225d112bccebbab42b671dc0b5e2d3ef
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_332
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 320
+      y: 0
+      width: 16
+      height: 16
+    spriteID: e93a028295b5ac74d992f8c08d14e943
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_333
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 336
+      y: 0
+      width: 16
+      height: 16
+    spriteID: be55999a4dd007641877e2993219d45e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_334
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 352
+      y: 0
+      width: 16
+      height: 16
+    spriteID: fc520e954e0cab34bb2917dd9d18d8e6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Adam_16x162_335
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 368
+      y: 0
+      width: 16
+      height: 16
+    spriteID: a260564fe86bcb444a5f749082b8fed9
+    spriteOutline: []
+    tessellationDetail: 0
+  _secondaryTextures: []
