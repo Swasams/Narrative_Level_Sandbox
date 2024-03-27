@@ -417,16 +417,7 @@
 			"autoTilesKilledByOtherLayerUid": null,
 			"uiFilterTags": [],
 			"useAsyncRender": false,
-<<<<<<< Updated upstream
 			"intGridValues": [],
-=======
-			"intGridValues": [
-				{ "value": 1, "identifier": null, "color": "#E4A672", "tile": null, "groupUid": 0 },
-				{ "value": 2, "identifier": null, "color": "#EAD4AA", "tile": null, "groupUid": 0 },
-				{ "value": 5, "identifier": null, "color": "#727F92", "tile": null, "groupUid": 0 },
-				{ "value": 4, "identifier": null, "color": "#417DF0", "tile": null, "groupUid": 0 }
-			],
->>>>>>> Stashed changes
 			"intGridValuesGroups": [],
 			"autoRuleGroups": [],
 			"autoSourceLayerDefUid": null,
