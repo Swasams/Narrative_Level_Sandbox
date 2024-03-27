@@ -2,7 +2,7 @@
 	"identifier": "Level_0",
 	"uniqueIdentifer": "06fd8ce0-b0a0-11ee-aa21-3d684df0b35c",
 	"x": -176,
-	"y": -64,
+	"y": -48,
 	"width": 672,
 	"height": 800,
 	"bgColor": "#696A79",
@@ -13,13 +13,16 @@
 		},
 		{
 			"levelIid": "30896350-d7b0-11ee-8dac-2f70fb7d1885",
-			"dir": "n"
+			"dir": "nw"
 		}
 	],
 	"customFields" : {},
 	"layers": [
+		"Grass.png",
 		"Floors.png",
 		"Walls.png",
+		"IntGrid_Grass.png",
+		"AutoLayer_Grass.png",
 		"IntGrid_Floors.png",
 		"AutoLayer_Floors.png",
 		"IntGrid_Walls.png",

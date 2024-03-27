@@ -1,7 +1,7 @@
 {
 	"identifier": "Level_3",
 	"uniqueIdentifer": "39e15b10-d7b0-11ee-8dac-8f7cbb0104af",
-	"x": -832,
+	"x": -880,
 	"y": -368,
 	"width": 288,
 	"height": 176,
@@ -18,8 +18,11 @@
 	],
 	"customFields" : {},
 	"layers": [
+		"Grass.png",
 		"Floors.png",
 		"Walls.png",
+		"IntGrid_Grass.png",
+		"AutoLayer_Grass.png",
 		"IntGrid_Floors.png",
 		"AutoLayer_Floors.png",
 		"IntGrid_Walls.png",
