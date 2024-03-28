@@ -1,0 +1,17 @@
+{
+	"identifier": "Level_2",
+	"uniqueIdentifer": "dfa7f4b0-d7b0-11ee-be41-c352dd1fd166",
+	"x": 608,
+	"y": -144,
+	"width": 256,
+	"height": 256,
+	"bgColor": "#696A79",
+	"neighbourLevels": [],
+	"customFields" : {},
+	"layers": [
+		"Floor.png",
+		"Wall.png",
+		"Decoration.png"
+	],
+	"entities" : {}
+}
