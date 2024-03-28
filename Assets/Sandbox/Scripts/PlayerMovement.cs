@@ -39,7 +39,10 @@ public class PlayerMovement : MonoBehaviour
 
         // Set animation parameters based on movement
         animator.SetFloat("Speed", Mathf.Abs(moveInput));
-
+        if (moveInput == 0)
+        {
+            animator.SetTrigger("idle");
+        }
         // Flip the character if moving left or right
         if (moveInput != 0)
         {
