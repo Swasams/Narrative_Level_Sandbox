@@ -498,6 +498,11 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &798792013 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 774222033002561856, guid: c1e751e932b05534daecb4d2cc0db17b, type: 3}
+  m_PrefabInstance: {fileID: 517965682}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &825881629
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1053,11 +1058,6 @@ TilemapCollider2D:
   m_CorrespondingSourceObject: {fileID: -5934498063133112135, guid: 63b19de8d3f3a1e4fa2e2ee9e07841f5, type: 3}
   m_PrefabInstance: {fileID: 1411351388}
   m_PrefabAsset: {fileID: 0}
---- !u!4 &1928660219 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 1151035891273971304, guid: db753b2d3dd19b84daf4bae0016d54eb, type: 3}
-  m_PrefabInstance: {fileID: 878542280271521635}
-  m_PrefabAsset: {fileID: 0}
 --- !u!19719996 &1975056208 stripped
 TilemapCollider2D:
   m_CorrespondingSourceObject: {fileID: -3567302330329518160, guid: 63b19de8d3f3a1e4fa2e2ee9e07841f5, type: 3}
@@ -1563,7 +1563,7 @@ PrefabInstance:
     - target: {fileID: 2149549195594705248, guid: 762f363e3b6b7894889ff801a06af880, type: 3}
       propertyPath: playerTransform
       value: 
-      objectReference: {fileID: 1928660219}
+      objectReference: {fileID: 798792013}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
