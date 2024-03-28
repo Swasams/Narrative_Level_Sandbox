@@ -8,4 +8,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Sandbox/Scenes/Sandbox.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/JoshK/JoshScenes/Scenes/TitleScreen.unity
+    guid: 8cfea21cfbbea9141b3ec5e80f41d0fa
+  - enabled: 1
+    path: Assets/JoshK/JoshScenes/Narrative_Level_SandboxVer1.unity
+    guid: 98a9cb8aeb4c71347a2c921bc9e2258f
   m_configObjects: {}
