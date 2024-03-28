@@ -1,10 +1,10 @@
 {
 	"identifier": "Level_2",
 	"uniqueIdentifer": "fc5d74b0-d7b0-11ee-909d-99f382c269c5",
-	"x": 2064,
-	"y": 0,
-	"width": 500,
-	"height": 500,
+	"x": 1824,
+	"y": 736,
+	"width": 644,
+	"height": 324,
 	"bgColor": "#696A79",
 	"neighbourLevels": [],
 	"customFields" : {},
@@ -21,7 +21,9 @@
 		"Level_1_Ground.png",
 		"Level_1_props2.png",
 		"Level1_Wallframe.png",
-		"Level_1_Props.png"
+		"Level_1_Props.png",
+		"Level2_Ground.png",
+		"Level_2_Props.png"
 	],
 	"entities" : {}
 }

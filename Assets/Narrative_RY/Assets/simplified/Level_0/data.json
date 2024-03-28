@@ -1,8 +1,8 @@
 {
 	"identifier": "Level_0",
 	"uniqueIdentifer": "349b3780-b0a0-11ee-8231-9324718295a8",
-	"x": -320,
-	"y": -48,
+	"x": -512,
+	"y": 16,
 	"width": 660,
 	"height": 676,
 	"bgColor": "#696A79",
@@ -21,7 +21,9 @@
 		"Level_1_Ground.png",
 		"Level_1_props2.png",
 		"Level1_Wallframe.png",
-		"Level_1_Props.png"
+		"Level_1_Props.png",
+		"Level2_Ground.png",
+		"Level_2_Props.png"
 	],
 	"entities" : {}
 }
