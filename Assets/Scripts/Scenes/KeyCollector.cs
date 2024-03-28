@@ -1,19 +1,23 @@
-using System;
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class KeyCollector : MonoBehaviour
 {
-    DoorController doorController;
+    [Header("References")]
+    [SerializeField] private DoorController doorController;
+    [SerializeField] private Blockade blockade;
 
     [Header("Door")]
-    public GameObject door;
+    [SerializeField] private GameObject door;
+    [SerializeField] private GameObject counter;
     [SerializeField] private GameObject key;
 
     void Start()
     {
-        doorController = door.GetComponent<DoorController>();
+        if (counter != null)
+            blockade = counter.GetComponent<Blockade>();
+
+        if (door != null)
+            doorController = door.GetComponent<DoorController>();
     }
 
     private void OnTriggerEnter2D(Collider2D collider)
@@ -22,9 +26,11 @@ public class KeyCollector : MonoBehaviour
         {
             print("Picked Up The Key!");
 
-            doorController.isKeyCollected = true;
+            if (blockade != null)
+                blockade.isKeyCollected = true;
 
-            ///SoundManager.Instance.PlaySound2D("Key");
+            if (doorController != null)
+                doorController.isKeyCollected = true;
 
             key.SetActive(false);
         }

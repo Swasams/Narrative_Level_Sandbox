@@ -3198,16 +3198,8 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4440952854045208308, guid: 1892583cce873b845ad40b522c9cdc60, type: 3}
       propertyPath: m_Name
-      value: RotatingKey
+      value: Key
       objectReference: {fileID: 0}
-    - target: {fileID: 6009857050590309453, guid: 1892583cce873b845ad40b522c9cdc60, type: 3}
-      propertyPath: door
-      value: 
-      objectReference: {fileID: 0}
-    - target: {fileID: 6009857050590309453, guid: 1892583cce873b845ad40b522c9cdc60, type: 3}
-      propertyPath: counter
-      value: 
-      objectReference: {fileID: 676893071}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []

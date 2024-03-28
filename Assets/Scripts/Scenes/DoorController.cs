@@ -1,11 +1,7 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class DoorController : MonoBehaviour
 {
-    KeyCollector key;
-    
     [Header("Door State")]
     [SerializeField] private GameObject doorOpen;
     [SerializeField] private GameObject doorClosed;
@@ -18,8 +14,6 @@ public class DoorController : MonoBehaviour
     [Header("Room Clear")]
     public bool isRoomCleared = false;
 
-    private AudioSource doorOpened;
-
     void Start()
     {
         roomManager = GameObject.FindWithTag("Teleporter");
@@ -31,8 +25,6 @@ public class DoorController : MonoBehaviour
 
         doorOpen = GameObject.FindWithTag("Opened");
         doorOpen.SetActive(true);
-
-        key = GetComponent<KeyCollector>();
     }
 
     void Update()
@@ -42,8 +34,6 @@ public class DoorController : MonoBehaviour
             doorClosed.SetActive(false);
             doorOpen.SetActive(true);
             managerColl2D.enabled = true;
-
-            //SoundManager.Instance.PlaySound2D("Door");
         }
         else
         {
