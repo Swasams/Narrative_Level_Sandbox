@@ -1,12 +1,7 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.SceneManagement;
 
 public class RoomManager : MonoBehaviour
 {
-    BoxCollider2D coll2D;
-
     [Header("Current Room")]
     public int roomNumber = 1;
 
@@ -17,20 +12,7 @@ public class RoomManager : MonoBehaviour
 
     private void Awake()
     {
-        if (Instance != null)
-        {
-            Destroy(gameObject);
-        }
-        else
-        {
-            Instance = this;
-            DontDestroyOnLoad(gameObject);
-        }
-    }
-
-    void Start()
-    {
-        coll2D = gameObject.GetComponent<BoxCollider2D>();
+        Instance = this;
     }
 
     public void ResetInts()
@@ -39,7 +21,7 @@ public class RoomManager : MonoBehaviour
         index = 2;
     }
 
-    public void RoomRandomizer()
+    public void RoomSwitcher()
     {
         LevelManager.Instance.LoadScene(index, "SquareWipe");
     }
@@ -50,7 +32,7 @@ public class RoomManager : MonoBehaviour
         {
             Debug.Log("Successfully Moved To Next Room!");
 
-            RoomRandomizer();
+            RoomSwitcher();
             roomNumber++;
         }
     }
