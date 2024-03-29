@@ -12,6 +12,6 @@ EditorBuildSettings:
     path: Assets/JoshK/JoshScenes/Scenes/TitleScreen.unity
     guid: 8cfea21cfbbea9141b3ec5e80f41d0fa
   - enabled: 1
-    path: Assets/JoshK/JoshScenes/Narrative_Level_SandboxVer1.unity
+    path: Assets/JoshK/JoshScenes/Level0Start.unity
     guid: 98a9cb8aeb4c71347a2c921bc9e2258f
   m_configObjects: {}
