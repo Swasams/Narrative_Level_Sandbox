@@ -3651,6 +3651,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Alex
       objectReference: {fileID: 0}
+    - target: {fileID: 7567968067753349831, guid: 2f3de8b8b68032f40be3c911fd8d76a2, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.09
+      objectReference: {fileID: 0}
     - target: {fileID: 8956329320715952865, guid: 2f3de8b8b68032f40be3c911fd8d76a2, type: 3}
       propertyPath: m_LocalPosition.x
       value: 3.05
