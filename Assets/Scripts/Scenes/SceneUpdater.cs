@@ -44,7 +44,7 @@ public class SceneUpdater : MonoBehaviour
                 Outside();
                 break;
             case 2:
-                MusicManager.Instance.PlayMusic("Wind");
+                MusicManager.Instance.PlayMusic("MainStore");
                 Inside();
                 break;
             case 3:

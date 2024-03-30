@@ -189,13 +189,19 @@ public class DayNightSystem2D : MonoBehaviour
 
     public void OutsideLighting()
     {
-        globalLight.intensity = .6f;
+        globalLight.intensity = 1f;
         CycleSetting();
     }
 
     public void InsideLighting()
     {
         globalLight.color = Color.white;
-        globalLight.intensity = .37f;
+        globalLight.intensity = .8f;
+    }
+
+    public void ChaseLighting()
+    {
+        globalLight.color = new Color (0.8301887f, 0.2459238f, 0.2606038f);
+        globalLight.intensity = .5f;
     }
 }

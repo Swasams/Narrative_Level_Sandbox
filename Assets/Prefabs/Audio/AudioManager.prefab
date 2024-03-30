@@ -137,8 +137,8 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6823334850442534126}
-  - component: {fileID: 2698853610660414133}
   - component: {fileID: 6314153115701191962}
+  - component: {fileID: 2698853610660414133}
   - component: {fileID: 5010997526477968130}
   - component: {fileID: 5041180191689430930}
   m_Layer: 0
@@ -165,20 +165,6 @@ Transform:
   - {fileID: 8118034698878393368}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &2698853610660414133
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2159476676540959635}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 65507f319aae6904d9ab2fe0f36343f9, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  sfxLibrary: {fileID: 6314153115701191962}
-  sfx2DSource: {fileID: 4766474222731856795}
 --- !u!114 &6314153115701191962
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -198,6 +184,20 @@ MonoBehaviour:
   - groupID: Key
     clips:
     - {fileID: 8300000, guid: 98a2bf78447fe9442be097d62af24b4e, type: 3}
+--- !u!114 &2698853610660414133
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2159476676540959635}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 65507f319aae6904d9ab2fe0f36343f9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sfxLibrary: {fileID: 6314153115701191962}
+  sfx2DSource: {fileID: 4766474222731856795}
 --- !u!114 &5010997526477968130
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -213,9 +213,15 @@ MonoBehaviour:
   tracks:
   - trackName: Menus
     clip: {fileID: 8300000, guid: c76e865776bdbc04780edc2e21a8c8ed, type: 3}
-  - trackName: Gameplay
-    clip: {fileID: 0}
   - trackName: Wind
+    clip: {fileID: 8300000, guid: 458e9581cbc736248bdaee998765fc42, type: 3}
+  - trackName: MainStore
+    clip: {fileID: 0}
+  - trackName: BackRoom
+    clip: {fileID: 8300000, guid: 458e9581cbc736248bdaee998765fc42, type: 3}
+  - trackName: Basement
+    clip: {fileID: 8300000, guid: 458e9581cbc736248bdaee998765fc42, type: 3}
+  - trackName: Chase
     clip: {fileID: 8300000, guid: 458e9581cbc736248bdaee998765fc42, type: 3}
 --- !u!114 &5041180191689430930
 MonoBehaviour:

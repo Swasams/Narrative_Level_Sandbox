@@ -7,6 +7,7 @@ public class TopDownPlayerMovement : MonoBehaviour
 
     [Header("Animation")]
     [SerializeField] private Animator anim;
+    [SerializeField] private float idleTime;
 
     [Header("Movement")]
     [SerializeField] private InputActionReference walk;
@@ -63,9 +64,36 @@ public class TopDownPlayerMovement : MonoBehaviour
             anim.SetFloat("LastMoveY", Input.GetAxisRaw("Vertical"));
         }
 
+        if (anim.GetFloat("Speed") >= 0.01)
+        {
+            anim.SetBool("Idle", false);
+        }
+
         if (anim.GetFloat("Speed") == 0)
         {
-            anim.SetBool("Running", false);
+            Idle();
+        }
+
+        if (anim.GetBool("Idle") == true && anim.GetFloat("LastMoveY") <= -0.01f)
+        {
+            idleTime += Time.deltaTime;
+
+            anim.SetFloat("IdleTime", idleTime);
+
+            if (idleTime >= 3)
+            {
+                Phone();
+            }
+            
+            if (idleTime >= 8)
+            {
+                anim.SetBool("Phone", false);
+                idleTime = -3;
+            }
+        }
+        else
+        {
+            idleTime = -3;
         }
 
         if (anim.GetFloat("Vertical") >= 0.1)
@@ -106,6 +134,20 @@ public class TopDownPlayerMovement : MonoBehaviour
         dust.Play();
     }
 
+    private void Idle()
+    {
+        anim.SetBool("Running", false);
+
+        dust.Stop();
+
+        anim.SetBool("Idle", true);
+    }
+
+    private void Phone()
+    {
+        anim.SetBool("Phone", true);
+    }
+
     private void OnEnable()
     {
         run.action.started += Run;
@@ -116,13 +158,23 @@ public class TopDownPlayerMovement : MonoBehaviour
         run.action.started -= Run;
     }
 
-    private void Run(InputAction.CallbackContext context)
+    public void Run(InputAction.CallbackContext context)
     {
         if (isPaused)
         {
             return;
         }
 
-        anim.SetBool("Running", true);
+        if (context.performed)
+        {
+            if (anim.GetBool("Speed") == true)
+            {
+                anim.SetBool("Running", false);
+            }
+            else
+            {
+                anim.SetBool("Running", true);
+            }
+        }
     }
 }

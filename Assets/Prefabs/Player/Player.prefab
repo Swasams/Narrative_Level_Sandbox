@@ -27,7 +27,7 @@ Transform:
   m_GameObject: {fileID: 2348619402437881086}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: -0.7, z: 0}
+  m_LocalPosition: {x: 0, y: -2.01, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -4902,7 +4902,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 1257813216, guid: 5705833e0d46fbf42bf4b3a2d9daba41, type: 3}
+  m_Sprite: {fileID: -1340847386, guid: 6da7e09330fe44a409320fefef023a3b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -4921,9 +4921,9 @@ Animator:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4420963078776658373}
-  m_Enabled: 0
+  m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: b283caca3eb03094aa34c51a4cf95506, type: 2}
+  m_Controller: {fileID: 9100000, guid: 768a960de8925d24a8df344d992a5524, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -5030,9 +5030,9 @@ CircleCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: -1.5}
+  m_Offset: {x: 0, y: -1.8}
   serializedVersion: 2
-  m_Radius: 0.5
+  m_Radius: 0.4
 --- !u!114 &6252946893354523304
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5063,7 +5063,19 @@ MonoBehaviour:
     m_ActionId: 092310e3-9d9f-4c6d-a601-4e7e15524360
     m_ActionName: Player/Walk[/Keyboard/w,/Keyboard/upArrow,/Keyboard/s,/Keyboard/downArrow,/Keyboard/a,/Keyboard/leftArrow,/Keyboard/d,/Keyboard/rightArrow]
   - m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 3940512509676381526}
+        m_TargetAssemblyTypeName: TopDownPlayerMovement, Assembly-CSharp
+        m_MethodName: Run
+        m_Mode: 0
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
     m_ActionId: 9258eb82-e6f5-4005-a84b-5371d4f23ea1
     m_ActionName: Player/Run[/Keyboard/leftShift]
   - m_PersistentCalls:
@@ -5132,11 +5144,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   anim: {fileID: 6709261758325662728}
+  idleTime: 0
   walk: {fileID: 1257987186508566492, guid: be0933a7b7d9583438a20bdc5d951f92, type: 3}
   run: {fileID: 2904068783975007077, guid: be0933a7b7d9583438a20bdc5d951f92, type: 3}
   walkSpeed: 5
   runSpeed: 10
-  dust: {fileID: 4117594913761152222, guid: 9f5b691a40b937a43bef8d3449ecb309, type: 3}
+  dust: {fileID: 2000360831805205390}
   isPaused: 0
   collisionLayers:
     serializedVersion: 2
