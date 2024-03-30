@@ -5,6 +5,7 @@ public class Blockade : MonoBehaviour
 {
     [Header("Blockade State")]
     [SerializeField] private BoxCollider2D blockade;
+    [SerializeField] private GameObject blockadeObject;
 
     [Header("Keys")]
     public bool isKeyCollected = false;
@@ -23,10 +24,12 @@ public class Blockade : MonoBehaviour
         if (isKeyCollected)
         {
             blockade.isTrigger = true;
+            blockadeObject.SetActive(false);
         }
         else
         {
             blockade.isTrigger = false;
+            blockadeObject.SetActive(true);
         }
     }
 

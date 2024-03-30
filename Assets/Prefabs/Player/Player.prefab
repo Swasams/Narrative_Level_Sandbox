@@ -4947,6 +4947,7 @@ GameObject:
   - component: {fileID: 5485857012069643343}
   - component: {fileID: 6252946893354523304}
   - component: {fileID: 3940512509676381526}
+  - component: {fileID: 3205127157685085916}
   m_Layer: 3
   m_Name: Player
   m_TagString: Player
@@ -5154,3 +5155,23 @@ MonoBehaviour:
   collisionLayers:
     serializedVersion: 2
     m_Bits: 384
+--- !u!114 &3205127157685085916
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4935840373812889560}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25fb867d2049d41f597aefdd6b19f598, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  nameText: Amelia
+  nameColor: {r: 0.6117647, g: 0.29803923, b: 0.37647063, a: 1}
+  soundEffect: {fileID: 0}
+  portraits:
+  - {fileID: 0}
+  portraitsFace: 0
+  setSayDialog: {fileID: 0}
+  description: 

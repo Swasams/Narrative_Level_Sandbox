@@ -23,14 +23,19 @@ public class EnemyAI : MonoBehaviour
     [SerializeField] private bool canAttack;
     [SerializeField] private float attackDelay;
 
+    [Header("Current Scene")]
+    [SerializeField] private int currentScene;
+
     private GameObject player;
 
     private void Awake()
     {
-        anim = gameObject.GetComponent<Animator>();
+        anim = gameObject.GetComponentInChildren<Animator>();
 
         player = GameObject.FindWithTag("Player");
         target = player.transform;
+
+        currentScene = SceneManager.GetActiveScene().buildIndex;
     }
 
     private void FixedUpdate()
@@ -39,10 +44,6 @@ public class EnemyAI : MonoBehaviour
         {
             transform.position = Vector2.MoveTowards(transform.position, target.position, speed * Time.deltaTime);
             transform.eulerAngles = target.eulerAngles;
-        }
-        else
-        {
-            //Attack Code
         }
     }
 
@@ -53,10 +54,12 @@ public class EnemyAI : MonoBehaviour
             anim.SetFloat("Horizontal", 0);
             anim.SetFloat("Vertical", 0);
             anim.SetFloat("Speed", 0);
-            anim.Play("Idle");
+            anim.SetBool("Idle", true);
         }
         else
         {
+            anim.SetBool("Idle", false);
+
             moveDirection = target.position - transform.position;
 
             anim.SetFloat("Horizontal", moveDirection.x);
@@ -72,7 +75,7 @@ public class EnemyAI : MonoBehaviour
             }
             else
             {
-                anim.SetBool("NewAttack", false);
+                
             }
         }
 
@@ -90,7 +93,6 @@ public class EnemyAI : MonoBehaviour
 
     public void SlamAttack()
     {
-        anim.SetBool("NewAttack", true);
         canAttack = false;
         Attack();
     }
@@ -103,7 +105,7 @@ public class EnemyAI : MonoBehaviour
         {
             Debug.Log("We hit: " + player.name);
 
-            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+            SceneManager.LoadScene(currentScene);
         }
     }
 

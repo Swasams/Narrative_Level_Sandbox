@@ -31,7 +31,8 @@
 		"AutoLayer_Floors.png",
 		"IntGrid_Walls.png",
 		"AutoLayer_Walls.png",
-		"Interior_Design.png"
+		"Interior_Design.png",
+		"Barrier.png"
 	],
 	"entities" : {}
 }
