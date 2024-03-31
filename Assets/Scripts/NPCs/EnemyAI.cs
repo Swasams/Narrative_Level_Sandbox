@@ -42,7 +42,6 @@ public class EnemyAI : MonoBehaviour
         currentScene = SceneManager.GetActiveScene().buildIndex;
 
         canMove = true;
-        canActivateAttack = true;
     }
 
     private void FixedUpdate()
@@ -175,6 +174,7 @@ public class EnemyAI : MonoBehaviour
         {
             canMove = false;
             canActivateAttack = false;
+            SetVisiblity(false);
         }
     }
 

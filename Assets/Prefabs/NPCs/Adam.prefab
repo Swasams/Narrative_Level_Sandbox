@@ -204,7 +204,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d388100c3319d95429f9171e58aaa509, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anim: {fileID: 0}
+  anim: {fileID: 1217999056671012825}
   target: {fileID: 0}
   speed: 0
   followDistance: 0

@@ -18,6 +18,9 @@ public class TopDownPlayerMovement : MonoBehaviour
     [Header("Particles")]
     [SerializeField] private ParticleSystem dust;
 
+    [Header("Controls")]
+    [SerializeField] private bool canMove;
+
     [Header("Paused")]
     public bool isPaused;
 
@@ -32,7 +35,7 @@ public class TopDownPlayerMovement : MonoBehaviour
 
     private void FixedUpdate()
     {
-        if (isPaused)
+        if (isPaused || !canMove)
         {
             return;
         }
@@ -131,6 +134,19 @@ public class TopDownPlayerMovement : MonoBehaviour
         }
     }
 
+    public void SetCanMove(bool canMove)
+    {
+        this.canMove = canMove;
+
+        if (!canMove)
+        {
+            anim.SetBool("Running", false);
+            anim.SetBool("Idle", true);
+
+            rb.velocity = Vector2.zero;
+        }
+    }
+
     private void CreateDust()
     {
         dust.Play();
@@ -162,7 +178,7 @@ public class TopDownPlayerMovement : MonoBehaviour
 
     public void Run(InputAction.CallbackContext context)
     {
-        if (isPaused)
+        if (isPaused || !canMove)
         {
             return;
         }

@@ -5151,6 +5151,7 @@ MonoBehaviour:
   walkSpeed: 5
   runSpeed: 10
   dust: {fileID: 2000360831805205390}
+  canMove: 1
   isPaused: 0
   collisionLayers:
     serializedVersion: 2

@@ -16,6 +16,7 @@ TagManager:
   - DayCycle
   - NPC
   - Global
+  - Pause
   layers:
   - Default
   - TransparentFX

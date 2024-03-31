@@ -4,14 +4,20 @@ using UnityEngine.Events;
 
 public class DialogueTrigger : MonoBehaviour
 {
+    [Header("References")]
+    public GameObject[] dialogueObjects; // Reference to the dialogue object
+
+    [Header("Fungus Flowchart")]
     public Flowchart flowchart; // Reference to the Fungus Flowchart containing the dialogue sequence
     public string[] dialogueBlockNames; // Name of the Fungus block to trigger
 
+    [Header("Dialogue Settings")]
     public bool isOneShot; // Whether the dialogue should only be triggered once
     public bool isRepeatable; // Whether the dialogue can be triggered multiple times
     public bool hasTriggered = false; // Whether the dialogue has been triggered
     public int conversationCount = 1; // Number for what conversation to trigger
 
+    [Header("Events")]
     public UnityEvent onTrigger; // Event to trigger when the dialogue is started
     public UnityEvent onEnd; // Event to trigger when the dialogue ends
 
@@ -73,6 +79,28 @@ public class DialogueTrigger : MonoBehaviour
             {
                 conversationCount = 1;
             }
+        }
+    }
+
+    public void SetStatus()
+    {
+        foreach (GameObject dialogueObject in dialogueObjects)
+        {
+            if (dialogueObject != null)
+            {
+                if (dialogueObject.activeSelf == false)
+                dialogueObject.SetActive(true);
+                else if (dialogueObject.activeSelf == true)
+                    dialogueObject.SetActive(false);
+            }
+        }
+    }
+
+    public void EndDialogue()
+    {
+        if (onEnd != null)
+        {
+            onEnd.Invoke();
         }
     }
 }
