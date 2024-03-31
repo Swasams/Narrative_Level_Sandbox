@@ -307,22 +307,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1096478268}
     m_Modifications:
-    - target: {fileID: -9119465631946932782, guid: 29437d618d763e34d8f7fa74b04d6de5, type: 3}
-      propertyPath: m_ColliderPaths.Array.size
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: -9119465631946932782, guid: 29437d618d763e34d8f7fa74b04d6de5, type: 3}
-      propertyPath: m_ColliderPaths.Array.data[0].m_Collider
-      value: 
-      objectReference: {fileID: 703101299}
-    - target: {fileID: -8733791769780249132, guid: 29437d618d763e34d8f7fa74b04d6de5, type: 3}
-      propertyPath: m_ColliderPaths.Array.size
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: -8733791769780249132, guid: 29437d618d763e34d8f7fa74b04d6de5, type: 3}
-      propertyPath: m_ColliderPaths.Array.data[0].m_Collider
-      value: 
-      objectReference: {fileID: 703101297}
     - target: {fileID: -6860928350645055900, guid: 29437d618d763e34d8f7fa74b04d6de5, type: 3}
       propertyPath: m_ColliderPaths.Array.size
       value: 1
@@ -343,14 +327,6 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 2920374451624656010, guid: 29437d618d763e34d8f7fa74b04d6de5, type: 3}
-      propertyPath: m_ColliderPaths.Array.size
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 2920374451624656010, guid: 29437d618d763e34d8f7fa74b04d6de5, type: 3}
-      propertyPath: m_ColliderPaths.Array.data[0].m_Collider
-      value: 
-      objectReference: {fileID: 703101298}
     - target: {fileID: 8111963561438740759, guid: 29437d618d763e34d8f7fa74b04d6de5, type: 3}
       propertyPath: m_LocalPosition.x
       value: -11
@@ -413,21 +389,6 @@ TilemapCollider2D:
 --- !u!4 &703101296 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 8111963561438740759, guid: 29437d618d763e34d8f7fa74b04d6de5, type: 3}
-  m_PrefabInstance: {fileID: 703101293}
-  m_PrefabAsset: {fileID: 0}
---- !u!19719996 &703101297 stripped
-TilemapCollider2D:
-  m_CorrespondingSourceObject: {fileID: 570346199909478752, guid: 29437d618d763e34d8f7fa74b04d6de5, type: 3}
-  m_PrefabInstance: {fileID: 703101293}
-  m_PrefabAsset: {fileID: 0}
---- !u!19719996 &703101298 stripped
-TilemapCollider2D:
-  m_CorrespondingSourceObject: {fileID: 933733809611634545, guid: 29437d618d763e34d8f7fa74b04d6de5, type: 3}
-  m_PrefabInstance: {fileID: 703101293}
-  m_PrefabAsset: {fileID: 0}
---- !u!19719996 &703101299 stripped
-TilemapCollider2D:
-  m_CorrespondingSourceObject: {fileID: 7539544922930941887, guid: 29437d618d763e34d8f7fa74b04d6de5, type: 3}
   m_PrefabInstance: {fileID: 703101293}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &731735340
@@ -568,7 +529,7 @@ Transform:
   m_GameObject: {fileID: 820830804}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 3.05, y: -3.43, z: -10}
+  m_LocalPosition: {x: 3.05, y: -3.39, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -724,7 +685,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2939045451470857410, guid: 8fac40e1f30b7324982b7c6f8c065611, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -3.43
+      value: -3.39
       objectReference: {fileID: 0}
     - target: {fileID: 2939045451470857410, guid: 8fac40e1f30b7324982b7c6f8c065611, type: 3}
       propertyPath: m_LocalPosition.z
@@ -876,10 +837,10 @@ PolygonCollider2D:
   m_AutoTiling: 0
   m_Points:
     m_Paths:
-    - - {x: 16.056849, y: 3.4931571}
-      - {x: -9.949735, y: 3.5170245}
-      - {x: -9.95462, y: -20.912348}
-      - {x: 15.938044, y: -20.945053}
+    - - {x: 31.156372, y: 5.490894}
+      - {x: -24.642414, y: 5.524137}
+      - {x: -24.583164, y: -22.200363}
+      - {x: 31.213226, y: -22.12266}
   m_UseDelaunayMesh: 0
 --- !u!4 &1440493333
 Transform:
@@ -1666,7 +1627,7 @@ Transform:
   m_GameObject: {fileID: 1971547020}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 3.05, y: -3.43, z: -10}
+  m_LocalPosition: {x: 3.05, y: -3.39, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
