@@ -67,6 +67,8 @@ public class TopDownPlayerMovement : MonoBehaviour
         if (anim.GetFloat("Speed") >= 0.01)
         {
             anim.SetBool("Idle", false);
+            anim.SetBool("Phone", false);
+            idleTime = -3;
         }
 
         if (anim.GetFloat("Speed") == 0)

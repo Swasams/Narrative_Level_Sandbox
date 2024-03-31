@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class RoomManager : MonoBehaviour
 {
@@ -13,6 +14,9 @@ public class RoomManager : MonoBehaviour
     private void Awake()
     {
         Instance = this;
+
+        roomNumber = SceneManager.GetActiveScene().buildIndex;
+        index = roomNumber + 1;
     }
 
     public void ResetInts()

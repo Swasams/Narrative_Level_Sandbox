@@ -136,7 +136,7 @@ public class DayNightSystem2D : MonoBehaviour
 
     public void FindGlobalLight()
     {
-        globalLightSource = GameObject.FindWithTag("Lights");
+        globalLightSource = GameObject.FindWithTag("Global");
         globalLight = globalLightSource.GetComponent<UnityEngine.Rendering.Universal.Light2D>();
     }
 
@@ -203,5 +203,11 @@ public class DayNightSystem2D : MonoBehaviour
     {
         globalLight.color = new Color (0.8301887f, 0.2459238f, 0.2606038f);
         globalLight.intensity = .5f;
+    }
+
+    public void DarkLighting()
+    {
+        globalLight.color = new Color (0.1f, 0.1f, 0.1f);
+        globalLight.intensity = 0.7f;
     }
 }

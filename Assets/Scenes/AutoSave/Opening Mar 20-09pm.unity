@@ -1910,7 +1910,7 @@ GameObject:
   - component: {fileID: 624853737}
   m_Layer: 0
   m_Name: OpeningLight
-  m_TagString: Global
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2756,12 +2756,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 854398309}
   serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 1300821094}
+  m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &887737823
 GameObject:
@@ -3413,7 +3413,6 @@ Transform:
   m_Children:
   - {fileID: 1385900484}
   - {fileID: 1960645588}
-  - {fileID: 854398313}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1301431552
@@ -6216,10 +6215,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 186966454960051208, guid: fc7a5e24cc034b1429a00a62d0b04fec, type: 3}
-      propertyPath: globalLightSource
-      value: 
-      objectReference: {fileID: 624853735}
     - target: {fileID: 5090104135708015505, guid: fc7a5e24cc034b1429a00a62d0b04fec, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.81288373
@@ -6283,3 +6278,4 @@ SceneRoots:
   - {fileID: 1573577515}
   - {fileID: 1640675283124731374}
   - {fileID: 43052462}
+  - {fileID: 854398313}

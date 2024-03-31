@@ -13,9 +13,11 @@ public class SceneUpdater : MonoBehaviour
     [Tooltip("If you want to enable/disable the day/night cycle timer while inside a scene use this bool")]
     [SerializeField] private bool stopDayCycle = false;
 
+    [Header("Debug")]
+    [SerializeField] private bool debug = false;
+
     private GameObject outsideLighting;
     DayNightSystem2D dayNightCycle;
-
 
     private void Awake()
     {
@@ -46,12 +48,21 @@ public class SceneUpdater : MonoBehaviour
                 Inside();
                 break;
             case 3:
-                Outside();
+                Inside();
                 break;
             case 4:
-                Outside();
+                Inside();
                 break;
             case 5:
+                ChaseLighting();
+                break;
+            case 6:
+                ChaseLighting();
+                break;
+            case 7:
+                Outside();
+                break;
+            case 8:
                 MusicManager.Instance.PlayMusic("Menus");
                 Outside();
                 break;
@@ -80,5 +91,35 @@ public class SceneUpdater : MonoBehaviour
         dayNightCycle.lightsStatus = true;
         dayNightCycle.FindGlobalLight();
         dayNightCycle.FindMapLights();
+    }
+
+    private void ChaseLighting()
+    {
+        if (stopDayCycle)
+        {
+            dayNightCycle.cycleTimer = false;
+        }
+
+        if (debug)
+        {
+            dayNightCycle.lightsStatus = false;
+        }
+        else
+        {
+            dayNightCycle.lightsStatus = true;
+        }
+        dayNightCycle.FindGlobalLight();
+        dayNightCycle.FindMapLights();
+        dayNightCycle.ChaseLighting();
+    }
+
+    public void MainMenu()
+    {
+        SceneManager.LoadScene(0);
+    }
+
+    public void RestartGame()
+    {
+        SceneManager.LoadScene(1);
     }
 }

@@ -15,6 +15,7 @@ TagManager:
   - BGM
   - DayCycle
   - NPC
+  - Global
   layers:
   - Default
   - TransparentFX
