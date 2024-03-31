@@ -331,14 +331,6 @@ PrefabInstance:
       propertyPath: m_ColliderPaths.Array.data[0].m_Collider
       value: 
       objectReference: {fileID: 703101294}
-    - target: {fileID: -5732321704270190497, guid: 29437d618d763e34d8f7fa74b04d6de5, type: 3}
-      propertyPath: m_ColliderPaths.Array.size
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: -5732321704270190497, guid: 29437d618d763e34d8f7fa74b04d6de5, type: 3}
-      propertyPath: m_ColliderPaths.Array.data[0].m_Collider
-      value: 
-      objectReference: {fileID: 1487750300}
     - target: {fileID: -3349940381859920089, guid: 29437d618d763e34d8f7fa74b04d6de5, type: 3}
       propertyPath: m_ColliderPaths.Array.size
       value: 1
@@ -351,14 +343,6 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 583119923312355146, guid: 29437d618d763e34d8f7fa74b04d6de5, type: 3}
-      propertyPath: m_ColliderPaths.Array.size
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 583119923312355146, guid: 29437d618d763e34d8f7fa74b04d6de5, type: 3}
-      propertyPath: m_ColliderPaths.Array.data[0].m_Collider
-      value: 
-      objectReference: {fileID: 1487750299}
     - target: {fileID: 2920374451624656010, guid: 29437d618d763e34d8f7fa74b04d6de5, type: 3}
       propertyPath: m_ColliderPaths.Array.size
       value: 1
@@ -797,17 +781,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 2939045451470857410, guid: 8fac40e1f30b7324982b7c6f8c065611, type: 3}
   m_PrefabInstance: {fileID: 1090557269}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &1090557272 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 3205127157685085916, guid: 8fac40e1f30b7324982b7c6f8c065611, type: 3}
-  m_PrefabInstance: {fileID: 1090557269}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1090557270}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 25fb867d2049d41f597aefdd6b19f598, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &1096478267
 GameObject:
   m_ObjectHideFlags: 0
@@ -837,106 +810,11 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 1300289575}
   - {fileID: 1604935776}
   - {fileID: 1884360502}
   - {fileID: 703101296}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &1300289574
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1300289575}
-  - component: {fileID: 1300289578}
-  - component: {fileID: 1300289577}
-  m_Layer: 0
-  m_Name: EntranceTextBox
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &1300289575
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1300289574}
-  serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 3, y: -3.5, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 1096478268}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1300289577
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1300289574}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f7f0b5b53787c014c9541adc218783cf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  flowchart: {fileID: 1828649934}
-  dialogueBlockName: Entrance
-  isOneShot: 1
-  hasTriggered: 0
---- !u!61 &1300289578
-BoxCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1300289574}
-  m_Enabled: 1
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_ForceSendLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ForceReceiveLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ContactCaptureLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_CallbackLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_IsTrigger: 1
-  m_UsedByEffector: 0
-  m_UsedByComposite: 0
-  m_Offset: {x: 0, y: -0.3}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0, y: 0}
-    oldSize: {x: 0, y: 0}
-    newSize: {x: 0, y: 0}
-    adaptiveTilingThreshold: 0
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
-  serializedVersion: 2
-  m_Size: {x: 2, y: 1.5}
-  m_EdgeRadius: 0
 --- !u!1 &1440493331
 GameObject:
   m_ObjectHideFlags: 0
@@ -1113,16 +991,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ac0b09e7857660247b1477e93731de29, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!19719996 &1487750299 stripped
-TilemapCollider2D:
-  m_CorrespondingSourceObject: {fileID: -3925448169571802583, guid: 29437d618d763e34d8f7fa74b04d6de5, type: 3}
-  m_PrefabInstance: {fileID: 703101293}
-  m_PrefabAsset: {fileID: 0}
---- !u!19719996 &1487750300 stripped
-TilemapCollider2D:
-  m_CorrespondingSourceObject: {fileID: -2921474025315257538, guid: 29437d618d763e34d8f7fa74b04d6de5, type: 3}
-  m_PrefabInstance: {fileID: 703101293}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1604935775
 GameObject:
   m_ObjectHideFlags: 0
@@ -1409,8 +1277,7 @@ GameObject:
   - component: {fileID: 1828649937}
   - component: {fileID: 1828649934}
   - component: {fileID: 1828649936}
-  - component: {fileID: 1828649939}
-  - component: {fileID: 1828649938}
+  - component: {fileID: 1828649935}
   m_Layer: 0
   m_Name: Flowchart
   m_TagString: Untagged
@@ -1431,7 +1298,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 301, y: 73}
+  scrollPos: {x: 0, y: 0}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 400
@@ -1442,8 +1309,7 @@ MonoBehaviour:
     y: -340
     width: 1114
     height: 859
-  selectedBlocks:
-  - {fileID: 1828649936}
+  selectedBlocks: []
   selectedCommands: []
   variables: []
   description: 
@@ -1456,6 +1322,21 @@ MonoBehaviour:
   hideCommands: []
   luaEnvironment: {fileID: 0}
   luaBindingName: flowchart
+--- !u!114 &1828649935
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1828649933}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2f6487d21a03404cb21b245f0242e79, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  parentBlock: {fileID: 1828649936}
+  suppressBlockAutoSelect: 0
+  waitForFrames: 1
 --- !u!114 &1828649936
 MonoBehaviour:
   m_ObjectHideFlags: 2
@@ -1472,17 +1353,15 @@ MonoBehaviour:
     serializedVersion: 2
     x: 67
     y: 70
-    width: 158.8
+    width: 120
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
   itemId: 0
-  blockName: BasementEntrance
+  blockName: New Block
   description: 
-  eventHandler: {fileID: 0}
-  commandList:
-  - {fileID: 1828649939}
-  - {fileID: 1828649938}
+  eventHandler: {fileID: 1828649935}
+  commandList: []
   suppressAllAutoSelections: 0
 --- !u!4 &1828649937
 Transform:
@@ -1499,60 +1378,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1005449520}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1828649938
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1828649933}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 2
-  indentLevel: 0
-  storyText: It's such a mess down here...
-  description: 
-  character: {fileID: 1090557272}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
---- !u!114 &1828649939
-MonoBehaviour:
-  m_ObjectHideFlags: 2
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1828649933}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 1
-  indentLevel: 0
-  storyText: What is this place?
-  description: 
-  character: {fileID: 1090557272}
-  portrait: {fileID: 0}
-  voiceOverClip: {fileID: 0}
-  showAlways: 1
-  showCount: 1
-  extendPrevious: 0
-  fadeWhenDone: 1
-  waitForClick: 1
-  stopVoiceover: 1
-  waitForVO: 0
-  setSayDialog: {fileID: 0}
 --- !u!1 &1883860651
 GameObject:
   m_ObjectHideFlags: 0

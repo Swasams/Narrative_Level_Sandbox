@@ -51,7 +51,7 @@ public class SceneUpdater : MonoBehaviour
                 Inside();
                 break;
             case 4:
-                Inside();
+                DarkLighting();
                 break;
             case 5:
                 ChaseLighting();
@@ -91,6 +91,19 @@ public class SceneUpdater : MonoBehaviour
         dayNightCycle.lightsStatus = true;
         dayNightCycle.FindGlobalLight();
         dayNightCycle.FindMapLights();
+    }
+
+    private void DarkLighting()
+    {
+        if (stopDayCycle)
+        {
+            dayNightCycle.cycleTimer = false;
+        }
+
+        dayNightCycle.lightsStatus = true;
+        dayNightCycle.FindGlobalLight();
+        dayNightCycle.FindMapLights();
+        dayNightCycle.DarkLighting();
     }
 
     private void ChaseLighting()
