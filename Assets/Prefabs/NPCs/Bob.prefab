@@ -90,6 +90,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f7f0b5b53787c014c9541adc218783cf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  dialogueObjects: []
   flowchart: {fileID: 0}
   dialogueBlockNames: []
   isOneShot: 0
@@ -102,6 +103,37 @@ MonoBehaviour:
   onEnd:
     m_PersistentCalls:
       m_Calls: []
+--- !u!1 &1718738243228761988
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8961137358936234722}
+  m_Layer: 10
+  m_Name: AttackPoint
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8961137358936234722
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1718738243228761988}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: -0.4, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 5445583352553739862}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &7621337867027204190
 GameObject:
   m_ObjectHideFlags: 0
@@ -243,6 +275,7 @@ Transform:
   m_Children:
   - {fileID: 1582008370091754868}
   - {fileID: 4011392162926330001}
+  - {fileID: 8961137358936234722}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!50 &5877634892126001391
@@ -326,8 +359,8 @@ MonoBehaviour:
   playerLayer:
     serializedVersion: 2
     m_Bits: 8
-  attackRadiusRef: {fileID: 5445583352553739862}
-  attackPoint: {fileID: 5445583352553739862}
+  attackRadiusRef: {fileID: 8961137358936234722}
+  attackPoint: {fileID: 8961137358936234722}
   attackCircleRadius: 2
   attackRange: 2
   canAttack: 0

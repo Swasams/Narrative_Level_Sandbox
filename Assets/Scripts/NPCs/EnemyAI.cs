@@ -100,7 +100,7 @@ public class EnemyAI : MonoBehaviour
             attackDelay += Time.deltaTime;
         }
 
-        if (attackDelay >= 3)
+        if (attackDelay >= 10)
         {
             canAttack = true;
             attackDelay = 0;
