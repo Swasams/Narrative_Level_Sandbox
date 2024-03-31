@@ -26,6 +26,10 @@ public class EnemyAI : MonoBehaviour
     [Header("Current Scene")]
     [SerializeField] private int currentScene;
 
+    [Header("Controls")]
+    [SerializeField] private bool canMove;
+    [SerializeField] private bool canActivateAttack;
+
     private GameObject player;
 
     private void Awake()
@@ -36,10 +40,18 @@ public class EnemyAI : MonoBehaviour
         target = player.transform;
 
         currentScene = SceneManager.GetActiveScene().buildIndex;
+
+        canMove = true;
+        canActivateAttack = true;
     }
 
     private void FixedUpdate()
     {
+        if (!canMove)
+        {
+            return;
+        }
+
         if (Vector2.Distance(transform.position, target.position) <= followDistance)
         {
             transform.position = Vector2.MoveTowards(transform.position, target.position, speed * Time.deltaTime);
@@ -58,6 +70,11 @@ public class EnemyAI : MonoBehaviour
         }
         else
         {
+            if (!canMove)
+            {
+                return;
+            }
+
             anim.SetBool("Idle", false);
 
             moveDirection = target.position - transform.position;
@@ -71,7 +88,7 @@ public class EnemyAI : MonoBehaviour
         {
             if (canAttack)
             {
-                SlamAttack();
+                QuickAttack();
             }
             else
             {
@@ -91,8 +108,13 @@ public class EnemyAI : MonoBehaviour
         }
     }
 
-    public void SlamAttack()
+    public void QuickAttack()
     {
+        if (!canActivateAttack)
+        {
+            return;
+        }
+
         canAttack = false;
         Attack();
     }
@@ -106,6 +128,62 @@ public class EnemyAI : MonoBehaviour
             Debug.Log("We hit: " + player.name);
 
             SceneManager.LoadScene(currentScene);
+        }
+    }
+
+    public void SetCanMove(bool canMove)
+    {
+        this.canMove = canMove;
+    }
+
+    public void SetCanActivateAttack(bool canActivateAttack)
+    {
+        this.canActivateAttack = canActivateAttack;
+    }
+
+    public void SetLookDirection(Vector2 lookDirectionX, Vector2 lookDirectionY)
+    {
+        anim.SetFloat("LastMoveX", lookDirectionX.x);
+        anim.SetFloat("LastMoveY", lookDirectionY.y);
+    }
+
+    public void SetTarget(Transform newTarget)
+    {
+        target = newTarget;
+    }
+
+    public void SetSpeed(float newSpeed)
+    {
+        speed = newSpeed;
+    }
+
+    public void SetVisiblity(bool isVisible)
+    {
+        if (isVisible)
+        {
+            gameObject.SetActive(true);
+        }
+        else
+        {
+            gameObject.SetActive(false);
+        }
+    }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.CompareTag("Pause"))
+        {
+            canMove = false;
+            canActivateAttack = false;
+        }
+    }
+
+    private void OnTriggerExit2D(Collider2D collision)
+    {
+        if (collision.CompareTag("Pause"))
+        {
+            canMove = true;
+            canActivateAttack = true;
         }
     }
 

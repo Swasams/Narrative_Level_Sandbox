@@ -182,7 +182,7 @@ Transform:
   m_GameObject: {fileID: 9805701}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 1, w: 0}
-  m_LocalPosition: {x: -11.643, y: 0.78, z: 0}
+  m_LocalPosition: {x: -11.643, y: 0.86, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -225,7 +225,7 @@ MonoBehaviour:
     m_Center: {x: 0, y: -0.00000011920929, z: 0}
     m_Extent: {x: 0.9985302, y: 0.99853027, z: 0}
   m_PointLightInnerAngle: 0
-  m_PointLightOuterAngle: 148.19287
+  m_PointLightOuterAngle: 150
   m_PointLightInnerRadius: 0
   m_PointLightOuterRadius: 3
   m_ShapeLightParametricSides: 5
@@ -1491,7 +1491,7 @@ Transform:
   m_GameObject: {fileID: 477704529}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 1, w: 0}
-  m_LocalPosition: {x: 12.35, y: 0.78, z: 0}
+  m_LocalPosition: {x: 12.35, y: 0.8599999, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1534,7 +1534,7 @@ MonoBehaviour:
     m_Center: {x: 0, y: -0.00000011920929, z: 0}
     m_Extent: {x: 0.9985302, y: 0.99853027, z: 0}
   m_PointLightInnerAngle: 0
-  m_PointLightOuterAngle: 148.19287
+  m_PointLightOuterAngle: 150
   m_PointLightInnerRadius: 0
   m_PointLightOuterRadius: 3
   m_ShapeLightParametricSides: 5
@@ -3007,6 +3007,11 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.2, y: 1}
   m_EdgeRadius: 0
+--- !u!4 &1058915797 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3206358566786362726, guid: 1892583cce873b845ad40b522c9cdc60, type: 3}
+  m_PrefabInstance: {fileID: 4141844715525534194}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1070157470
 GameObject:
   m_ObjectHideFlags: 0
@@ -4164,7 +4169,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flowchart: {fileID: 1511763244}
-  dialogueBlockName: Entrance
+  dialogueBlockNames:
+  - Entrance
+  isOneShot: 1
+  isRepeatable: 0
+  hasTriggered: 0
+  conversationCount: 1
+  onTrigger:
+    m_PersistentCalls:
+      m_Calls: []
+  onEnd:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!61 &1347921357
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -4386,8 +4402,9 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 457378877}
   - {fileID: 1347921355}
+  - {fileID: 457378877}
+  - {fileID: 1058915797}
   - {fileID: 1564073516}
   - {fileID: 6326339128258059388}
   - {fileID: 1437844864}
@@ -4760,7 +4777,8 @@ MonoBehaviour:
     y: -340
     width: 1114
     height: 859
-  selectedBlocks: []
+  selectedBlocks:
+  - {fileID: 1511763249}
   selectedCommands: []
   variables: []
   description: 
@@ -6029,7 +6047,7 @@ Transform:
   m_GameObject: {fileID: 1780001316}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 1, w: 0}
-  m_LocalPosition: {x: -3.63, y: 0.78, z: 0}
+  m_LocalPosition: {x: -3.63, y: 0.8599999, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -6072,7 +6090,7 @@ MonoBehaviour:
     m_Center: {x: 0, y: -0.00000011920929, z: 0}
     m_Extent: {x: 0.9985302, y: 0.99853027, z: 0}
   m_PointLightInnerAngle: 0
-  m_PointLightOuterAngle: 148.19287
+  m_PointLightOuterAngle: 150
   m_PointLightInnerRadius: 0
   m_PointLightOuterRadius: 3
   m_ShapeLightParametricSides: 5
@@ -6794,7 +6812,7 @@ Transform:
   m_GameObject: {fileID: 2127181994}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 1, w: 0}
-  m_LocalPosition: {x: 4.38, y: 0.78, z: 0}
+  m_LocalPosition: {x: 4.38, y: 0.8599999, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -6837,7 +6855,7 @@ MonoBehaviour:
     m_Center: {x: 0, y: -0.00000011920929, z: 0}
     m_Extent: {x: 0.9985302, y: 0.99853027, z: 0}
   m_PointLightInnerAngle: 0
-  m_PointLightOuterAngle: 148.19287
+  m_PointLightOuterAngle: 150
   m_PointLightInnerRadius: 0
   m_PointLightOuterRadius: 3
   m_ShapeLightParametricSides: 5
@@ -7081,7 +7099,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 0}
+    m_TransformParent: {fileID: 1415121842}
     m_Modifications:
     - target: {fileID: 3206358566786362726, guid: 1892583cce873b845ad40b522c9cdc60, type: 3}
       propertyPath: m_LocalPosition.x
@@ -7101,15 +7119,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3206358566786362726, guid: 1892583cce873b845ad40b522c9cdc60, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 3206358566786362726, guid: 1892583cce873b845ad40b522c9cdc60, type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 3206358566786362726, guid: 1892583cce873b845ad40b522c9cdc60, type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 3206358566786362726, guid: 1892583cce873b845ad40b522c9cdc60, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -7320,5 +7338,4 @@ SceneRoots:
   - {fileID: 1395471715}
   - {fileID: 1573577515}
   - {fileID: 1640675283124731374}
-  - {fileID: 4141844715525534194}
   - {fileID: 1733823059}

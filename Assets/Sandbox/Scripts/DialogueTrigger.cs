@@ -1,5 +1,6 @@
 using UnityEngine;
 using Fungus;
+using UnityEngine.Events;
 
 public class DialogueTrigger : MonoBehaviour
 {
@@ -11,6 +12,9 @@ public class DialogueTrigger : MonoBehaviour
     public bool hasTriggered = false; // Whether the dialogue has been triggered
     public int conversationCount = 1; // Number for what conversation to trigger
 
+    public UnityEvent onTrigger; // Event to trigger when the dialogue is started
+    public UnityEvent onEnd; // Event to trigger when the dialogue ends
+
     void OnTriggerEnter2D(Collider2D other)
     {
         if (other.CompareTag("Player"))
@@ -19,6 +23,12 @@ public class DialogueTrigger : MonoBehaviour
             {
                 // Start the Fungus dialogue sequence
                 flowchart.ExecuteBlock(dialogueBlockNames[0]);
+
+                if (onTrigger != null)
+                {
+                    onTrigger.Invoke();
+                }
+
                 gameObject.SetActive(false);
             }
 
@@ -29,10 +39,21 @@ public class DialogueTrigger : MonoBehaviour
                 // Start the Fungus dialogue sequence
                 flowchart.ExecuteBlock(dialogueBlockNames[conversationCount - 1]);
                 conversationCount++;
+
+                if (onTrigger != null)
+                {
+                    onTrigger.Invoke();
+                }
             }
             else if (!isOneShot && conversationCount > blockCount)
             {
                 hasTriggered = true;
+
+                if (onEnd != null)
+                {
+                    onEnd.Invoke();
+                }
+
                 gameObject.SetActive(false);
             }
 
@@ -40,6 +61,12 @@ public class DialogueTrigger : MonoBehaviour
             {
                 // Start the Fungus dialogue sequence
                 flowchart.ExecuteBlock(dialogueBlockNames[conversationCount - 1]);
+
+                if (onTrigger != null)
+                {
+                    onTrigger.Invoke();
+                }
+
                 conversationCount++;
             }
             else if (isRepeatable && !isOneShot && conversationCount > blockCount)

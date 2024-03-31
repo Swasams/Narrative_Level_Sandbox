@@ -91,7 +91,17 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flowchart: {fileID: 0}
-  dialogueBlockName: StolenGroceries
+  dialogueBlockNames: []
+  isOneShot: 0
+  isRepeatable: 0
+  hasTriggered: 0
+  conversationCount: 1
+  onTrigger:
+    m_PersistentCalls:
+      m_Calls: []
+  onEnd:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &7621337867027204190
 GameObject:
   m_ObjectHideFlags: 0
@@ -210,7 +220,6 @@ GameObject:
   - component: {fileID: 5877634892126001391}
   - component: {fileID: 5123110624475628267}
   - component: {fileID: 7800917513969319868}
-  - component: {fileID: 9184380428354197326}
   - component: {fileID: 3258670830108521834}
   m_Layer: 10
   m_Name: Bob
@@ -324,22 +333,8 @@ MonoBehaviour:
   canAttack: 0
   attackDelay: 0
   currentScene: 0
---- !u!114 &9184380428354197326
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 8936494080286667597}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d388100c3319d95429f9171e58aaa509, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  anim: {fileID: 0}
-  target: {fileID: 0}
-  speed: 0
-  followDistance: 0
+  canMove: 0
+  canActivateAttack: 0
 --- !u!114 &3258670830108521834
 MonoBehaviour:
   m_ObjectHideFlags: 0

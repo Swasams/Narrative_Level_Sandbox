@@ -893,10 +893,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flowchart: {fileID: 1828649934}
-  firstDialogueBlockName: BasementEntrance
-  secondDialogueBlockName: 
+  dialogueBlockNames:
+  - BasementEntrance
   isOneShot: 1
+  isRepeatable: 0
   hasTriggered: 0
+  conversationCount: 1
 --- !u!61 &1300289578
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1579,6 +1581,63 @@ MonoBehaviour:
   stopVoiceover: 1
   waitForVO: 0
   setSayDialog: {fileID: 0}
+--- !u!1001 &1854648001
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 5445583352553739862, guid: 927b6a6ea3c880643bea0190934a7198, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 3.04
+      objectReference: {fileID: 0}
+    - target: {fileID: 5445583352553739862, guid: 927b6a6ea3c880643bea0190934a7198, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -15.49
+      objectReference: {fileID: 0}
+    - target: {fileID: 5445583352553739862, guid: 927b6a6ea3c880643bea0190934a7198, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5445583352553739862, guid: 927b6a6ea3c880643bea0190934a7198, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5445583352553739862, guid: 927b6a6ea3c880643bea0190934a7198, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5445583352553739862, guid: 927b6a6ea3c880643bea0190934a7198, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5445583352553739862, guid: 927b6a6ea3c880643bea0190934a7198, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5445583352553739862, guid: 927b6a6ea3c880643bea0190934a7198, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5445583352553739862, guid: 927b6a6ea3c880643bea0190934a7198, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5445583352553739862, guid: 927b6a6ea3c880643bea0190934a7198, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8936494080286667597, guid: 927b6a6ea3c880643bea0190934a7198, type: 3}
+      propertyPath: m_Name
+      value: Bob
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 927b6a6ea3c880643bea0190934a7198, type: 3}
 --- !u!1 &1883860651
 GameObject:
   m_ObjectHideFlags: 0
@@ -1878,6 +1937,7 @@ SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
   - {fileID: 1090557269}
+  - {fileID: 1854648001}
   - {fileID: 1096478268}
   - {fileID: 1883860652}
   - {fileID: 1005449520}

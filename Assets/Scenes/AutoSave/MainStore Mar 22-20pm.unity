@@ -4169,7 +4169,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flowchart: {fileID: 1511763244}
-  dialogueBlockName: Entrance
+  dialogueBlockNames:
+  - Entrance
+  isOneShot: 1
+  isRepeatable: 0
+  hasTriggered: 0
+  conversationCount: 1
+  onTrigger:
+    m_PersistentCalls:
+      m_Calls: []
+  onEnd:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!61 &1347921357
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -4391,8 +4402,8 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 457378877}
   - {fileID: 1347921355}
+  - {fileID: 457378877}
   - {fileID: 1058915797}
   - {fileID: 1564073516}
   - {fileID: 6326339128258059388}
@@ -4766,7 +4777,8 @@ MonoBehaviour:
     y: -340
     width: 1114
     height: 859
-  selectedBlocks: []
+  selectedBlocks:
+  - {fileID: 1511763249}
   selectedCommands: []
   variables: []
   description: 
