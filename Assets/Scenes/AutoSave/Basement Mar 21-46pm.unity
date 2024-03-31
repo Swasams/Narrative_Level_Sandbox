@@ -893,7 +893,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flowchart: {fileID: 1828649934}
-  firstDialogueBlockName: BasementEntrance
+  firstDialogueBlockName: 
   secondDialogueBlockName: 
   isOneShot: 1
   hasTriggered: 0

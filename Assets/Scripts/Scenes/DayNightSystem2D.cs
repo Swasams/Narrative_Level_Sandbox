@@ -63,6 +63,8 @@ public class DayNightSystem2D : MonoBehaviour
     public bool cycleTimer = true; // enable/disable cycle timer
     [Tooltip("If you want to enable/disable the lights regardless of the day/night cycle use this bool")]
     public bool lightsStatus; // enable/disable cycle timer
+    public bool isChase; // chase state
+    public bool isDark; // basement state
     float percent;
 
     [Header("Day Cycle Persistence")]
@@ -122,7 +124,18 @@ public class DayNightSystem2D : MonoBehaviour
         }
         else
         {
-            InsideLighting();
+            if (isChase)
+            {
+                ChaseLighting();
+            }
+            else if (isDark)
+            {
+                DarkLighting();
+            }
+            else
+            {
+                InsideLighting();
+            }
         }
      }
 

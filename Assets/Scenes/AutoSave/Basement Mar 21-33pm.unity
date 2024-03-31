@@ -454,10 +454,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 186966454960051208, guid: fc7a5e24cc034b1429a00a62d0b04fec, type: 3}
-      propertyPath: isDark
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 5090104135708015505, guid: fc7a5e24cc034b1429a00a62d0b04fec, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.81288373
@@ -588,7 +584,7 @@ Transform:
   m_GameObject: {fileID: 820830804}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 3.05, y: -0.97, z: -10}
+  m_LocalPosition: {x: 3.05, y: -3.43, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -744,7 +740,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2939045451470857410, guid: 8fac40e1f30b7324982b7c6f8c065611, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.97
+      value: -3.43
       objectReference: {fileID: 0}
     - target: {fileID: 2939045451470857410, guid: 8fac40e1f30b7324982b7c6f8c065611, type: 3}
       propertyPath: m_LocalPosition.z
@@ -893,8 +889,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flowchart: {fileID: 1828649934}
-  firstDialogueBlockName: BasementEntrance
-  secondDialogueBlockName: 
+  dialogueBlockName: BasementEntrance
   isOneShot: 1
   hasTriggered: 0
 --- !u!61 &1300289578
@@ -1154,7 +1149,7 @@ Transform:
   m_GameObject: {fileID: 1604935775}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 3.06, y: -12, z: 0}
+  m_LocalPosition: {x: 4, y: -12, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1867,7 +1862,7 @@ Transform:
   m_GameObject: {fileID: 1971547020}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 3.04556, y: -2.49492, z: -10}
+  m_LocalPosition: {x: 3.05, y: -3.43, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
