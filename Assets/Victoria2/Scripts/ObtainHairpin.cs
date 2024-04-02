@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
-//public class ClickableObject : MonoBehaviour
+public class ClickableObject : MonoBehaviour
 {
     public GameObject hairpinPrefab; 
     public Transform canvasTransform; 
