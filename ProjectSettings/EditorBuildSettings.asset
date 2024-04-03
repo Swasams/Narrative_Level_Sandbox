@@ -11,7 +11,7 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/JoshK/JoshScenes/Scenes/TitleScreen.unity
     guid: 8cfea21cfbbea9141b3ec5e80f41d0fa
-  - enabled: 0
+  - enabled: 1
     path: Assets/Victoria2/Victoria.unity
     guid: 674f6ec27206772418bfbb9d5749036a
   - enabled: 0
