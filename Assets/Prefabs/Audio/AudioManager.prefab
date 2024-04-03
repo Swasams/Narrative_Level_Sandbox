@@ -211,18 +211,20 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   tracks:
-  - trackName: Menus
-    clip: {fileID: 8300000, guid: c76e865776bdbc04780edc2e21a8c8ed, type: 3}
+  - trackName: StartMenu
+    clip: {fileID: 8300000, guid: 3dc819d8ad674f746bb4e16d5b696266, type: 3}
   - trackName: Wind
     clip: {fileID: 8300000, guid: 458e9581cbc736248bdaee998765fc42, type: 3}
   - trackName: MainStore
-    clip: {fileID: 0}
+    clip: {fileID: 8300000, guid: c76e865776bdbc04780edc2e21a8c8ed, type: 3}
   - trackName: BackRoom
-    clip: {fileID: 8300000, guid: 458e9581cbc736248bdaee998765fc42, type: 3}
+    clip: {fileID: 8300000, guid: c76e865776bdbc04780edc2e21a8c8ed, type: 3}
   - trackName: Basement
     clip: {fileID: 8300000, guid: 458e9581cbc736248bdaee998765fc42, type: 3}
   - trackName: Chase
-    clip: {fileID: 8300000, guid: 458e9581cbc736248bdaee998765fc42, type: 3}
+    clip: {fileID: 8300000, guid: 337c4383869072643b3aa10f3df90ed7, type: 3}
+  - trackName: EndMenu
+    clip: {fileID: 8300000, guid: d6c9c8492833f6b4c9a65d5be06c1405, type: 3}
 --- !u!114 &5041180191689430930
 MonoBehaviour:
   m_ObjectHideFlags: 0

@@ -36,10 +36,11 @@ public class SceneUpdater : MonoBehaviour
         switch (buildIndex)
         {
             case 0:
-                MusicManager.Instance.PlayMusic("Menus");
+                MusicManager.Instance.PlayMusic("StartMenu");
                 Outside();
                 break;
             case 1:
+                MusicManager.Instance.PlayMusic("Wind");
                 RoomManager.Instance.ResetInts();
                 Outside();
                 break;
@@ -48,22 +49,27 @@ public class SceneUpdater : MonoBehaviour
                 Inside();
                 break;
             case 3:
+                MusicManager.Instance.PlayMusic("BreakRoom");
                 Inside();
                 break;
             case 4:
+                MusicManager.Instance.PlayMusic("Basement");
                 DarkLighting();
                 break;
             case 5:
+                MusicManager.Instance.PlayMusic("Chase");
                 ChaseLighting();
                 break;
             case 6:
+                MusicManager.Instance.PlayMusic("Chase");
                 ChaseLighting();
                 break;
             case 7:
+                MusicManager.Instance.PlayMusic("Chase");
                 Outside();
                 break;
             case 8:
-                MusicManager.Instance.PlayMusic("Menus");
+                MusicManager.Instance.PlayMusic("EndMenu");
                 Outside();
                 break;
         }

@@ -27,6 +27,7 @@ public class RoomManager : MonoBehaviour
 
     public void RoomSwitcher()
     {
+        SoundManager.Instance.PlaySound2D("Door");
         LevelManager.Instance.LoadScene(index, "SquareWipe");
     }
 
