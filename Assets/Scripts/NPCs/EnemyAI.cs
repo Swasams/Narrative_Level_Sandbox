@@ -89,10 +89,6 @@ public class EnemyAI : MonoBehaviour
             {
                 QuickAttack();
             }
-            else
-            {
-                
-            }
         }
 
         if (!canAttack)

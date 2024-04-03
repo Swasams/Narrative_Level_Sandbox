@@ -334,7 +334,7 @@ CircleCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: -0.9}
@@ -384,7 +384,7 @@ MonoBehaviour:
   nameColor: {r: 0.4039216, g: 0.37254903, b: 0.3803922, a: 1}
   soundEffect: {fileID: 0}
   portraits:
-  - {fileID: 0}
+  - {fileID: 20131856, guid: a26b906c4872bfa41b284f0d40c85784, type: 3}
   portraitsFace: 0
   setSayDialog: {fileID: 0}
   description: 
