@@ -4376,7 +4376,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &1347921355
 Transform:
   m_ObjectHideFlags: 0
@@ -5039,6 +5039,10 @@ GameObject:
   - component: {fileID: 1511763283}
   - component: {fileID: 1511763282}
   - component: {fileID: 1511763281}
+  - component: {fileID: 1511763287}
+  - component: {fileID: 1511763286}
+  - component: {fileID: 1511763288}
+  - component: {fileID: 1511763289}
   m_Layer: 0
   m_Name: Flowchart
   m_TagString: Untagged
@@ -5073,7 +5077,7 @@ MonoBehaviour:
   selectedBlocks:
   - {fileID: 1511763256}
   selectedCommands:
-  - {fileID: 1511763277}
+  - {fileID: 1511763264}
   variables:
   - {fileID: 1511763280}
   description: 
@@ -5235,7 +5239,7 @@ MonoBehaviour:
   itemId: 14
   blockName: AlexDistracted
   description: 
-  eventHandler: {fileID: 0}
+  eventHandler: {fileID: 1511763287}
   commandList:
   - {fileID: 1511763284}
   - {fileID: 1511763252}
@@ -5309,7 +5313,7 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 257
-    y: 236
+    y: 233.93814
     width: 119.27834
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
@@ -5324,9 +5328,11 @@ MonoBehaviour:
   - {fileID: 1511763255}
   - {fileID: 1511763267}
   - {fileID: 1511763263}
+  - {fileID: 1511763289}
   - {fileID: 1511763266}
   - {fileID: 1511763265}
   - {fileID: 1511763264}
+  - {fileID: 1511763288}
   - {fileID: 1511763279}
   - {fileID: 1511763285}
   - {fileID: 1511763277}
@@ -5408,7 +5414,7 @@ MonoBehaviour:
   itemId: 15
   blockName: AdamAngry
   description: 
-  eventHandler: {fileID: 0}
+  eventHandler: {fileID: 1511763286}
   commandList:
   - {fileID: 1511763281}
   - {fileID: 1511763259}
@@ -5458,8 +5464,7 @@ MonoBehaviour:
   itemId: 18
   indentLevel: 1
   storyText: Well, I haven't seen anyone, but the only thing over here is the counter
-    and the hallway to the back room but nobady should be able to get back there
-    right now.
+    and the hallway to the back room.
   description: 
   character: {fileID: 7109480482140980805}
   portrait: {fileID: -582746463, guid: 9d83039ca67e4434bb293e5fe3afd919, type: 3}
@@ -5513,7 +5518,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 20
   indentLevel: 1
-  storyText: It's fine, you've done enough. Thank you.
+  storyText: You've done enough. Thank you.
   description: 
   character: {fileID: 763279466523077884}
   portrait: {fileID: -1986994099, guid: c117000224eb04d4089c7988bac40508, type: 3}
@@ -5715,7 +5720,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1511763243}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 050fb9e6e72f442b3b883da8a965bdeb, type: 3}
   m_Name: 
@@ -5736,7 +5741,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1511763243}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 050fb9e6e72f442b3b883da8a965bdeb, type: 3}
   m_Name: 
@@ -6923,6 +6928,90 @@ MonoBehaviour:
   vector3Data:
     vector3Ref: {fileID: 0}
     vector3Val: {x: 0, y: 0, z: 0}
+--- !u!114 &1511763286
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1511763243}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 10eaeba5e91be479e95d4fa48679f549, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  parentBlock: {fileID: 1511763260}
+  suppressBlockAutoSelect: 0
+  targetButton: {fileID: 1139483534}
+--- !u!114 &1511763287
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1511763243}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 10eaeba5e91be479e95d4fa48679f549, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  parentBlock: {fileID: 1511763251}
+  suppressBlockAutoSelect: 0
+  targetButton: {fileID: 1090428514}
+--- !u!114 &1511763288
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1511763243}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 35
+  indentLevel: 1
+  storyText: Hmm... Hey, you! What are you doing over there?
+  description: 
+  character: {fileID: 7109480482140980805}
+  portrait: {fileID: -582746463, guid: 9d83039ca67e4434bb293e5fe3afd919, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 0
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
+--- !u!114 &1511763289
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1511763243}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 36
+  indentLevel: 1
+  storyText: But nobady should be able to get back there right now.
+  description: 
+  character: {fileID: 7109480482140980805}
+  portrait: {fileID: -582746463, guid: 9d83039ca67e4434bb293e5fe3afd919, type: 3}
+  voiceOverClip: {fileID: 0}
+  showAlways: 0
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
 --- !u!1 &1544819952
 GameObject:
   m_ObjectHideFlags: 0
@@ -8828,7 +8917,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8936494080286667597, guid: 927b6a6ea3c880643bea0190934a7198, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
