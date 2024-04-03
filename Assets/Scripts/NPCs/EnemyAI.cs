@@ -152,6 +152,11 @@ public class EnemyAI : MonoBehaviour
         speed = newSpeed;
     }
 
+    public void SetFollowDistance(float newFollowDistance)
+    {
+        followDistance = newFollowDistance;
+    }
+
     public void SetVisiblity(bool isVisible)
     {
         if (isVisible)

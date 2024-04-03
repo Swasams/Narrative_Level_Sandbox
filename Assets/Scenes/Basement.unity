@@ -3415,6 +3415,18 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 1854648003}
+        m_TargetAssemblyTypeName: EnemyAI, Assembly-CSharp
+        m_MethodName: SetFollowDistance
+        m_Mode: 4
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 25
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
       - m_Target: {fileID: 750928044}
         m_TargetAssemblyTypeName: DayNightSystem2D, Assembly-CSharp
         m_MethodName: ChaseLighting
@@ -3967,7 +3979,7 @@ MonoBehaviour:
   selectedBlocks:
   - {fileID: 1828649945}
   selectedCommands:
-  - {fileID: 1828649956}
+  - {fileID: 1828649948}
   variables: []
   description: 
   stepPause: 0
@@ -4229,8 +4241,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 78
-    y: 142
+    x: 77
+    y: 140
     width: 114.8
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
@@ -4594,7 +4606,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3468827036369266514, guid: 927b6a6ea3c880643bea0190934a7198, type: 3}
       propertyPath: onEnd.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
-      value: SetCanActivateAttack
+      value: SetCanMove
       objectReference: {fileID: 0}
     - target: {fileID: 3468827036369266514, guid: 927b6a6ea3c880643bea0190934a7198, type: 3}
       propertyPath: onEnd.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName

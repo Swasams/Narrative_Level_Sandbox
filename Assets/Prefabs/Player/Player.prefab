@@ -5149,7 +5149,7 @@ MonoBehaviour:
   walk: {fileID: 1257987186508566492, guid: be0933a7b7d9583438a20bdc5d951f92, type: 3}
   run: {fileID: 2904068783975007077, guid: be0933a7b7d9583438a20bdc5d951f92, type: 3}
   walkSpeed: 5
-  runSpeed: 10
+  runSpeed: 9
   dust: {fileID: 2000360831805205390}
   canMove: 1
   isPaused: 0

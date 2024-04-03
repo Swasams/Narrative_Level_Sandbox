@@ -30,7 +30,7 @@ EditorBuildSettings:
     path: Assets/Scenes/MSChase.unity
     guid: a847e6b006abfd54fb371ac20392cd58
   - enabled: 1
-    path: Assets/Scenes/ChaseEnding.unity
+    path: Assets/Scenes/EndChase.unity
     guid: 218c1c290a64663438f3571f839109be
   - enabled: 1
     path: Assets/Scenes/EndScreen.unity

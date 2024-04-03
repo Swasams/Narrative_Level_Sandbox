@@ -185,7 +185,7 @@ public class TopDownPlayerMovement : MonoBehaviour
 
         if (context.performed)
         {
-            if (anim.GetBool("Speed") == true)
+            if (anim.GetBool("Running") == true)
             {
                 anim.SetBool("Running", false);
             }
