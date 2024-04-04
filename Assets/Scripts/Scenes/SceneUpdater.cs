@@ -57,15 +57,12 @@ public class SceneUpdater : MonoBehaviour
                 DarkLighting();
                 break;
             case 5:
-                MusicManager.Instance.PlayMusic("Chase");
                 ChaseLighting();
                 break;
             case 6:
-                MusicManager.Instance.PlayMusic("Chase");
                 ChaseLighting();
                 break;
             case 7:
-                MusicManager.Instance.PlayMusic("Chase");
                 Outside();
                 break;
             case 8:
@@ -130,6 +127,11 @@ public class SceneUpdater : MonoBehaviour
         dayNightCycle.FindGlobalLight();
         dayNightCycle.FindMapLights();
         dayNightCycle.ChaseLighting();
+    }
+
+    public void StartChaseMusic()
+    {
+        MusicManager.Instance.PlayMusic("Chase");
     }
 
     public void MainMenu()

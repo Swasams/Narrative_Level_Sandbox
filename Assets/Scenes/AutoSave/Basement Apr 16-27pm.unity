@@ -1072,11 +1072,6 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 3, y: 4}
   m_EdgeRadius: 0
---- !u!1 &534249951 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 7499789851294702909, guid: 1831b317bd683c24eb11116d196d1d01, type: 3}
-  m_PrefabInstance: {fileID: 678032971}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &570372863
 GameObject:
   m_ObjectHideFlags: 0
@@ -4521,8 +4516,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 23
   indentLevel: 0
-  targetObject: {fileID: 534249951}
-  methodName: StartChaseMusic
+  targetObject: {fileID: 1557646884}
+  methodName: EndDialogue
   delay: 0
 --- !u!1001 &1854648001
 PrefabInstance:
