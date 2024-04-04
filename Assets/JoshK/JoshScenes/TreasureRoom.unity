@@ -465,7 +465,7 @@ MonoBehaviour:
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
-  itemId: 14
+  itemId: 25
   blockName: New Block (Copy) (Copy) (Copy) (Copy) (Copy)
   description: 
   eventHandler: {fileID: 341033262}
@@ -508,7 +508,7 @@ MonoBehaviour:
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
-  itemId: 14
+  itemId: 24
   blockName: New Block (Copy) (Copy) (Copy) (Copy)
   description: 
   eventHandler: {fileID: 341033264}
@@ -551,7 +551,7 @@ MonoBehaviour:
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
-  itemId: 14
+  itemId: 23
   blockName: New Block (Copy) (Copy) (Copy)
   description: 
   eventHandler: {fileID: 341033266}
@@ -594,7 +594,7 @@ MonoBehaviour:
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
-  itemId: 14
+  itemId: 22
   blockName: New Block (Copy) (Copy)
   description: 
   eventHandler: {fileID: 341033268}
@@ -637,7 +637,7 @@ MonoBehaviour:
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
-  itemId: 14
+  itemId: 21
   blockName: New Block (Copy)
   description: 
   eventHandler: {fileID: 341033270}
@@ -2136,7 +2136,7 @@ BoxCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}

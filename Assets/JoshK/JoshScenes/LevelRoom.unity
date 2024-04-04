@@ -581,8 +581,9 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 851842234}
-  selectedCommands: []
+  - {fileID: 851842217}
+  selectedCommands:
+  - {fileID: 851842219}
   variables: []
   description: 
   stepPause: 0
@@ -954,7 +955,7 @@ MonoBehaviour:
   indentLevel: 0
   _sceneName:
     stringRef: {fileID: 0}
-    stringVal: CollectionRoom
+    stringVal: Collection Room
   loadingImage: {fileID: 0}
   sceneNameOLD: 
 --- !u!114 &851842217
@@ -971,7 +972,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: -151.50212
+    x: -152.81792
     y: 163.64934
     width: 109.21051
     height: 40
