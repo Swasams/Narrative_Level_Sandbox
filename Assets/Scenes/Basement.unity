@@ -3062,6 +3062,83 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1883860652}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1440772841
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1440772842}
+  - component: {fileID: 1440772843}
+  m_Layer: 0
+  m_Name: Door
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1440772842
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1440772841}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 2.98, y: 0.49, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1884360502}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &1440772843
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1440772841}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 4.55, y: 1}
+  m_EdgeRadius: 0
 --- !u!1 &1462476571
 GameObject:
   m_ObjectHideFlags: 0
@@ -3396,17 +3473,17 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 1
         m_CallState: 2
-      - m_Target: {fileID: 1854648003}
-        m_TargetAssemblyTypeName: EnemyAI, Assembly-CSharp
-        m_MethodName: SetCanActivateAttack
-        m_Mode: 6
+      - m_Target: {fileID: 750928044}
+        m_TargetAssemblyTypeName: DayNightSystem2D, Assembly-CSharp
+        m_MethodName: ChaseLighting
+        m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
-          m_BoolArgument: 1
+          m_BoolArgument: 0
         m_CallState: 2
       - m_Target: {fileID: 1854648003}
         m_TargetAssemblyTypeName: EnemyAI, Assembly-CSharp
@@ -3429,18 +3506,6 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 25
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
-      - m_Target: {fileID: 750928044}
-        m_TargetAssemblyTypeName: DayNightSystem2D, Assembly-CSharp
-        m_MethodName: ChaseLighting
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
@@ -3983,9 +4048,8 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 1828649945}
-  selectedCommands:
-  - {fileID: 1828649958}
+  - {fileID: 1828649940}
+  selectedCommands: []
   variables: []
   description: 
   stepPause: 0
@@ -4220,7 +4284,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 4
   indentLevel: 0
-  storyText: So, you just couldn't stay just stay away, could you?
+  storyText: So, you just couldn't stay away, could you?
   description: 
   character: {fileID: 1854648009}
   portrait: {fileID: 0}
@@ -4247,7 +4311,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 77
+    x: 78
     y: 140
     width: 114.8
     height: 40
@@ -4267,8 +4331,8 @@ MonoBehaviour:
   - {fileID: 1828649956}
   - {fileID: 1828649950}
   - {fileID: 1828649949}
-  - {fileID: 1828649948}
   - {fileID: 1828649958}
+  - {fileID: 1828649948}
   - {fileID: 1828649947}
   suppressAllAutoSelections: 0
 --- !u!114 &1828649946
@@ -4522,7 +4586,7 @@ MonoBehaviour:
   itemId: 23
   indentLevel: 0
   targetObject: {fileID: 534249951}
-  methodName: StartChaseMusic
+  methodName: StartChase
   delay: 0
 --- !u!1001 &1854648001
 PrefabInstance:
@@ -4790,7 +4854,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7800917513969319868, guid: 927b6a6ea3c880643bea0190934a7198, type: 3}
       propertyPath: speed
-      value: 4
+      value: 3.5
       objectReference: {fileID: 0}
     - target: {fileID: 7800917513969319868, guid: 927b6a6ea3c880643bea0190934a7198, type: 3}
       propertyPath: target
@@ -4806,7 +4870,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7800917513969319868, guid: 927b6a6ea3c880643bea0190934a7198, type: 3}
       propertyPath: followDistance
-      value: 4.5
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 7800917513969319868, guid: 927b6a6ea3c880643bea0190934a7198, type: 3}
       propertyPath: attackCircleRadius
@@ -4916,6 +4980,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
+  - {fileID: 1440772842}
   - {fileID: 372458371}
   - {fileID: 1462476572}
   - {fileID: 52095922}

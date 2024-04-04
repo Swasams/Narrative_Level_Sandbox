@@ -5229,9 +5229,8 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 1511763256}
-  selectedCommands:
-  - {fileID: 1511763278}
+  - {fileID: 1511763260}
+  selectedCommands: []
   variables:
   - {fileID: 1511763280}
   description: 
@@ -5258,7 +5257,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 3
   indentLevel: 1
-  storyText: Could You Go Some Where Else? I'm Busy.
+  storyText: Could you go somewhere Else? I'mbusy.
   description: 
   character: {fileID: 6321521373855755174}
   portrait: {fileID: -1267034007, guid: 472b864e2d69e4d42ac36b8205664f77, type: 3}
@@ -5532,7 +5531,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 9
   indentLevel: 1
-  storyText: I'm telling you, I didn't stealing anything
+  storyText: I'm telling you, I didn't steal anything
   description: 
   character: {fileID: 6321521373855755174}
   portrait: {fileID: -1267034007, guid: 472b864e2d69e4d42ac36b8205664f77, type: 3}
@@ -5753,7 +5752,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 22
   indentLevel: 1
-  storyText: And I'm telling you that I saaw you do it.
+  storyText: And I'm telling you that I saw you do it.
   description: 
   character: {fileID: 7109480482140980805}
   portrait: {fileID: -582746463, guid: 9d83039ca67e4434bb293e5fe3afd919, type: 3}
@@ -7153,7 +7152,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 36
   indentLevel: 1
-  storyText: But nobady should be able to get back there right now.
+  storyText: But nobody should be able to get back there right now.
   description: 
   character: {fileID: 7109480482140980805}
   portrait: {fileID: -582746463, guid: 9d83039ca67e4434bb293e5fe3afd919, type: 3}

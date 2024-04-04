@@ -129,9 +129,10 @@ public class SceneUpdater : MonoBehaviour
         dayNightCycle.ChaseLighting();
     }
 
-    public void StartChaseMusic()
+    public void StartChase()
     {
         MusicManager.Instance.PlayMusic("Chase");
+        ChaseLighting();
     }
 
     public void MainMenu()

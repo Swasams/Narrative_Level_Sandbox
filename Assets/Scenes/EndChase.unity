@@ -3370,12 +3370,17 @@ MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 7800917513969319868, guid: 927b6a6ea3c880643bea0190934a7198, type: 3}
   m_PrefabInstance: {fileID: 1131430742}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
+  m_GameObject: {fileID: 1131430744}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6c6e4216e5e10064b83434a481a849c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!1 &1131430744 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8936494080286667597, guid: 927b6a6ea3c880643bea0190934a7198, type: 3}
+  m_PrefabInstance: {fileID: 1131430742}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1198993318
 GameObject:
   m_ObjectHideFlags: 0
@@ -3452,6 +3457,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1290669044}
   - component: {fileID: 1290669043}
+  - component: {fileID: 1290669046}
   - component: {fileID: 1290669045}
   m_Layer: 0
   m_Name: EventSystem
@@ -3520,6 +3526,26 @@ MonoBehaviour:
   m_DeselectOnBackgroundClick: 1
   m_PointerBehavior: 0
   m_CursorLockBehavior: 0
+--- !u!114 &1290669046
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1290669041}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f231c4fb786f3946a6b90b886c48677, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_SendPointerHoverToParent: 1
+  m_HorizontalAxis: Horizontal
+  m_VerticalAxis: Vertical
+  m_SubmitButton: Submit
+  m_CancelButton: Cancel
+  m_InputActionsPerSecond: 10
+  m_RepeatDelay: 0.5
+  m_ForceModuleActive: 0
 --- !u!1 &1300821093
 GameObject:
   m_ObjectHideFlags: 0
@@ -4027,7 +4053,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 22
   indentLevel: 0
-  targetObject: {fileID: 0}
+  targetObject: {fileID: 1131430744}
   methodName: QuickAttack
   delay: 0
 --- !u!114 &1444938609
